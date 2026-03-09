@@ -1,6 +1,5 @@
 # SkillWeave: A Semantic Composition Framework for Multi-Agent Skill Orchestration in Enterprise Environments
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 [![Python 3.9+](https://img.shields.io/badge/python-3.9+-blue.svg)](https://www.python.org/downloads/)
 
 > **Paper**: *SkillWeave: A Semantic Composition Framework for Multi-Agent Skill Orchestration in Enterprise Environments*
@@ -168,7 +167,3 @@ This paper extends the governance architecture established in:
 ```
 
 ---
-
-## License
-
-MIT License. See [LICENSE](LICENSE) for details.
