@@ -42,7 +42,7 @@ class SemanticSkillCompositionAlgebra:
         ("broad_access", "least_privilege"): 0.85,
         ("fast_approval", "thorough_review"): 0.65,
     }
-    SEMANTIC_CONFLICT_THRESHOLD = 0.60
+    SEMANTIC_CONFLICT_THRESHOLD = 0.65
 
     def __init__(self, seed: int = 42):
         self.seed = seed

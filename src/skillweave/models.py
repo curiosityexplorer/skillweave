@@ -94,6 +94,34 @@ class TypeSchema:
 
         return (len(issues) == 0, issues)
 
+    def compatibility_score(self, other: "TypeSchema") -> float:
+        """
+        Return a 0.0-1.0 compatibility score between output (self) and input (other).
+        Used for runtime failure probability estimation in H4.
+        1.0 = fully compatible, 0.0 = completely incompatible.
+        """
+        if not other.fields:
+            return 1.0
+        other_fields = other.field_types()
+        self_fields = self.field_types()
+        matched = 0
+        for name, typ in other_fields.items():
+            if name in self_fields and self_fields[name] == typ:
+                matched += 1
+            elif name in self_fields:
+                matched += 0.3  # Type mismatch but field exists
+        base_score = matched / len(other_fields) if other_fields else 1.0
+
+        # Domain affinity: skills sharing semantic annotations are
+        # likely from the same domain and share implicit data models
+        # (e.g., patient_id in healthcare, portfolio_id in finance)
+        shared_annotations = self.annotations & other.annotations
+        if shared_annotations:
+            affinity_bonus = min(0.45, len(shared_annotations) * 0.20)
+            base_score = min(1.0, base_score + affinity_bonus)
+
+        return base_score
+
 
 # ─── Policy Model ────────────────────────────────────────────────────────────
 

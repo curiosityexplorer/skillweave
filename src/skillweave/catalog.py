@@ -383,10 +383,10 @@ fs_skills_trading = [
         input_schema=_ts([("order_spec", B.JSON_OBJECT)]),
         output_schema=_ts([("approved", B.BOOLEAN), ("compliance_notes", B.JSON_ARRAY)]),
         required_permissions=frozenset({"read:compliance_rules", "read:trades"}),
-        policies=frozenset({POLICIES["pol-sox-read"]}),
+        policies=frozenset({POLICIES["pol-trade-approval"], POLICIES["pol-sox-read"]}),
         data_boundary=BOUNDARIES["fin-trading"],
         version=SkillVersion(1, 0, 0),
-        semantic_tags=frozenset({"trading", "compliance", "conservative_compliance", "thorough_review"}),
+        semantic_tags=frozenset({"trading", "compliance", "conservative_compliance", "thorough_review", "manual_approval"}),
         min_authority_level=AL.DEPARTMENT,
     ),
     AgentSkill(

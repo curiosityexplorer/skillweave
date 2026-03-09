@@ -1,23 +1,23 @@
 {
   "B1_ungoverned": {
-    "data_boundary_pct": 45.6,
-    "authority_escalation_pct": 12.2,
-    "compliance_pct": 32.8,
-    "total_violation_pct": 90.6,
+    "data_boundary_pct": 46.6,
+    "authority_escalation_pct": 11.4,
+    "compliance_pct": 38.4,
+    "total_violation_pct": 96.4,
     "total_tested": 500
   },
   "B2_static_policy": {
-    "data_boundary_pct": 20.0,
-    "authority_escalation_pct": 8.4,
-    "compliance_pct": 17.8,
-    "total_violation_pct": 46.2,
+    "data_boundary_pct": 23.2,
+    "authority_escalation_pct": 7.0,
+    "compliance_pct": 19.0,
+    "total_violation_pct": 49.2,
     "total_tested": 500
   },
   "B3_agent_local": {
     "data_boundary_pct": 0.0,
-    "authority_escalation_pct": 12.2,
+    "authority_escalation_pct": 11.4,
     "compliance_pct": 0.0,
-    "total_violation_pct": 12.2,
+    "total_violation_pct": 11.4,
     "total_tested": 500
   },
   "SkillWeave": {
