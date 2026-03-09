@@ -1,0 +1,11 @@
+# SkillWeave: Semantic Composition Framework for Multi-Agent Skill Orchestration
+# No external dependencies required for core framework and experiments.
+# Python 3.9+ required.
+
+# Optional: for running extended experiments with LLM-based semantic analysis
+# openai>=1.0.0
+# anthropic>=0.20.0
+
+# Development/testing
+# pytest>=7.0.0
+# pytest-cov>=4.0.0

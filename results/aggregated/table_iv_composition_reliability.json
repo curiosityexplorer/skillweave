@@ -1,0 +1,38 @@
+{
+  "B1_ungoverned": {
+    "financial_services_pct": 0.0,
+    "healthcare_pct": 8.0,
+    "overall_pct": 4.1,
+    "fs_success": 0,
+    "fs_total": 24,
+    "hc_success": 2,
+    "hc_total": 25
+  },
+  "B2_static_policy": {
+    "financial_services_pct": 100.0,
+    "healthcare_pct": 100.0,
+    "overall_pct": 100.0,
+    "fs_success": 24,
+    "fs_total": 24,
+    "hc_success": 25,
+    "hc_total": 25
+  },
+  "B3_agent_local": {
+    "financial_services_pct": 100.0,
+    "healthcare_pct": 100.0,
+    "overall_pct": 100.0,
+    "fs_success": 24,
+    "fs_total": 24,
+    "hc_success": 25,
+    "hc_total": 25
+  },
+  "SkillWeave": {
+    "financial_services_pct": 100.0,
+    "healthcare_pct": 100.0,
+    "overall_pct": 100.0,
+    "fs_success": 24,
+    "fs_total": 24,
+    "hc_success": 25,
+    "hc_total": 25
+  }
+}

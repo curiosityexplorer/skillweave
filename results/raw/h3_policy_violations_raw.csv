@@ -1,0 +1,2001 @@
+config,skill_ids,principal,true_violations,escaped_violations
+B1_ungoverned,"[""fs-rc-04"", ""fs-rc-01"", ""fs-pa-02"", ""fs-pa-04""]",dept-compliance-fin,1,1
+B1_ungoverned,"[""fs-rc-01"", ""hc-da-01""]",dept-portfolio,1,2
+B1_ungoverned,"[""hc-da-02"", ""hc-da-04"", ""hc-da-01""]",dept-diagnostics,0,2
+B1_ungoverned,"[""fs-ca-03"", ""fs-ca-04"", ""fs-ca-02""]",dept-advisory,0,2
+B1_ungoverned,"[""fs-pa-03"", ""hc-tp-03""]",dept-portfolio,1,3
+B1_ungoverned,"[""fs-rc-02"", ""hc-da-04""]",dept-portfolio,2,5
+B1_ungoverned,"[""hc-hc-01"", ""hc-hc-04"", ""hc-tp-04"", ""hc-tp-01""]",dept-compliance-hc,0,5
+B1_ungoverned,"[""fs-rc-03"", ""fs-rc-04"", ""fs-rc-01""]",dept-compliance-fin,1,6
+B1_ungoverned,"[""fs-ar-02"", ""hc-hc-03""]",dept-portfolio,1,7
+B1_ungoverned,"[""fs-ca-01"", ""fs-ca-02"", ""fs-ra-04"", ""fs-ra-03""]",dept-advisory,3,10
+B1_ungoverned,"[""hc-mr-02"", ""hc-mr-01"", ""hc-mr-03""]",dept-records,0,10
+B1_ungoverned,"[""fs-te-02"", ""fs-te-04"", ""fs-pa-01"", ""fs-pa-02""]",dept-trading,2,12
+B1_ungoverned,"[""hc-cd-01"", ""hc-cd-02"", ""hc-cd-03""]",dept-clinical,0,12
+B1_ungoverned,"[""fs-pa-02"", ""fs-pa-03"", ""fs-rc-04"", ""fs-rc-03""]",dept-portfolio,1,13
+B1_ungoverned,"[""fs-ra-04"", ""fs-ra-02"", ""fs-ra-03""]",dept-risk,0,13
+B1_ungoverned,"[""fs-pa-03"", ""fs-pa-04"", ""fs-pa-01""]",dept-portfolio,0,13
+B1_ungoverned,"[""hc-tp-01"", ""hc-tp-02"", ""hc-hc-03"", ""hc-hc-04""]",dept-treatment,0,13
+B1_ungoverned,"[""fs-ra-03"", ""fs-ra-01"", ""fs-ra-02""]",dept-risk,0,13
+B1_ungoverned,"[""hc-da-02"", ""hc-da-03"", ""hc-tp-04"", ""hc-tp-02""]",dept-diagnostics,0,13
+B1_ungoverned,"[""fs-ra-03"", ""hc-hc-04""]",dept-portfolio,1,14
+B1_ungoverned,"[""hc-tp-01"", ""hc-tp-02"", ""hc-iv-04"", ""hc-iv-02""]",dept-treatment,6,20
+B1_ungoverned,"[""fs-pa-04"", ""hc-tp-02""]",dept-portfolio,1,21
+B1_ungoverned,"[""hc-iv-02"", ""hc-iv-03"", ""hc-cd-02"", ""hc-cd-03""]",dept-insurance,3,24
+B1_ungoverned,"[""fs-ca-02"", ""fs-ca-03"", ""fs-ca-04""]",dept-advisory,0,24
+B1_ungoverned,"[""fs-ca-01"", ""fs-ca-03"", ""fs-rc-02"", ""fs-rc-04""]",dept-advisory,3,27
+B1_ungoverned,"[""fs-ra-04"", ""fs-ra-01"", ""fs-ra-02""]",dept-risk,0,27
+B1_ungoverned,"[""fs-pa-02"", ""fs-pa-03"", ""fs-ar-01"", ""fs-ar-04""]",dept-portfolio,1,28
+B1_ungoverned,"[""fs-pa-02"", ""fs-pa-03"", ""fs-pa-04""]",dept-portfolio,0,28
+B1_ungoverned,"[""fs-ra-04"", ""fs-ra-01"", ""fs-ca-04"", ""fs-ca-03""]",dept-risk,1,29
+B1_ungoverned,"[""fs-ca-02"", ""hc-hc-02""]",dept-portfolio,1,30
+B1_ungoverned,"[""hc-hc-03"", ""hc-hc-01"", ""hc-hc-04""]",dept-compliance-hc,0,30
+B1_ungoverned,"[""fs-te-04"", ""fs-te-03"", ""fs-ar-03"", ""fs-ar-04""]",dept-trading,1,31
+B1_ungoverned,"[""fs-pa-02"", ""fs-pa-01"", ""fs-ar-02"", ""fs-ar-03""]",dept-portfolio,1,32
+B1_ungoverned,"[""hc-da-01"", ""hc-da-04"", ""hc-da-02""]",dept-diagnostics,0,32
+B1_ungoverned,"[""fs-ca-02"", ""fs-ca-03"", ""fs-ca-01""]",dept-advisory,0,32
+B1_ungoverned,"[""hc-iv-01"", ""hc-iv-03"", ""hc-iv-04""]",dept-insurance,0,32
+B1_ungoverned,"[""fs-rc-02"", ""hc-tp-04""]",dept-portfolio,2,34
+B1_ungoverned,"[""fs-ca-04"", ""hc-mr-03""]",dept-portfolio,1,35
+B1_ungoverned,"[""hc-iv-01"", ""hc-iv-04"", ""hc-iv-03""]",dept-insurance,0,35
+B1_ungoverned,"[""fs-ca-03"", ""fs-ca-04"", ""fs-ca-01""]",dept-advisory,0,35
+B1_ungoverned,"[""fs-ar-03"", ""hc-hc-01""]",dept-portfolio,1,36
+B1_ungoverned,"[""hc-tp-02"", ""hc-tp-03"", ""hc-cd-04"", ""hc-cd-03""]",dept-treatment,0,36
+B1_ungoverned,"[""hc-hc-04"", ""hc-hc-03"", ""hc-hc-02""]",dept-compliance-hc,0,36
+B1_ungoverned,"[""fs-ra-03"", ""hc-da-03""]",dept-portfolio,1,37
+B1_ungoverned,"[""fs-ar-02"", ""fs-ar-01"", ""fs-ar-04""]",dept-audit,0,37
+B1_ungoverned,"[""hc-hc-04"", ""hc-hc-01"", ""hc-hc-03""]",dept-compliance-hc,0,37
+B1_ungoverned,"[""hc-da-04"", ""hc-da-02"", ""hc-mr-02"", ""hc-mr-03""]",dept-diagnostics,1,38
+B1_ungoverned,"[""fs-ca-02"", ""fs-ca-01"", ""fs-ca-03""]",dept-advisory,0,38
+B1_ungoverned,"[""fs-rc-02"", ""fs-rc-04"", ""fs-rc-01""]",dept-compliance-fin,0,38
+B1_ungoverned,"[""hc-mr-01"", ""hc-mr-03"", ""hc-mr-02""]",dept-records,0,38
+B1_ungoverned,"[""hc-da-03"", ""hc-da-02"", ""hc-mr-02"", ""hc-mr-03""]",dept-diagnostics,1,39
+B1_ungoverned,"[""fs-ca-02"", ""fs-ca-04"", ""fs-ca-03""]",dept-advisory,0,39
+B1_ungoverned,"[""hc-hc-02"", ""hc-hc-01"", ""hc-hc-03""]",dept-compliance-hc,0,39
+B1_ungoverned,"[""fs-ar-03"", ""fs-ar-04"", ""fs-te-02"", ""fs-te-03""]",dept-audit,2,41
+B1_ungoverned,"[""hc-hc-03"", ""hc-hc-01"", ""hc-hc-02""]",dept-compliance-hc,0,41
+B1_ungoverned,"[""hc-hc-02"", ""hc-hc-04"", ""hc-hc-03""]",dept-compliance-hc,0,41
+B1_ungoverned,"[""fs-ra-01"", ""hc-hc-04""]",dept-portfolio,1,42
+B1_ungoverned,"[""hc-da-02"", ""hc-da-03"", ""hc-tp-02"", ""hc-tp-04""]",dept-diagnostics,0,42
+B1_ungoverned,"[""hc-mr-02"", ""hc-mr-01"", ""hc-mr-03""]",dept-records,0,42
+B1_ungoverned,"[""fs-rc-03"", ""hc-iv-02""]",dept-portfolio,2,44
+B1_ungoverned,"[""hc-tp-04"", ""hc-tp-03"", ""hc-mr-01"", ""hc-mr-02""]",dept-treatment,1,45
+B1_ungoverned,"[""fs-ca-03"", ""fs-ca-04"", ""fs-ca-01""]",dept-advisory,0,45
+B1_ungoverned,"[""fs-pa-02"", ""hc-da-01""]",dept-portfolio,1,46
+B1_ungoverned,"[""fs-rc-04"", ""fs-rc-03"", ""fs-rc-01""]",dept-compliance-fin,1,47
+B1_ungoverned,"[""hc-iv-01"", ""hc-iv-03"", ""hc-iv-02""]",dept-insurance,0,47
+B1_ungoverned,"[""hc-mr-03"", ""hc-mr-01"", ""hc-mr-02""]",dept-records,0,47
+B1_ungoverned,"[""hc-da-01"", ""hc-da-02"", ""hc-da-04""]",dept-diagnostics,0,47
+B1_ungoverned,"[""fs-pa-04"", ""fs-pa-01"", ""fs-rc-04"", ""fs-rc-02""]",dept-portfolio,3,50
+B1_ungoverned,"[""fs-rc-03"", ""fs-rc-01"", ""fs-ar-04"", ""fs-ar-03""]",dept-compliance-fin,1,51
+B1_ungoverned,"[""hc-da-02"", ""hc-da-01"", ""hc-cd-01"", ""hc-cd-03""]",dept-diagnostics,0,51
+B1_ungoverned,"[""fs-ar-01"", ""hc-mr-01""]",dept-portfolio,1,52
+B1_ungoverned,"[""fs-ar-04"", ""fs-ar-03"", ""fs-ar-02""]",dept-audit,0,52
+B1_ungoverned,"[""fs-ra-01"", ""fs-ra-04"", ""fs-rc-03"", ""fs-rc-04""]",dept-risk,0,52
+B1_ungoverned,"[""fs-ca-03"", ""hc-cd-03""]",dept-portfolio,1,53
+B1_ungoverned,"[""fs-ra-02"", ""hc-cd-04""]",dept-portfolio,1,54
+B1_ungoverned,"[""fs-rc-02"", ""hc-hc-01""]",dept-portfolio,2,56
+B1_ungoverned,"[""hc-tp-01"", ""hc-tp-04"", ""hc-iv-01"", ""hc-iv-02""]",dept-treatment,6,62
+B1_ungoverned,"[""hc-da-04"", ""hc-da-02"", ""hc-cd-02"", ""hc-cd-03""]",dept-diagnostics,0,62
+B1_ungoverned,"[""fs-ar-01"", ""fs-ar-02"", ""fs-ar-04""]",dept-audit,0,62
+B1_ungoverned,"[""fs-ra-02"", ""hc-mr-02""]",dept-portfolio,1,63
+B1_ungoverned,"[""fs-ca-01"", ""fs-ca-04"", ""fs-ra-04"", ""fs-ra-02""]",dept-advisory,3,66
+B1_ungoverned,"[""hc-da-04"", ""hc-da-01"", ""hc-da-03""]",dept-diagnostics,0,66
+B1_ungoverned,"[""hc-tp-04"", ""hc-tp-02"", ""hc-hc-01"", ""hc-hc-03""]",dept-treatment,0,66
+B1_ungoverned,"[""hc-cd-04"", ""hc-cd-03"", ""hc-tp-03"", ""hc-tp-04""]",dept-clinical,0,66
+B1_ungoverned,"[""hc-iv-03"", ""hc-iv-02"", ""hc-da-02"", ""hc-da-03""]",dept-insurance,3,69
+B1_ungoverned,"[""fs-te-01"", ""fs-te-02"", ""fs-te-04""]",dept-trading,2,71
+B1_ungoverned,"[""fs-ar-04"", ""fs-ar-01"", ""fs-ar-03""]",dept-audit,0,71
+B1_ungoverned,"[""hc-hc-03"", ""hc-hc-04"", ""hc-cd-01"", ""hc-cd-04""]",dept-compliance-hc,0,71
+B1_ungoverned,"[""fs-ar-01"", ""hc-iv-04""]",dept-portfolio,2,73
+B1_ungoverned,"[""hc-da-04"", ""hc-da-02"", ""hc-hc-01"", ""hc-hc-03""]",dept-diagnostics,1,74
+B1_ungoverned,"[""fs-pa-04"", ""hc-da-01""]",dept-portfolio,1,75
+B1_ungoverned,"[""fs-te-04"", ""hc-mr-01""]",dept-portfolio,1,76
+B1_ungoverned,"[""hc-mr-01"", ""hc-mr-03"", ""hc-cd-04"", ""hc-cd-02""]",dept-records,0,76
+B1_ungoverned,"[""hc-hc-04"", ""hc-hc-02"", ""hc-hc-03""]",dept-compliance-hc,0,76
+B1_ungoverned,"[""fs-pa-01"", ""fs-pa-04"", ""fs-te-02"", ""fs-te-01""]",dept-portfolio,3,79
+B1_ungoverned,"[""hc-da-04"", ""hc-da-01"", ""hc-da-03""]",dept-diagnostics,0,79
+B1_ungoverned,"[""hc-cd-02"", ""hc-cd-03"", ""hc-da-01"", ""hc-da-03""]",dept-clinical,0,79
+B1_ungoverned,"[""fs-ra-01"", ""fs-ra-04"", ""fs-ra-03""]",dept-risk,0,79
+B1_ungoverned,"[""hc-hc-03"", ""hc-hc-02"", ""hc-cd-01"", ""hc-cd-02""]",dept-compliance-hc,0,79
+B1_ungoverned,"[""fs-ar-02"", ""hc-mr-01""]",dept-portfolio,1,80
+B1_ungoverned,"[""fs-te-03"", ""hc-iv-01""]",dept-portfolio,2,82
+B1_ungoverned,"[""fs-pa-02"", ""fs-pa-04"", ""fs-ra-02"", ""fs-ra-04""]",dept-portfolio,0,82
+B1_ungoverned,"[""hc-cd-04"", ""hc-cd-01"", ""hc-tp-01"", ""hc-tp-03""]",dept-clinical,0,82
+B1_ungoverned,"[""hc-cd-01"", ""hc-cd-03"", ""hc-da-02"", ""hc-da-04""]",dept-clinical,0,82
+B1_ungoverned,"[""fs-te-03"", ""hc-mr-03""]",dept-portfolio,1,83
+B1_ungoverned,"[""hc-cd-02"", ""hc-cd-04"", ""hc-cd-01""]",dept-clinical,0,83
+B1_ungoverned,"[""fs-rc-01"", ""fs-rc-02"", ""fs-rc-04""]",dept-compliance-fin,0,83
+B1_ungoverned,"[""fs-ca-01"", ""fs-ca-02"", ""fs-ca-04""]",dept-advisory,0,83
+B1_ungoverned,"[""fs-ca-02"", ""fs-ca-04"", ""fs-ca-01""]",dept-advisory,0,83
+B1_ungoverned,"[""hc-iv-04"", ""hc-iv-03"", ""hc-hc-02"", ""hc-hc-01""]",dept-insurance,3,86
+B1_ungoverned,"[""fs-pa-02"", ""hc-cd-01""]",dept-portfolio,1,87
+B1_ungoverned,"[""hc-mr-03"", ""hc-mr-01"", ""hc-mr-02""]",dept-records,0,87
+B1_ungoverned,"[""fs-ra-03"", ""fs-ra-04"", ""fs-ra-02""]",dept-risk,0,87
+B1_ungoverned,"[""fs-te-02"", ""fs-te-03"", ""fs-te-01""]",dept-trading,2,89
+B1_ungoverned,"[""fs-rc-04"", ""hc-hc-02""]",dept-portfolio,1,90
+B1_ungoverned,"[""fs-pa-01"", ""fs-pa-04"", ""fs-ra-04"", ""fs-ra-02""]",dept-portfolio,0,90
+B1_ungoverned,"[""hc-hc-01"", ""hc-hc-02"", ""hc-hc-03""]",dept-compliance-hc,0,90
+B1_ungoverned,"[""fs-rc-02"", ""hc-mr-01""]",dept-portfolio,2,92
+B1_ungoverned,"[""hc-iv-01"", ""hc-iv-04"", ""hc-iv-03""]",dept-insurance,0,92
+B1_ungoverned,"[""fs-pa-04"", ""hc-tp-03""]",dept-portfolio,1,93
+B1_ungoverned,"[""fs-ca-01"", ""fs-ca-04"", ""fs-ca-02""]",dept-advisory,0,93
+B1_ungoverned,"[""fs-te-03"", ""fs-te-01"", ""fs-te-04""]",dept-trading,2,95
+B1_ungoverned,"[""hc-hc-01"", ""hc-hc-02"", ""hc-iv-03"", ""hc-iv-02""]",dept-compliance-hc,3,98
+B1_ungoverned,"[""hc-hc-04"", ""hc-hc-01"", ""hc-hc-03""]",dept-compliance-hc,0,98
+B1_ungoverned,"[""fs-ca-04"", ""hc-da-01""]",dept-portfolio,1,99
+B1_ungoverned,"[""hc-mr-03"", ""hc-mr-02"", ""hc-mr-01""]",dept-records,0,99
+B1_ungoverned,"[""hc-hc-03"", ""hc-hc-01"", ""hc-hc-04""]",dept-compliance-hc,0,99
+B1_ungoverned,"[""fs-ca-03"", ""hc-iv-01""]",dept-portfolio,2,101
+B1_ungoverned,"[""fs-te-02"", ""hc-mr-02""]",dept-portfolio,2,103
+B1_ungoverned,"[""hc-tp-04"", ""hc-tp-01"", ""hc-tp-03""]",dept-treatment,0,103
+B1_ungoverned,"[""hc-hc-03"", ""hc-hc-02"", ""hc-hc-04""]",dept-compliance-hc,0,103
+B1_ungoverned,"[""hc-cd-02"", ""hc-cd-01"", ""hc-hc-03"", ""hc-hc-02""]",dept-clinical,0,103
+B1_ungoverned,"[""hc-cd-04"", ""hc-cd-01"", ""hc-da-04"", ""hc-da-01""]",dept-clinical,0,103
+B1_ungoverned,"[""hc-cd-04"", ""hc-cd-01"", ""hc-cd-03""]",dept-clinical,0,103
+B1_ungoverned,"[""hc-mr-02"", ""hc-mr-03"", ""hc-tp-03"", ""hc-tp-04""]",dept-records,0,103
+B1_ungoverned,"[""fs-te-01"", ""fs-te-04"", ""fs-te-03""]",dept-trading,1,104
+B1_ungoverned,"[""fs-pa-02"", ""hc-cd-02""]",dept-portfolio,1,105
+B1_ungoverned,"[""fs-ar-01"", ""fs-ar-04"", ""fs-rc-04"", ""fs-rc-01""]",dept-audit,0,105
+B1_ungoverned,"[""fs-ca-04"", ""fs-ca-02"", ""fs-ca-03""]",dept-advisory,0,105
+B1_ungoverned,"[""fs-te-03"", ""hc-da-01""]",dept-portfolio,1,106
+B1_ungoverned,"[""hc-hc-03"", ""hc-hc-04"", ""hc-hc-01""]",dept-compliance-hc,0,106
+B1_ungoverned,"[""fs-pa-02"", ""fs-pa-04"", ""fs-pa-03""]",dept-portfolio,0,106
+B1_ungoverned,"[""fs-rc-01"", ""fs-rc-03"", ""fs-rc-02""]",dept-compliance-fin,1,107
+B1_ungoverned,"[""hc-mr-03"", ""hc-mr-01"", ""hc-mr-02""]",dept-records,0,107
+B1_ungoverned,"[""fs-rc-01"", ""fs-rc-02"", ""fs-rc-04""]",dept-compliance-fin,0,107
+B1_ungoverned,"[""hc-cd-01"", ""hc-cd-02"", ""hc-tp-04"", ""hc-tp-03""]",dept-clinical,0,107
+B1_ungoverned,"[""fs-rc-01"", ""fs-rc-03"", ""fs-rc-02""]",dept-compliance-fin,1,108
+B1_ungoverned,"[""hc-iv-04"", ""hc-iv-03"", ""hc-iv-01""]",dept-insurance,0,108
+B1_ungoverned,"[""hc-cd-04"", ""hc-cd-03"", ""hc-tp-03"", ""hc-tp-04""]",dept-clinical,0,108
+B1_ungoverned,"[""fs-rc-04"", ""fs-rc-03"", ""fs-te-04"", ""fs-te-01""]",dept-compliance-fin,1,109
+B1_ungoverned,"[""hc-hc-01"", ""hc-hc-03"", ""hc-tp-04"", ""hc-tp-01""]",dept-compliance-hc,0,109
+B1_ungoverned,"[""fs-ra-02"", ""fs-ra-04"", ""fs-ra-01""]",dept-risk,0,109
+B1_ungoverned,"[""fs-te-03"", ""hc-mr-02""]",dept-portfolio,1,110
+B1_ungoverned,"[""fs-pa-01"", ""hc-da-04""]",dept-portfolio,1,111
+B1_ungoverned,"[""hc-tp-02"", ""hc-tp-01"", ""hc-tp-03""]",dept-treatment,0,111
+B1_ungoverned,"[""fs-ar-03"", ""hc-cd-01""]",dept-portfolio,1,112
+B1_ungoverned,"[""fs-ar-04"", ""fs-ar-03"", ""fs-ca-04"", ""fs-ca-01""]",dept-audit,3,115
+B1_ungoverned,"[""fs-rc-04"", ""fs-rc-01"", ""fs-rc-03""]",dept-compliance-fin,1,116
+B1_ungoverned,"[""fs-pa-03"", ""hc-da-01""]",dept-portfolio,1,117
+B1_ungoverned,"[""hc-hc-04"", ""hc-hc-03"", ""hc-hc-01""]",dept-compliance-hc,0,117
+B1_ungoverned,"[""hc-da-02"", ""hc-da-03"", ""hc-da-04""]",dept-diagnostics,0,117
+B1_ungoverned,"[""hc-tp-04"", ""hc-tp-02"", ""hc-iv-02"", ""hc-iv-03""]",dept-treatment,4,121
+B1_ungoverned,"[""hc-iv-04"", ""hc-iv-02"", ""hc-iv-01""]",dept-insurance,0,121
+B1_ungoverned,"[""fs-te-02"", ""hc-cd-01""]",dept-portfolio,2,123
+B1_ungoverned,"[""fs-rc-04"", ""hc-cd-03""]",dept-portfolio,1,124
+B1_ungoverned,"[""fs-ca-03"", ""fs-ca-04"", ""fs-ca-02""]",dept-advisory,0,124
+B1_ungoverned,"[""fs-rc-02"", ""fs-rc-01"", ""fs-rc-03""]",dept-compliance-fin,1,125
+B1_ungoverned,"[""fs-te-04"", ""hc-iv-03""]",dept-portfolio,1,126
+B1_ungoverned,"[""hc-mr-03"", ""hc-mr-02"", ""hc-hc-02"", ""hc-hc-03""]",dept-records,0,126
+B1_ungoverned,"[""fs-ra-04"", ""fs-ra-01"", ""fs-ra-02""]",dept-risk,0,126
+B1_ungoverned,"[""hc-cd-04"", ""hc-cd-03"", ""hc-cd-01""]",dept-clinical,0,126
+B1_ungoverned,"[""fs-ar-01"", ""hc-iv-02""]",dept-portfolio,2,128
+B1_ungoverned,"[""hc-iv-03"", ""hc-iv-01"", ""hc-iv-04""]",dept-insurance,0,128
+B1_ungoverned,"[""fs-ar-04"", ""hc-mr-01""]",dept-portfolio,1,129
+B1_ungoverned,"[""fs-ar-03"", ""hc-hc-02""]",dept-portfolio,1,130
+B1_ungoverned,"[""hc-da-01"", ""hc-da-04"", ""hc-da-02""]",dept-diagnostics,0,130
+B1_ungoverned,"[""hc-hc-04"", ""hc-hc-02"", ""hc-hc-01""]",dept-compliance-hc,0,130
+B1_ungoverned,"[""hc-mr-02"", ""hc-mr-03"", ""hc-hc-02"", ""hc-hc-03""]",dept-records,0,130
+B1_ungoverned,"[""hc-mr-03"", ""hc-mr-02"", ""hc-mr-01""]",dept-records,0,130
+B1_ungoverned,"[""fs-pa-02"", ""fs-pa-04"", ""fs-pa-03""]",dept-portfolio,0,130
+B1_ungoverned,"[""fs-ar-03"", ""hc-cd-03""]",dept-portfolio,1,131
+B1_ungoverned,"[""fs-rc-03"", ""hc-da-01""]",dept-portfolio,1,132
+B1_ungoverned,"[""fs-ca-02"", ""hc-hc-03""]",dept-portfolio,1,133
+B1_ungoverned,"[""fs-ra-04"", ""hc-iv-01""]",dept-portfolio,2,135
+B1_ungoverned,"[""hc-cd-04"", ""hc-cd-02"", ""hc-cd-01""]",dept-clinical,0,135
+B1_ungoverned,"[""hc-iv-01"", ""hc-iv-03"", ""hc-iv-04""]",dept-insurance,0,135
+B1_ungoverned,"[""fs-te-01"", ""fs-te-02"", ""fs-rc-04"", ""fs-rc-01""]",dept-trading,2,137
+B1_ungoverned,"[""fs-ra-01"", ""hc-iv-01""]",dept-portfolio,2,139
+B1_ungoverned,"[""fs-pa-04"", ""hc-da-03""]",dept-portfolio,1,140
+B1_ungoverned,"[""fs-ca-03"", ""hc-da-04""]",dept-portfolio,1,141
+B1_ungoverned,"[""fs-rc-01"", ""hc-mr-01""]",dept-portfolio,1,142
+B1_ungoverned,"[""fs-rc-03"", ""hc-cd-01""]",dept-portfolio,1,143
+B1_ungoverned,"[""hc-da-04"", ""hc-da-01"", ""hc-mr-03"", ""hc-mr-01""]",dept-diagnostics,1,144
+B1_ungoverned,"[""fs-rc-01"", ""fs-rc-03"", ""fs-rc-04""]",dept-compliance-fin,1,145
+B1_ungoverned,"[""hc-cd-02"", ""hc-cd-03"", ""hc-cd-04""]",dept-clinical,0,145
+B1_ungoverned,"[""fs-rc-02"", ""hc-da-03""]",dept-portfolio,2,147
+B1_ungoverned,"[""fs-te-01"", ""hc-cd-01""]",dept-portfolio,2,149
+B1_ungoverned,"[""hc-hc-01"", ""hc-hc-03"", ""hc-mr-01"", ""hc-mr-02""]",dept-compliance-hc,1,150
+B1_ungoverned,"[""hc-hc-01"", ""hc-hc-02"", ""hc-hc-03""]",dept-compliance-hc,0,150
+B1_ungoverned,"[""fs-ra-04"", ""fs-ra-02"", ""fs-ra-03""]",dept-risk,0,150
+B1_ungoverned,"[""fs-pa-02"", ""hc-tp-01""]",dept-portfolio,1,151
+B1_ungoverned,"[""fs-ra-03"", ""hc-iv-01""]",dept-portfolio,2,153
+B1_ungoverned,"[""fs-ca-02"", ""hc-iv-01""]",dept-portfolio,1,154
+B1_ungoverned,"[""fs-te-04"", ""hc-iv-01""]",dept-portfolio,2,156
+B1_ungoverned,"[""fs-ar-02"", ""fs-ar-01"", ""fs-ar-04""]",dept-audit,0,156
+B1_ungoverned,"[""fs-rc-02"", ""hc-tp-04""]",dept-portfolio,2,158
+B1_ungoverned,"[""fs-pa-04"", ""fs-pa-02"", ""fs-te-04"", ""fs-te-01""]",dept-portfolio,2,160
+B1_ungoverned,"[""fs-ra-01"", ""hc-mr-03""]",dept-portfolio,1,161
+B1_ungoverned,"[""hc-iv-02"", ""hc-iv-01"", ""hc-iv-04""]",dept-insurance,0,161
+B1_ungoverned,"[""fs-te-04"", ""hc-hc-02""]",dept-portfolio,1,162
+B1_ungoverned,"[""fs-ca-04"", ""fs-ca-03"", ""fs-ca-01""]",dept-advisory,0,162
+B1_ungoverned,"[""fs-pa-02"", ""hc-tp-02""]",dept-portfolio,1,163
+B1_ungoverned,"[""fs-pa-02"", ""fs-pa-04"", ""fs-pa-03""]",dept-portfolio,0,163
+B1_ungoverned,"[""fs-ar-02"", ""fs-ar-03"", ""fs-rc-03"", ""fs-rc-04""]",dept-audit,1,164
+B1_ungoverned,"[""fs-ra-01"", ""hc-mr-03""]",dept-portfolio,1,165
+B1_ungoverned,"[""fs-te-02"", ""hc-tp-01""]",dept-portfolio,2,167
+B1_ungoverned,"[""fs-te-02"", ""hc-tp-02""]",dept-portfolio,2,169
+B1_ungoverned,"[""hc-tp-04"", ""hc-tp-02"", ""hc-da-04"", ""hc-da-02""]",dept-treatment,0,169
+B1_ungoverned,"[""hc-cd-01"", ""hc-cd-04"", ""hc-iv-02"", ""hc-iv-03""]",dept-clinical,4,173
+B1_ungoverned,"[""hc-tp-04"", ""hc-tp-02"", ""hc-tp-01""]",dept-treatment,0,173
+B1_ungoverned,"[""fs-pa-03"", ""hc-tp-01""]",dept-portfolio,1,174
+B1_ungoverned,"[""hc-iv-02"", ""hc-iv-01"", ""hc-iv-04""]",dept-insurance,0,174
+B1_ungoverned,"[""fs-rc-03"", ""hc-mr-01""]",dept-portfolio,1,175
+B1_ungoverned,"[""fs-rc-04"", ""fs-rc-02"", ""fs-ar-01"", ""fs-ar-03""]",dept-compliance-fin,2,177
+B1_ungoverned,"[""hc-tp-03"", ""hc-tp-01"", ""hc-iv-02"", ""hc-iv-03""]",dept-treatment,4,181
+B1_ungoverned,"[""fs-ra-04"", ""hc-da-04""]",dept-portfolio,1,182
+B1_ungoverned,"[""fs-ca-04"", ""fs-ca-02"", ""fs-ca-03""]",dept-advisory,0,182
+B1_ungoverned,"[""fs-te-03"", ""fs-te-01"", ""fs-te-02""]",dept-trading,2,184
+B1_ungoverned,"[""fs-ra-03"", ""hc-cd-01""]",dept-portfolio,1,185
+B1_ungoverned,"[""fs-ra-01"", ""fs-ra-02"", ""fs-ra-03""]",dept-risk,0,185
+B1_ungoverned,"[""fs-ra-04"", ""fs-ra-01"", ""fs-ra-03""]",dept-risk,0,185
+B1_ungoverned,"[""fs-ar-02"", ""fs-ar-03"", ""fs-te-02"", ""fs-te-01""]",dept-audit,2,187
+B1_ungoverned,"[""fs-pa-03"", ""fs-pa-01"", ""fs-pa-02""]",dept-portfolio,0,187
+B1_ungoverned,"[""hc-tp-01"", ""hc-tp-03"", ""hc-tp-02""]",dept-treatment,0,187
+B1_ungoverned,"[""fs-te-01"", ""hc-cd-03""]",dept-portfolio,2,189
+B1_ungoverned,"[""fs-rc-03"", ""fs-rc-02"", ""fs-ca-02"", ""fs-ca-03""]",dept-compliance-fin,2,191
+B1_ungoverned,"[""fs-pa-04"", ""hc-hc-02""]",dept-portfolio,1,192
+B1_ungoverned,"[""hc-mr-03"", ""hc-mr-01"", ""hc-hc-03"", ""hc-hc-01""]",dept-records,0,192
+B1_ungoverned,"[""hc-hc-01"", ""hc-hc-03"", ""hc-hc-02""]",dept-compliance-hc,0,192
+B1_ungoverned,"[""fs-pa-02"", ""hc-cd-04""]",dept-portfolio,1,193
+B1_ungoverned,"[""fs-ar-04"", ""fs-ar-01"", ""fs-ar-03""]",dept-audit,0,193
+B1_ungoverned,"[""fs-rc-04"", ""fs-rc-02"", ""fs-rc-03""]",dept-compliance-fin,0,193
+B1_ungoverned,"[""fs-pa-04"", ""hc-tp-01""]",dept-portfolio,1,194
+B1_ungoverned,"[""fs-ca-03"", ""hc-da-01""]",dept-portfolio,1,195
+B1_ungoverned,"[""fs-ra-02"", ""hc-mr-01""]",dept-portfolio,1,196
+B1_ungoverned,"[""fs-ar-03"", ""hc-cd-02""]",dept-portfolio,1,197
+B1_ungoverned,"[""fs-te-02"", ""hc-hc-03""]",dept-portfolio,2,199
+B1_ungoverned,"[""fs-ar-04"", ""hc-mr-02""]",dept-portfolio,1,200
+B1_ungoverned,"[""hc-hc-01"", ""hc-hc-04"", ""hc-hc-03""]",dept-compliance-hc,0,200
+B1_ungoverned,"[""hc-hc-02"", ""hc-hc-04"", ""hc-mr-03"", ""hc-mr-02""]",dept-compliance-hc,1,201
+B1_ungoverned,"[""fs-pa-02"", ""hc-mr-03""]",dept-portfolio,1,202
+B1_ungoverned,"[""fs-pa-01"", ""hc-tp-02""]",dept-portfolio,1,203
+B1_ungoverned,"[""hc-cd-04"", ""hc-cd-03"", ""hc-cd-02""]",dept-clinical,0,203
+B1_ungoverned,"[""fs-te-01"", ""hc-hc-03""]",dept-portfolio,2,205
+B1_ungoverned,"[""fs-ar-01"", ""hc-hc-02""]",dept-portfolio,1,206
+B1_ungoverned,"[""fs-ar-03"", ""hc-hc-01""]",dept-portfolio,1,207
+B1_ungoverned,"[""fs-pa-02"", ""fs-pa-04"", ""fs-pa-01""]",dept-portfolio,0,207
+B1_ungoverned,"[""hc-iv-04"", ""hc-iv-03"", ""hc-mr-02"", ""hc-mr-03""]",dept-insurance,3,210
+B1_ungoverned,"[""fs-pa-01"", ""fs-pa-04"", ""fs-ar-01"", ""fs-ar-02""]",dept-portfolio,1,211
+B1_ungoverned,"[""fs-rc-04"", ""fs-rc-02"", ""fs-ar-02"", ""fs-ar-04""]",dept-compliance-fin,2,213
+B1_ungoverned,"[""fs-ar-02"", ""hc-tp-01""]",dept-portfolio,1,214
+B1_ungoverned,"[""fs-rc-02"", ""hc-iv-01""]",dept-portfolio,1,215
+B1_ungoverned,"[""fs-ra-01"", ""fs-ra-04"", ""fs-ra-02""]",dept-risk,0,215
+B1_ungoverned,"[""hc-mr-01"", ""hc-mr-02"", ""hc-mr-03""]",dept-records,0,215
+B1_ungoverned,"[""fs-pa-01"", ""fs-pa-02"", ""fs-ca-02"", ""fs-ca-03""]",dept-portfolio,0,215
+B1_ungoverned,"[""hc-da-04"", ""hc-da-01"", ""hc-hc-03"", ""hc-hc-01""]",dept-diagnostics,1,216
+B1_ungoverned,"[""fs-rc-03"", ""fs-rc-04"", ""fs-rc-02""]",dept-compliance-fin,0,216
+B1_ungoverned,"[""fs-pa-04"", ""fs-pa-02"", ""fs-ra-04"", ""fs-ra-02""]",dept-portfolio,0,216
+B1_ungoverned,"[""fs-pa-02"", ""fs-pa-01"", ""fs-pa-03""]",dept-portfolio,0,216
+B1_ungoverned,"[""fs-ar-04"", ""hc-da-03""]",dept-portfolio,1,217
+B1_ungoverned,"[""fs-rc-04"", ""hc-da-03""]",dept-portfolio,1,218
+B1_ungoverned,"[""fs-ar-04"", ""fs-ar-03"", ""fs-ar-02""]",dept-audit,0,218
+B1_ungoverned,"[""fs-ca-01"", ""hc-cd-02""]",dept-portfolio,2,220
+B1_ungoverned,"[""hc-da-03"", ""hc-da-04"", ""hc-da-02""]",dept-diagnostics,0,220
+B1_ungoverned,"[""hc-tp-02"", ""hc-tp-03"", ""hc-hc-04"", ""hc-hc-02""]",dept-treatment,0,220
+B1_ungoverned,"[""hc-iv-02"", ""hc-iv-03"", ""hc-iv-04""]",dept-insurance,0,220
+B1_ungoverned,"[""fs-ar-02"", ""hc-da-01""]",dept-portfolio,1,221
+B1_ungoverned,"[""fs-ar-02"", ""hc-da-03""]",dept-portfolio,1,222
+B1_ungoverned,"[""fs-pa-01"", ""fs-pa-04"", ""fs-ar-03"", ""fs-ar-01""]",dept-portfolio,1,223
+B1_ungoverned,"[""hc-iv-03"", ""hc-iv-01"", ""hc-iv-04""]",dept-insurance,0,223
+B1_ungoverned,"[""hc-hc-02"", ""hc-hc-04"", ""hc-hc-03""]",dept-compliance-hc,0,223
+B1_ungoverned,"[""hc-hc-01"", ""hc-hc-04"", ""hc-hc-02""]",dept-compliance-hc,0,223
+B1_ungoverned,"[""fs-pa-03"", ""hc-iv-04""]",dept-portfolio,2,225
+B1_ungoverned,"[""fs-ar-04"", ""fs-ar-03"", ""fs-te-02"", ""fs-te-04""]",dept-audit,2,227
+B1_ungoverned,"[""fs-ar-03"", ""fs-ar-01"", ""fs-te-01"", ""fs-te-04""]",dept-audit,2,229
+B1_ungoverned,"[""fs-ra-01"", ""fs-ra-02"", ""fs-ra-03""]",dept-risk,0,229
+B1_ungoverned,"[""hc-iv-04"", ""hc-iv-01"", ""hc-iv-02""]",dept-insurance,0,229
+B1_ungoverned,"[""fs-ra-02"", ""fs-ra-04"", ""fs-ra-03""]",dept-risk,0,229
+B1_ungoverned,"[""fs-pa-02"", ""hc-tp-04""]",dept-portfolio,1,230
+B1_ungoverned,"[""hc-hc-04"", ""hc-hc-03"", ""hc-cd-02"", ""hc-cd-04""]",dept-compliance-hc,0,230
+B1_ungoverned,"[""fs-pa-04"", ""fs-pa-02"", ""fs-ca-02"", ""fs-ca-04""]",dept-portfolio,0,230
+B1_ungoverned,"[""fs-te-04"", ""fs-te-02"", ""fs-te-03""]",dept-trading,2,232
+B1_ungoverned,"[""hc-mr-02"", ""hc-mr-01"", ""hc-mr-03""]",dept-records,0,232
+B1_ungoverned,"[""hc-cd-01"", ""hc-cd-03"", ""hc-cd-02""]",dept-clinical,0,232
+B1_ungoverned,"[""fs-ca-03"", ""hc-cd-04""]",dept-portfolio,1,233
+B1_ungoverned,"[""fs-ra-01"", ""hc-tp-01""]",dept-portfolio,1,234
+B1_ungoverned,"[""fs-ca-04"", ""fs-ca-03"", ""fs-pa-03"", ""fs-pa-01""]",dept-advisory,0,234
+B1_ungoverned,"[""hc-da-04"", ""hc-da-01"", ""hc-da-03""]",dept-diagnostics,0,234
+B1_ungoverned,"[""hc-tp-01"", ""hc-tp-04"", ""hc-mr-01"", ""hc-mr-02""]",dept-treatment,1,235
+B1_ungoverned,"[""fs-ra-02"", ""fs-ra-04"", ""fs-rc-02"", ""fs-rc-04""]",dept-risk,2,237
+B1_ungoverned,"[""fs-pa-03"", ""fs-pa-02"", ""fs-pa-01""]",dept-portfolio,0,237
+B1_ungoverned,"[""hc-iv-01"", ""hc-iv-03"", ""hc-mr-01"", ""hc-mr-02""]",dept-insurance,3,240
+B1_ungoverned,"[""fs-rc-03"", ""fs-rc-04"", ""fs-ra-01"", ""fs-ra-02""]",dept-compliance-fin,0,240
+B1_ungoverned,"[""hc-iv-04"", ""hc-iv-03"", ""hc-da-02"", ""hc-da-03""]",dept-insurance,3,243
+B1_ungoverned,"[""hc-mr-03"", ""hc-mr-01"", ""hc-mr-02""]",dept-records,0,243
+B1_ungoverned,"[""fs-ra-02"", ""fs-ra-04"", ""fs-ra-03""]",dept-risk,0,243
+B1_ungoverned,"[""hc-da-02"", ""hc-da-04"", ""hc-hc-02"", ""hc-hc-03""]",dept-diagnostics,1,244
+B1_ungoverned,"[""fs-ra-03"", ""fs-ra-04"", ""fs-ra-01""]",dept-risk,0,244
+B1_ungoverned,"[""hc-da-04"", ""hc-da-02"", ""hc-da-03""]",dept-diagnostics,0,244
+B1_ungoverned,"[""fs-rc-03"", ""hc-da-03""]",dept-portfolio,1,245
+B1_ungoverned,"[""fs-rc-03"", ""hc-da-01""]",dept-portfolio,1,246
+B1_ungoverned,"[""fs-ar-02"", ""fs-ar-03"", ""fs-te-04"", ""fs-te-01""]",dept-audit,1,247
+B1_ungoverned,"[""fs-ra-01"", ""hc-mr-01""]",dept-portfolio,1,248
+B1_ungoverned,"[""fs-pa-01"", ""hc-mr-01""]",dept-portfolio,1,249
+B1_ungoverned,"[""hc-hc-04"", ""hc-hc-02"", ""hc-hc-03""]",dept-compliance-hc,0,249
+B1_ungoverned,"[""fs-ar-02"", ""fs-ar-01"", ""fs-ar-04""]",dept-audit,0,249
+B1_ungoverned,"[""fs-ca-02"", ""fs-ca-03"", ""fs-rc-01"", ""fs-rc-03""]",dept-advisory,2,251
+B1_ungoverned,"[""hc-hc-03"", ""hc-hc-04"", ""hc-tp-03"", ""hc-tp-04""]",dept-compliance-hc,0,251
+B1_ungoverned,"[""hc-da-03"", ""hc-da-01"", ""hc-hc-04"", ""hc-hc-03""]",dept-diagnostics,1,252
+B1_ungoverned,"[""hc-iv-01"", ""hc-iv-04"", ""hc-iv-02""]",dept-insurance,0,252
+B1_ungoverned,"[""hc-tp-04"", ""hc-tp-01"", ""hc-iv-04"", ""hc-iv-02""]",dept-treatment,6,258
+B1_ungoverned,"[""fs-ca-01"", ""hc-tp-02""]",dept-portfolio,2,260
+B1_ungoverned,"[""fs-ar-04"", ""fs-ar-02"", ""fs-ar-01""]",dept-audit,0,260
+B1_ungoverned,"[""fs-ar-02"", ""hc-tp-04""]",dept-portfolio,1,261
+B1_ungoverned,"[""hc-cd-01"", ""hc-cd-02"", ""hc-cd-04""]",dept-clinical,0,261
+B1_ungoverned,"[""fs-te-02"", ""hc-mr-03""]",dept-portfolio,2,263
+B1_ungoverned,"[""fs-ra-04"", ""fs-ra-02"", ""fs-ra-01""]",dept-risk,0,263
+B1_ungoverned,"[""hc-tp-03"", ""hc-tp-02"", ""hc-tp-01""]",dept-treatment,0,263
+B1_ungoverned,"[""hc-mr-02"", ""hc-mr-01"", ""hc-mr-03""]",dept-records,0,263
+B1_ungoverned,"[""fs-ca-03"", ""fs-ca-01"", ""fs-ca-02""]",dept-advisory,0,263
+B1_ungoverned,"[""hc-cd-04"", ""hc-cd-03"", ""hc-cd-01""]",dept-clinical,0,263
+B1_ungoverned,"[""fs-ca-03"", ""fs-ca-01"", ""fs-ca-04""]",dept-advisory,0,263
+B1_ungoverned,"[""fs-pa-04"", ""hc-iv-02""]",dept-portfolio,2,265
+B1_ungoverned,"[""fs-ar-04"", ""hc-da-04""]",dept-portfolio,1,266
+B1_ungoverned,"[""fs-ar-03"", ""fs-ar-02"", ""fs-ar-01""]",dept-audit,0,266
+B1_ungoverned,"[""hc-mr-01"", ""hc-mr-02"", ""hc-mr-03""]",dept-records,0,266
+B1_ungoverned,"[""fs-rc-04"", ""fs-rc-03"", ""fs-rc-01""]",dept-compliance-fin,1,267
+B1_ungoverned,"[""fs-ar-01"", ""hc-tp-03""]",dept-portfolio,1,268
+B1_ungoverned,"[""fs-pa-03"", ""hc-iv-03""]",dept-portfolio,1,269
+B1_ungoverned,"[""hc-hc-04"", ""hc-hc-03"", ""hc-tp-03"", ""hc-tp-02""]",dept-compliance-hc,0,269
+B1_ungoverned,"[""fs-pa-04"", ""fs-pa-01"", ""fs-ca-01"", ""fs-ca-04""]",dept-portfolio,2,271
+B1_ungoverned,"[""fs-rc-01"", ""fs-rc-04"", ""fs-pa-03"", ""fs-pa-04""]",dept-compliance-fin,1,272
+B1_ungoverned,"[""fs-pa-04"", ""fs-pa-01"", ""fs-pa-02""]",dept-portfolio,0,272
+B1_ungoverned,"[""fs-rc-01"", ""fs-rc-02"", ""fs-ca-03"", ""fs-ca-04""]",dept-compliance-fin,4,276
+B1_ungoverned,"[""fs-ar-03"", ""hc-iv-02""]",dept-portfolio,2,278
+B1_ungoverned,"[""fs-ar-01"", ""hc-tp-03""]",dept-portfolio,1,279
+B1_ungoverned,"[""fs-ca-02"", ""fs-ca-03"", ""fs-ca-04""]",dept-advisory,0,279
+B1_ungoverned,"[""fs-ca-02"", ""hc-tp-03""]",dept-portfolio,1,280
+B1_ungoverned,"[""fs-ar-02"", ""fs-ar-04"", ""fs-ca-03"", ""fs-ca-02""]",dept-audit,1,281
+B1_ungoverned,"[""fs-rc-04"", ""hc-cd-01""]",dept-portfolio,1,282
+B1_ungoverned,"[""fs-te-02"", ""fs-te-04"", ""fs-rc-02"", ""fs-rc-03""]",dept-trading,3,285
+B1_ungoverned,"[""fs-ca-03"", ""fs-ca-01"", ""fs-ra-04"", ""fs-ra-02""]",dept-advisory,3,288
+B1_ungoverned,"[""fs-ar-01"", ""fs-ar-04"", ""fs-ar-02""]",dept-audit,0,288
+B1_ungoverned,"[""fs-ra-01"", ""hc-iv-01""]",dept-portfolio,2,290
+B1_ungoverned,"[""hc-iv-04"", ""hc-iv-03"", ""hc-da-02"", ""hc-da-04""]",dept-insurance,3,293
+B1_ungoverned,"[""fs-ra-04"", ""hc-cd-04""]",dept-portfolio,1,294
+B1_ungoverned,"[""fs-pa-01"", ""hc-hc-04""]",dept-portfolio,1,295
+B1_ungoverned,"[""hc-hc-03"", ""hc-hc-02"", ""hc-hc-04""]",dept-compliance-hc,0,295
+B1_ungoverned,"[""fs-ca-01"", ""hc-cd-03""]",dept-portfolio,2,297
+B1_ungoverned,"[""fs-ar-04"", ""hc-iv-04""]",dept-portfolio,2,299
+B1_ungoverned,"[""fs-rc-04"", ""fs-rc-03"", ""fs-rc-02""]",dept-compliance-fin,0,299
+B1_ungoverned,"[""fs-ca-04"", ""fs-ca-03"", ""fs-ca-02""]",dept-advisory,0,299
+B1_ungoverned,"[""hc-cd-03"", ""hc-cd-01"", ""hc-tp-04"", ""hc-tp-03""]",dept-clinical,0,299
+B1_ungoverned,"[""fs-te-01"", ""hc-da-01""]",dept-portfolio,2,301
+B1_ungoverned,"[""fs-pa-02"", ""fs-pa-04"", ""fs-rc-02"", ""fs-rc-03""]",dept-portfolio,3,304
+B1_ungoverned,"[""fs-ca-02"", ""hc-mr-01""]",dept-portfolio,1,305
+B1_ungoverned,"[""fs-ca-03"", ""fs-ca-02"", ""fs-ca-04""]",dept-advisory,0,305
+B1_ungoverned,"[""hc-mr-03"", ""hc-mr-02"", ""hc-iv-03"", ""hc-iv-01""]",dept-records,4,309
+B1_ungoverned,"[""hc-cd-03"", ""hc-cd-04"", ""hc-cd-02""]",dept-clinical,0,309
+B1_ungoverned,"[""fs-ca-02"", ""hc-da-03""]",dept-portfolio,1,310
+B1_ungoverned,"[""fs-rc-04"", ""hc-tp-03""]",dept-portfolio,1,311
+B1_ungoverned,"[""hc-hc-03"", ""hc-hc-02"", ""hc-iv-03"", ""hc-iv-02""]",dept-compliance-hc,3,314
+B1_ungoverned,"[""fs-ra-04"", ""fs-ra-01"", ""fs-te-02"", ""fs-te-04""]",dept-risk,2,316
+B1_ungoverned,"[""fs-pa-03"", ""hc-mr-01""]",dept-portfolio,1,317
+B1_ungoverned,"[""hc-mr-01"", ""hc-mr-02"", ""hc-mr-03""]",dept-records,0,317
+B1_ungoverned,"[""hc-mr-03"", ""hc-mr-02"", ""hc-cd-03"", ""hc-cd-04""]",dept-records,0,317
+B1_ungoverned,"[""hc-tp-03"", ""hc-tp-02"", ""hc-da-04"", ""hc-da-01""]",dept-treatment,0,317
+B1_ungoverned,"[""fs-ca-04"", ""fs-ca-01"", ""fs-ca-02""]",dept-advisory,0,317
+B1_ungoverned,"[""hc-cd-01"", ""hc-cd-04"", ""hc-cd-02""]",dept-clinical,0,317
+B1_ungoverned,"[""hc-tp-01"", ""hc-tp-03"", ""hc-cd-03"", ""hc-cd-04""]",dept-treatment,0,317
+B1_ungoverned,"[""fs-pa-02"", ""hc-da-01""]",dept-portfolio,1,318
+B1_ungoverned,"[""hc-cd-02"", ""hc-cd-03"", ""hc-tp-02"", ""hc-tp-03""]",dept-clinical,0,318
+B1_ungoverned,"[""fs-pa-02"", ""hc-da-01""]",dept-portfolio,1,319
+B1_ungoverned,"[""fs-ar-02"", ""hc-mr-01""]",dept-portfolio,1,320
+B1_ungoverned,"[""hc-mr-03"", ""hc-mr-01"", ""hc-mr-02""]",dept-records,0,320
+B1_ungoverned,"[""fs-ca-02"", ""hc-tp-02""]",dept-portfolio,1,321
+B1_ungoverned,"[""fs-ca-03"", ""fs-ca-02"", ""fs-ca-01""]",dept-advisory,0,321
+B1_ungoverned,"[""fs-pa-03"", ""fs-pa-02"", ""fs-pa-01""]",dept-portfolio,0,321
+B1_ungoverned,"[""fs-ca-01"", ""fs-ca-03"", ""fs-ar-04"", ""fs-ar-03""]",dept-advisory,3,324
+B1_ungoverned,"[""fs-ar-01"", ""hc-mr-01""]",dept-portfolio,1,325
+B1_ungoverned,"[""fs-ar-02"", ""fs-ar-04"", ""fs-pa-03"", ""fs-pa-01""]",dept-audit,0,325
+B1_ungoverned,"[""fs-te-04"", ""fs-te-02"", ""fs-te-01""]",dept-trading,2,327
+B1_ungoverned,"[""hc-iv-03"", ""hc-iv-02"", ""hc-da-03"", ""hc-da-04""]",dept-insurance,3,330
+B1_ungoverned,"[""hc-iv-04"", ""hc-iv-01"", ""hc-cd-02"", ""hc-cd-03""]",dept-insurance,5,335
+B1_ungoverned,"[""fs-pa-04"", ""hc-mr-03""]",dept-portfolio,1,336
+B1_ungoverned,"[""hc-tp-04"", ""hc-tp-02"", ""hc-cd-03"", ""hc-cd-01""]",dept-treatment,0,336
+B1_ungoverned,"[""hc-cd-01"", ""hc-cd-03"", ""hc-cd-02""]",dept-clinical,0,336
+B1_ungoverned,"[""hc-da-04"", ""hc-da-03"", ""hc-da-02""]",dept-diagnostics,0,336
+B1_ungoverned,"[""hc-iv-02"", ""hc-iv-04"", ""hc-iv-01""]",dept-insurance,0,336
+B1_ungoverned,"[""fs-rc-01"", ""fs-rc-02"", ""fs-rc-03""]",dept-compliance-fin,1,337
+B1_ungoverned,"[""hc-tp-03"", ""hc-tp-01"", ""hc-tp-02""]",dept-treatment,0,337
+B1_ungoverned,"[""fs-rc-01"", ""fs-rc-02"", ""fs-rc-04""]",dept-compliance-fin,0,337
+B1_ungoverned,"[""fs-ra-04"", ""fs-ra-02"", ""fs-ar-03"", ""fs-ar-01""]",dept-risk,1,338
+B1_ungoverned,"[""fs-pa-03"", ""hc-da-01""]",dept-portfolio,1,339
+B1_ungoverned,"[""fs-te-01"", ""fs-te-04"", ""fs-te-02""]",dept-trading,2,341
+B1_ungoverned,"[""fs-te-04"", ""fs-te-02"", ""fs-te-01""]",dept-trading,2,343
+B1_ungoverned,"[""fs-ca-02"", ""fs-ca-03"", ""fs-ra-02"", ""fs-ra-03""]",dept-advisory,1,344
+B1_ungoverned,"[""hc-da-02"", ""hc-da-04"", ""hc-iv-03"", ""hc-iv-02""]",dept-diagnostics,4,348
+B1_ungoverned,"[""fs-ca-02"", ""hc-hc-04""]",dept-portfolio,1,349
+B1_ungoverned,"[""hc-tp-04"", ""hc-tp-03"", ""hc-iv-03"", ""hc-iv-02""]",dept-treatment,4,353
+B1_ungoverned,"[""fs-ca-03"", ""hc-hc-03""]",dept-portfolio,1,354
+B1_ungoverned,"[""hc-da-03"", ""hc-da-04"", ""hc-mr-01"", ""hc-mr-02""]",dept-diagnostics,1,355
+B1_ungoverned,"[""hc-cd-04"", ""hc-cd-03"", ""hc-cd-01""]",dept-clinical,0,355
+B1_ungoverned,"[""fs-te-02"", ""hc-tp-02""]",dept-portfolio,2,357
+B1_ungoverned,"[""hc-da-04"", ""hc-da-03"", ""hc-mr-01"", ""hc-mr-03""]",dept-diagnostics,1,358
+B1_ungoverned,"[""hc-da-04"", ""hc-da-02"", ""hc-da-03""]",dept-diagnostics,0,358
+B1_ungoverned,"[""hc-tp-01"", ""hc-tp-02"", ""hc-tp-03""]",dept-treatment,0,358
+B1_ungoverned,"[""fs-te-01"", ""hc-mr-03""]",dept-portfolio,2,360
+B1_ungoverned,"[""fs-pa-04"", ""fs-pa-02"", ""fs-pa-03""]",dept-portfolio,0,360
+B1_ungoverned,"[""hc-iv-04"", ""hc-iv-01"", ""hc-hc-01"", ""hc-hc-04""]",dept-insurance,5,365
+B1_ungoverned,"[""fs-ar-01"", ""fs-ar-02"", ""fs-pa-01"", ""fs-pa-02""]",dept-audit,0,365
+B1_ungoverned,"[""fs-ca-03"", ""hc-tp-01""]",dept-portfolio,1,366
+B1_ungoverned,"[""fs-ar-04"", ""fs-ar-01"", ""fs-ca-01"", ""fs-ca-03""]",dept-audit,3,369
+B1_ungoverned,"[""hc-da-03"", ""hc-da-04"", ""hc-mr-02"", ""hc-mr-01""]",dept-diagnostics,1,370
+B1_ungoverned,"[""fs-ca-01"", ""fs-ca-02"", ""fs-ra-04"", ""fs-ra-02""]",dept-advisory,3,373
+B1_ungoverned,"[""fs-pa-04"", ""hc-da-03""]",dept-portfolio,1,374
+B1_ungoverned,"[""fs-ar-03"", ""hc-iv-02""]",dept-portfolio,2,376
+B1_ungoverned,"[""fs-pa-01"", ""hc-iv-02""]",dept-portfolio,2,378
+B1_ungoverned,"[""fs-ra-01"", ""fs-ra-04"", ""fs-rc-02"", ""fs-rc-03""]",dept-risk,2,380
+B1_ungoverned,"[""hc-mr-01"", ""hc-mr-02"", ""hc-mr-03""]",dept-records,0,380
+B1_ungoverned,"[""fs-rc-02"", ""fs-rc-04"", ""fs-ca-03"", ""fs-ca-01""]",dept-compliance-fin,3,383
+B1_ungoverned,"[""fs-ra-04"", ""hc-cd-01""]",dept-portfolio,1,384
+B1_ungoverned,"[""hc-mr-03"", ""hc-mr-01"", ""hc-cd-02"", ""hc-cd-03""]",dept-records,0,384
+B1_ungoverned,"[""hc-tp-04"", ""hc-tp-01"", ""hc-mr-02"", ""hc-mr-03""]",dept-treatment,1,385
+B1_ungoverned,"[""fs-pa-01"", ""hc-iv-02""]",dept-portfolio,2,387
+B1_ungoverned,"[""hc-iv-01"", ""hc-iv-04"", ""hc-iv-03""]",dept-insurance,0,387
+B1_ungoverned,"[""hc-da-04"", ""hc-da-01"", ""hc-iv-03"", ""hc-iv-04""]",dept-diagnostics,4,391
+B1_ungoverned,"[""hc-tp-03"", ""hc-tp-01"", ""hc-tp-04""]",dept-treatment,0,391
+B1_ungoverned,"[""fs-ra-03"", ""hc-tp-02""]",dept-portfolio,1,392
+B1_ungoverned,"[""hc-mr-03"", ""hc-mr-01"", ""hc-da-02"", ""hc-da-01""]",dept-records,0,392
+B1_ungoverned,"[""fs-te-02"", ""hc-cd-02""]",dept-portfolio,2,394
+B1_ungoverned,"[""fs-ar-01"", ""hc-mr-02""]",dept-portfolio,1,395
+B1_ungoverned,"[""hc-cd-03"", ""hc-cd-04"", ""hc-cd-01""]",dept-clinical,0,395
+B1_ungoverned,"[""fs-ca-03"", ""fs-ca-01"", ""fs-ca-04""]",dept-advisory,0,395
+B1_ungoverned,"[""hc-iv-02"", ""hc-iv-04"", ""hc-mr-03"", ""hc-mr-02""]",dept-insurance,5,400
+B1_ungoverned,"[""hc-iv-02"", ""hc-iv-03"", ""hc-iv-04""]",dept-insurance,0,400
+B1_ungoverned,"[""fs-te-04"", ""hc-tp-01""]",dept-portfolio,1,401
+B1_ungoverned,"[""hc-da-01"", ""hc-da-03"", ""hc-da-04""]",dept-diagnostics,0,401
+B1_ungoverned,"[""fs-te-02"", ""hc-da-01""]",dept-portfolio,2,403
+B1_ungoverned,"[""fs-ar-02"", ""fs-ar-01"", ""fs-ca-03"", ""fs-ca-04""]",dept-audit,2,405
+B1_ungoverned,"[""hc-cd-03"", ""hc-cd-04"", ""hc-mr-03"", ""hc-mr-01""]",dept-clinical,1,406
+B1_ungoverned,"[""hc-cd-03"", ""hc-cd-01"", ""hc-cd-02""]",dept-clinical,0,406
+B1_ungoverned,"[""fs-rc-01"", ""fs-rc-03"", ""fs-rc-02""]",dept-compliance-fin,1,407
+B1_ungoverned,"[""hc-mr-01"", ""hc-mr-02"", ""hc-da-03"", ""hc-da-04""]",dept-records,0,407
+B1_ungoverned,"[""fs-ar-04"", ""fs-ar-01"", ""fs-ar-02""]",dept-audit,0,407
+B1_ungoverned,"[""fs-ar-01"", ""hc-iv-03""]",dept-portfolio,1,408
+B1_ungoverned,"[""fs-ar-04"", ""fs-ar-03"", ""fs-ar-02""]",dept-audit,0,408
+B1_ungoverned,"[""fs-ar-03"", ""hc-iv-03""]",dept-portfolio,1,409
+B1_ungoverned,"[""hc-iv-04"", ""hc-iv-01"", ""hc-iv-03""]",dept-insurance,0,409
+B1_ungoverned,"[""hc-mr-02"", ""hc-mr-01"", ""hc-mr-03""]",dept-records,0,409
+B1_ungoverned,"[""hc-cd-03"", ""hc-cd-01"", ""hc-cd-02""]",dept-clinical,0,409
+B1_ungoverned,"[""hc-hc-02"", ""hc-hc-04"", ""hc-da-01"", ""hc-da-03""]",dept-compliance-hc,1,410
+B1_ungoverned,"[""fs-te-02"", ""fs-te-01"", ""fs-rc-03"", ""fs-rc-02""]",dept-trading,4,414
+B1_ungoverned,"[""fs-ar-03"", ""fs-ar-01"", ""fs-ar-04""]",dept-audit,0,414
+B1_ungoverned,"[""hc-mr-02"", ""hc-mr-03"", ""hc-mr-01""]",dept-records,0,414
+B1_ungoverned,"[""fs-te-04"", ""hc-iv-02""]",dept-portfolio,2,416
+B1_ungoverned,"[""fs-ra-02"", ""hc-mr-02""]",dept-portfolio,1,417
+B1_ungoverned,"[""fs-ar-04"", ""fs-ar-03"", ""fs-pa-01"", ""fs-pa-04""]",dept-audit,0,417
+B1_ungoverned,"[""hc-mr-03"", ""hc-mr-01"", ""hc-tp-04"", ""hc-tp-02""]",dept-records,0,417
+B1_ungoverned,"[""fs-ra-04"", ""fs-ra-03"", ""fs-rc-04"", ""fs-rc-01""]",dept-risk,0,417
+B1_ungoverned,"[""fs-rc-02"", ""hc-iv-02""]",dept-portfolio,1,418
+B1_ungoverned,"[""hc-mr-02"", ""hc-mr-01"", ""hc-mr-03""]",dept-records,0,418
+B1_ungoverned,"[""hc-tp-01"", ""hc-tp-03"", ""hc-tp-04""]",dept-treatment,0,418
+B1_ungoverned,"[""fs-ra-02"", ""hc-tp-01""]",dept-portfolio,1,419
+B1_ungoverned,"[""fs-ca-01"", ""fs-ca-04"", ""fs-ra-04"", ""fs-ra-02""]",dept-advisory,3,422
+B1_ungoverned,"[""fs-te-01"", ""fs-te-02"", ""fs-te-03""]",dept-trading,2,424
+B1_ungoverned,"[""hc-da-01"", ""hc-da-03"", ""hc-da-04""]",dept-diagnostics,0,424
+B1_ungoverned,"[""fs-ar-04"", ""fs-ar-03"", ""fs-te-02"", ""fs-te-03""]",dept-audit,2,426
+B1_ungoverned,"[""hc-da-02"", ""hc-da-01"", ""hc-da-03""]",dept-diagnostics,0,426
+B1_ungoverned,"[""fs-te-04"", ""fs-te-01"", ""fs-te-02""]",dept-trading,2,428
+B1_ungoverned,"[""fs-ar-03"", ""fs-ar-02"", ""fs-ar-04""]",dept-audit,0,428
+B1_ungoverned,"[""fs-ra-04"", ""fs-ra-03"", ""fs-ra-01""]",dept-risk,0,428
+B1_ungoverned,"[""hc-tp-02"", ""hc-tp-04"", ""hc-tp-01""]",dept-treatment,0,428
+B1_ungoverned,"[""hc-iv-02"", ""hc-iv-03"", ""hc-cd-03"", ""hc-cd-01""]",dept-insurance,3,431
+B1_ungoverned,"[""fs-te-04"", ""fs-te-03"", ""fs-ar-04"", ""fs-ar-03""]",dept-trading,1,432
+B1_ungoverned,"[""hc-iv-02"", ""hc-iv-01"", ""hc-cd-03"", ""hc-cd-04""]",dept-insurance,5,437
+B1_ungoverned,"[""fs-ra-01"", ""fs-ra-03"", ""fs-ca-03"", ""fs-ca-04""]",dept-risk,1,438
+B1_ungoverned,"[""fs-pa-02"", ""hc-hc-04""]",dept-portfolio,1,439
+B1_ungoverned,"[""hc-tp-03"", ""hc-tp-02"", ""hc-tp-04""]",dept-treatment,0,439
+B1_ungoverned,"[""hc-cd-01"", ""hc-cd-04"", ""hc-cd-03""]",dept-clinical,0,439
+B1_ungoverned,"[""hc-mr-01"", ""hc-mr-03"", ""hc-iv-03"", ""hc-iv-04""]",dept-records,4,443
+B1_ungoverned,"[""fs-rc-03"", ""fs-rc-01"", ""fs-rc-04""]",dept-compliance-fin,1,444
+B1_ungoverned,"[""fs-ca-03"", ""fs-ca-04"", ""fs-ca-02""]",dept-advisory,0,444
+B1_ungoverned,"[""fs-te-01"", ""fs-te-02"", ""fs-te-03""]",dept-trading,2,446
+B1_ungoverned,"[""hc-hc-03"", ""hc-hc-01"", ""hc-hc-02""]",dept-compliance-hc,0,446
+B1_ungoverned,"[""fs-te-02"", ""fs-te-03"", ""fs-ca-02"", ""fs-ca-01""]",dept-trading,4,450
+B1_ungoverned,"[""fs-rc-03"", ""hc-iv-01""]",dept-portfolio,2,452
+B1_ungoverned,"[""hc-hc-01"", ""hc-hc-04"", ""hc-cd-02"", ""hc-cd-03""]",dept-compliance-hc,0,452
+B1_ungoverned,"[""hc-tp-01"", ""hc-tp-04"", ""hc-mr-01"", ""hc-mr-03""]",dept-treatment,1,453
+B1_ungoverned,"[""fs-ra-04"", ""fs-ra-02"", ""fs-pa-03"", ""fs-pa-04""]",dept-risk,0,453
+B2_static_policy,"[""fs-rc-04"", ""fs-rc-01"", ""fs-pa-02"", ""fs-pa-04""]",dept-compliance-fin,1,0
+B2_static_policy,"[""fs-rc-01"", ""hc-da-01""]",dept-portfolio,1,1
+B2_static_policy,"[""hc-da-02"", ""hc-da-04"", ""hc-da-01""]",dept-diagnostics,0,1
+B2_static_policy,"[""fs-ca-03"", ""fs-ca-04"", ""fs-ca-02""]",dept-advisory,0,1
+B2_static_policy,"[""fs-pa-03"", ""hc-tp-03""]",dept-portfolio,1,1
+B2_static_policy,"[""fs-rc-02"", ""hc-da-04""]",dept-portfolio,2,2
+B2_static_policy,"[""hc-hc-01"", ""hc-hc-04"", ""hc-tp-04"", ""hc-tp-01""]",dept-compliance-hc,0,2
+B2_static_policy,"[""fs-rc-03"", ""fs-rc-04"", ""fs-rc-01""]",dept-compliance-fin,1,2
+B2_static_policy,"[""fs-ar-02"", ""hc-hc-03""]",dept-portfolio,1,3
+B2_static_policy,"[""fs-ca-01"", ""fs-ca-02"", ""fs-ra-04"", ""fs-ra-03""]",dept-advisory,3,6
+B2_static_policy,"[""hc-mr-02"", ""hc-mr-01"", ""hc-mr-03""]",dept-records,0,6
+B2_static_policy,"[""fs-te-02"", ""fs-te-04"", ""fs-pa-01"", ""fs-pa-02""]",dept-trading,2,7
+B2_static_policy,"[""hc-cd-01"", ""hc-cd-02"", ""hc-cd-03""]",dept-clinical,0,7
+B2_static_policy,"[""fs-pa-02"", ""fs-pa-03"", ""fs-rc-04"", ""fs-rc-03""]",dept-portfolio,1,7
+B2_static_policy,"[""fs-ra-04"", ""fs-ra-02"", ""fs-ra-03""]",dept-risk,0,7
+B2_static_policy,"[""fs-pa-03"", ""fs-pa-04"", ""fs-pa-01""]",dept-portfolio,0,7
+B2_static_policy,"[""hc-tp-01"", ""hc-tp-02"", ""hc-hc-03"", ""hc-hc-04""]",dept-treatment,0,7
+B2_static_policy,"[""fs-ra-03"", ""fs-ra-01"", ""fs-ra-02""]",dept-risk,0,7
+B2_static_policy,"[""hc-da-02"", ""hc-da-03"", ""hc-tp-04"", ""hc-tp-02""]",dept-diagnostics,0,7
+B2_static_policy,"[""fs-ra-03"", ""hc-hc-04""]",dept-portfolio,1,8
+B2_static_policy,"[""hc-tp-01"", ""hc-tp-02"", ""hc-iv-04"", ""hc-iv-02""]",dept-treatment,6,9
+B2_static_policy,"[""fs-pa-04"", ""hc-tp-02""]",dept-portfolio,1,10
+B2_static_policy,"[""hc-iv-02"", ""hc-iv-03"", ""hc-cd-02"", ""hc-cd-03""]",dept-insurance,3,10
+B2_static_policy,"[""fs-ca-02"", ""fs-ca-03"", ""fs-ca-04""]",dept-advisory,0,10
+B2_static_policy,"[""fs-ca-01"", ""fs-ca-03"", ""fs-rc-02"", ""fs-rc-04""]",dept-advisory,3,13
+B2_static_policy,"[""fs-ra-04"", ""fs-ra-01"", ""fs-ra-02""]",dept-risk,0,13
+B2_static_policy,"[""fs-pa-02"", ""fs-pa-03"", ""fs-ar-01"", ""fs-ar-04""]",dept-portfolio,1,13
+B2_static_policy,"[""fs-pa-02"", ""fs-pa-03"", ""fs-pa-04""]",dept-portfolio,0,13
+B2_static_policy,"[""fs-ra-04"", ""fs-ra-01"", ""fs-ca-04"", ""fs-ca-03""]",dept-risk,1,13
+B2_static_policy,"[""fs-ca-02"", ""hc-hc-02""]",dept-portfolio,1,14
+B2_static_policy,"[""hc-hc-03"", ""hc-hc-01"", ""hc-hc-04""]",dept-compliance-hc,0,14
+B2_static_policy,"[""fs-te-04"", ""fs-te-03"", ""fs-ar-03"", ""fs-ar-04""]",dept-trading,1,15
+B2_static_policy,"[""fs-pa-02"", ""fs-pa-01"", ""fs-ar-02"", ""fs-ar-03""]",dept-portfolio,1,16
+B2_static_policy,"[""hc-da-01"", ""hc-da-04"", ""hc-da-02""]",dept-diagnostics,0,16
+B2_static_policy,"[""fs-ca-02"", ""fs-ca-03"", ""fs-ca-01""]",dept-advisory,0,16
+B2_static_policy,"[""hc-iv-01"", ""hc-iv-03"", ""hc-iv-04""]",dept-insurance,0,16
+B2_static_policy,"[""fs-rc-02"", ""hc-tp-04""]",dept-portfolio,2,17
+B2_static_policy,"[""fs-ca-04"", ""hc-mr-03""]",dept-portfolio,1,17
+B2_static_policy,"[""hc-iv-01"", ""hc-iv-04"", ""hc-iv-03""]",dept-insurance,0,17
+B2_static_policy,"[""fs-ca-03"", ""fs-ca-04"", ""fs-ca-01""]",dept-advisory,0,17
+B2_static_policy,"[""fs-ar-03"", ""hc-hc-01""]",dept-portfolio,1,18
+B2_static_policy,"[""hc-tp-02"", ""hc-tp-03"", ""hc-cd-04"", ""hc-cd-03""]",dept-treatment,0,18
+B2_static_policy,"[""hc-hc-04"", ""hc-hc-03"", ""hc-hc-02""]",dept-compliance-hc,0,18
+B2_static_policy,"[""fs-ra-03"", ""hc-da-03""]",dept-portfolio,1,18
+B2_static_policy,"[""fs-ar-02"", ""fs-ar-01"", ""fs-ar-04""]",dept-audit,0,18
+B2_static_policy,"[""hc-hc-04"", ""hc-hc-01"", ""hc-hc-03""]",dept-compliance-hc,0,18
+B2_static_policy,"[""hc-da-04"", ""hc-da-02"", ""hc-mr-02"", ""hc-mr-03""]",dept-diagnostics,1,18
+B2_static_policy,"[""fs-ca-02"", ""fs-ca-01"", ""fs-ca-03""]",dept-advisory,0,18
+B2_static_policy,"[""fs-rc-02"", ""fs-rc-04"", ""fs-rc-01""]",dept-compliance-fin,0,18
+B2_static_policy,"[""hc-mr-01"", ""hc-mr-03"", ""hc-mr-02""]",dept-records,0,18
+B2_static_policy,"[""hc-da-03"", ""hc-da-02"", ""hc-mr-02"", ""hc-mr-03""]",dept-diagnostics,1,18
+B2_static_policy,"[""fs-ca-02"", ""fs-ca-04"", ""fs-ca-03""]",dept-advisory,0,18
+B2_static_policy,"[""hc-hc-02"", ""hc-hc-01"", ""hc-hc-03""]",dept-compliance-hc,0,18
+B2_static_policy,"[""fs-ar-03"", ""fs-ar-04"", ""fs-te-02"", ""fs-te-03""]",dept-audit,2,20
+B2_static_policy,"[""hc-hc-03"", ""hc-hc-01"", ""hc-hc-02""]",dept-compliance-hc,0,20
+B2_static_policy,"[""hc-hc-02"", ""hc-hc-04"", ""hc-hc-03""]",dept-compliance-hc,0,20
+B2_static_policy,"[""fs-ra-01"", ""hc-hc-04""]",dept-portfolio,1,20
+B2_static_policy,"[""hc-da-02"", ""hc-da-03"", ""hc-tp-02"", ""hc-tp-04""]",dept-diagnostics,0,20
+B2_static_policy,"[""hc-mr-02"", ""hc-mr-01"", ""hc-mr-03""]",dept-records,0,20
+B2_static_policy,"[""fs-rc-03"", ""hc-iv-02""]",dept-portfolio,2,22
+B2_static_policy,"[""hc-tp-04"", ""hc-tp-03"", ""hc-mr-01"", ""hc-mr-02""]",dept-treatment,1,22
+B2_static_policy,"[""fs-ca-03"", ""fs-ca-04"", ""fs-ca-01""]",dept-advisory,0,22
+B2_static_policy,"[""fs-pa-02"", ""hc-da-01""]",dept-portfolio,1,23
+B2_static_policy,"[""fs-rc-04"", ""fs-rc-03"", ""fs-rc-01""]",dept-compliance-fin,1,23
+B2_static_policy,"[""hc-iv-01"", ""hc-iv-03"", ""hc-iv-02""]",dept-insurance,0,23
+B2_static_policy,"[""hc-mr-03"", ""hc-mr-01"", ""hc-mr-02""]",dept-records,0,23
+B2_static_policy,"[""hc-da-01"", ""hc-da-02"", ""hc-da-04""]",dept-diagnostics,0,23
+B2_static_policy,"[""fs-pa-04"", ""fs-pa-01"", ""fs-rc-04"", ""fs-rc-02""]",dept-portfolio,3,25
+B2_static_policy,"[""fs-rc-03"", ""fs-rc-01"", ""fs-ar-04"", ""fs-ar-03""]",dept-compliance-fin,1,26
+B2_static_policy,"[""hc-da-02"", ""hc-da-01"", ""hc-cd-01"", ""hc-cd-03""]",dept-diagnostics,0,26
+B2_static_policy,"[""fs-ar-01"", ""hc-mr-01""]",dept-portfolio,1,26
+B2_static_policy,"[""fs-ar-04"", ""fs-ar-03"", ""fs-ar-02""]",dept-audit,0,26
+B2_static_policy,"[""fs-ra-01"", ""fs-ra-04"", ""fs-rc-03"", ""fs-rc-04""]",dept-risk,0,26
+B2_static_policy,"[""fs-ca-03"", ""hc-cd-03""]",dept-portfolio,1,27
+B2_static_policy,"[""fs-ra-02"", ""hc-cd-04""]",dept-portfolio,1,27
+B2_static_policy,"[""fs-rc-02"", ""hc-hc-01""]",dept-portfolio,2,29
+B2_static_policy,"[""hc-tp-01"", ""hc-tp-04"", ""hc-iv-01"", ""hc-iv-02""]",dept-treatment,6,35
+B2_static_policy,"[""hc-da-04"", ""hc-da-02"", ""hc-cd-02"", ""hc-cd-03""]",dept-diagnostics,0,35
+B2_static_policy,"[""fs-ar-01"", ""fs-ar-02"", ""fs-ar-04""]",dept-audit,0,35
+B2_static_policy,"[""fs-ra-02"", ""hc-mr-02""]",dept-portfolio,1,35
+B2_static_policy,"[""fs-ca-01"", ""fs-ca-04"", ""fs-ra-04"", ""fs-ra-02""]",dept-advisory,3,37
+B2_static_policy,"[""hc-da-04"", ""hc-da-01"", ""hc-da-03""]",dept-diagnostics,0,37
+B2_static_policy,"[""hc-tp-04"", ""hc-tp-02"", ""hc-hc-01"", ""hc-hc-03""]",dept-treatment,0,37
+B2_static_policy,"[""hc-cd-04"", ""hc-cd-03"", ""hc-tp-03"", ""hc-tp-04""]",dept-clinical,0,37
+B2_static_policy,"[""hc-iv-03"", ""hc-iv-02"", ""hc-da-02"", ""hc-da-03""]",dept-insurance,3,38
+B2_static_policy,"[""fs-te-01"", ""fs-te-02"", ""fs-te-04""]",dept-trading,2,40
+B2_static_policy,"[""fs-ar-04"", ""fs-ar-01"", ""fs-ar-03""]",dept-audit,0,40
+B2_static_policy,"[""hc-hc-03"", ""hc-hc-04"", ""hc-cd-01"", ""hc-cd-04""]",dept-compliance-hc,0,40
+B2_static_policy,"[""fs-ar-01"", ""hc-iv-04""]",dept-portfolio,2,42
+B2_static_policy,"[""hc-da-04"", ""hc-da-02"", ""hc-hc-01"", ""hc-hc-03""]",dept-diagnostics,1,42
+B2_static_policy,"[""fs-pa-04"", ""hc-da-01""]",dept-portfolio,1,43
+B2_static_policy,"[""fs-te-04"", ""hc-mr-01""]",dept-portfolio,1,43
+B2_static_policy,"[""hc-mr-01"", ""hc-mr-03"", ""hc-cd-04"", ""hc-cd-02""]",dept-records,0,43
+B2_static_policy,"[""hc-hc-04"", ""hc-hc-02"", ""hc-hc-03""]",dept-compliance-hc,0,43
+B2_static_policy,"[""fs-pa-01"", ""fs-pa-04"", ""fs-te-02"", ""fs-te-01""]",dept-portfolio,3,45
+B2_static_policy,"[""hc-da-04"", ""hc-da-01"", ""hc-da-03""]",dept-diagnostics,0,45
+B2_static_policy,"[""hc-cd-02"", ""hc-cd-03"", ""hc-da-01"", ""hc-da-03""]",dept-clinical,0,45
+B2_static_policy,"[""fs-ra-01"", ""fs-ra-04"", ""fs-ra-03""]",dept-risk,0,45
+B2_static_policy,"[""hc-hc-03"", ""hc-hc-02"", ""hc-cd-01"", ""hc-cd-02""]",dept-compliance-hc,0,45
+B2_static_policy,"[""fs-ar-02"", ""hc-mr-01""]",dept-portfolio,1,46
+B2_static_policy,"[""fs-te-03"", ""hc-iv-01""]",dept-portfolio,2,47
+B2_static_policy,"[""fs-pa-02"", ""fs-pa-04"", ""fs-ra-02"", ""fs-ra-04""]",dept-portfolio,0,47
+B2_static_policy,"[""hc-cd-04"", ""hc-cd-01"", ""hc-tp-01"", ""hc-tp-03""]",dept-clinical,0,47
+B2_static_policy,"[""hc-cd-01"", ""hc-cd-03"", ""hc-da-02"", ""hc-da-04""]",dept-clinical,0,47
+B2_static_policy,"[""fs-te-03"", ""hc-mr-03""]",dept-portfolio,1,47
+B2_static_policy,"[""hc-cd-02"", ""hc-cd-04"", ""hc-cd-01""]",dept-clinical,0,47
+B2_static_policy,"[""fs-rc-01"", ""fs-rc-02"", ""fs-rc-04""]",dept-compliance-fin,0,47
+B2_static_policy,"[""fs-ca-01"", ""fs-ca-02"", ""fs-ca-04""]",dept-advisory,0,47
+B2_static_policy,"[""fs-ca-02"", ""fs-ca-04"", ""fs-ca-01""]",dept-advisory,0,47
+B2_static_policy,"[""hc-iv-04"", ""hc-iv-03"", ""hc-hc-02"", ""hc-hc-01""]",dept-insurance,3,49
+B2_static_policy,"[""fs-pa-02"", ""hc-cd-01""]",dept-portfolio,1,49
+B2_static_policy,"[""hc-mr-03"", ""hc-mr-01"", ""hc-mr-02""]",dept-records,0,49
+B2_static_policy,"[""fs-ra-03"", ""fs-ra-04"", ""fs-ra-02""]",dept-risk,0,49
+B2_static_policy,"[""fs-te-02"", ""fs-te-03"", ""fs-te-01""]",dept-trading,2,51
+B2_static_policy,"[""fs-rc-04"", ""hc-hc-02""]",dept-portfolio,1,51
+B2_static_policy,"[""fs-pa-01"", ""fs-pa-04"", ""fs-ra-04"", ""fs-ra-02""]",dept-portfolio,0,51
+B2_static_policy,"[""hc-hc-01"", ""hc-hc-02"", ""hc-hc-03""]",dept-compliance-hc,0,51
+B2_static_policy,"[""fs-rc-02"", ""hc-mr-01""]",dept-portfolio,2,51
+B2_static_policy,"[""hc-iv-01"", ""hc-iv-04"", ""hc-iv-03""]",dept-insurance,0,51
+B2_static_policy,"[""fs-pa-04"", ""hc-tp-03""]",dept-portfolio,1,52
+B2_static_policy,"[""fs-ca-01"", ""fs-ca-04"", ""fs-ca-02""]",dept-advisory,0,52
+B2_static_policy,"[""fs-te-03"", ""fs-te-01"", ""fs-te-04""]",dept-trading,2,52
+B2_static_policy,"[""hc-hc-01"", ""hc-hc-02"", ""hc-iv-03"", ""hc-iv-02""]",dept-compliance-hc,3,52
+B2_static_policy,"[""hc-hc-04"", ""hc-hc-01"", ""hc-hc-03""]",dept-compliance-hc,0,52
+B2_static_policy,"[""fs-ca-04"", ""hc-da-01""]",dept-portfolio,1,52
+B2_static_policy,"[""hc-mr-03"", ""hc-mr-02"", ""hc-mr-01""]",dept-records,0,52
+B2_static_policy,"[""hc-hc-03"", ""hc-hc-01"", ""hc-hc-04""]",dept-compliance-hc,0,52
+B2_static_policy,"[""fs-ca-03"", ""hc-iv-01""]",dept-portfolio,2,52
+B2_static_policy,"[""fs-te-02"", ""hc-mr-02""]",dept-portfolio,2,53
+B2_static_policy,"[""hc-tp-04"", ""hc-tp-01"", ""hc-tp-03""]",dept-treatment,0,53
+B2_static_policy,"[""hc-hc-03"", ""hc-hc-02"", ""hc-hc-04""]",dept-compliance-hc,0,53
+B2_static_policy,"[""hc-cd-02"", ""hc-cd-01"", ""hc-hc-03"", ""hc-hc-02""]",dept-clinical,0,53
+B2_static_policy,"[""hc-cd-04"", ""hc-cd-01"", ""hc-da-04"", ""hc-da-01""]",dept-clinical,0,53
+B2_static_policy,"[""hc-cd-04"", ""hc-cd-01"", ""hc-cd-03""]",dept-clinical,0,53
+B2_static_policy,"[""hc-mr-02"", ""hc-mr-03"", ""hc-tp-03"", ""hc-tp-04""]",dept-records,0,53
+B2_static_policy,"[""fs-te-01"", ""fs-te-04"", ""fs-te-03""]",dept-trading,1,54
+B2_static_policy,"[""fs-pa-02"", ""hc-cd-02""]",dept-portfolio,1,55
+B2_static_policy,"[""fs-ar-01"", ""fs-ar-04"", ""fs-rc-04"", ""fs-rc-01""]",dept-audit,0,55
+B2_static_policy,"[""fs-ca-04"", ""fs-ca-02"", ""fs-ca-03""]",dept-advisory,0,55
+B2_static_policy,"[""fs-te-03"", ""hc-da-01""]",dept-portfolio,1,55
+B2_static_policy,"[""hc-hc-03"", ""hc-hc-04"", ""hc-hc-01""]",dept-compliance-hc,0,55
+B2_static_policy,"[""fs-pa-02"", ""fs-pa-04"", ""fs-pa-03""]",dept-portfolio,0,55
+B2_static_policy,"[""fs-rc-01"", ""fs-rc-03"", ""fs-rc-02""]",dept-compliance-fin,1,55
+B2_static_policy,"[""hc-mr-03"", ""hc-mr-01"", ""hc-mr-02""]",dept-records,0,55
+B2_static_policy,"[""fs-rc-01"", ""fs-rc-02"", ""fs-rc-04""]",dept-compliance-fin,0,55
+B2_static_policy,"[""hc-cd-01"", ""hc-cd-02"", ""hc-tp-04"", ""hc-tp-03""]",dept-clinical,0,55
+B2_static_policy,"[""fs-rc-01"", ""fs-rc-03"", ""fs-rc-02""]",dept-compliance-fin,1,56
+B2_static_policy,"[""hc-iv-04"", ""hc-iv-03"", ""hc-iv-01""]",dept-insurance,0,56
+B2_static_policy,"[""hc-cd-04"", ""hc-cd-03"", ""hc-tp-03"", ""hc-tp-04""]",dept-clinical,0,56
+B2_static_policy,"[""fs-rc-04"", ""fs-rc-03"", ""fs-te-04"", ""fs-te-01""]",dept-compliance-fin,1,57
+B2_static_policy,"[""hc-hc-01"", ""hc-hc-03"", ""hc-tp-04"", ""hc-tp-01""]",dept-compliance-hc,0,57
+B2_static_policy,"[""fs-ra-02"", ""fs-ra-04"", ""fs-ra-01""]",dept-risk,0,57
+B2_static_policy,"[""fs-te-03"", ""hc-mr-02""]",dept-portfolio,1,57
+B2_static_policy,"[""fs-pa-01"", ""hc-da-04""]",dept-portfolio,1,58
+B2_static_policy,"[""hc-tp-02"", ""hc-tp-01"", ""hc-tp-03""]",dept-treatment,0,58
+B2_static_policy,"[""fs-ar-03"", ""hc-cd-01""]",dept-portfolio,1,58
+B2_static_policy,"[""fs-ar-04"", ""fs-ar-03"", ""fs-ca-04"", ""fs-ca-01""]",dept-audit,3,60
+B2_static_policy,"[""fs-rc-04"", ""fs-rc-01"", ""fs-rc-03""]",dept-compliance-fin,1,61
+B2_static_policy,"[""fs-pa-03"", ""hc-da-01""]",dept-portfolio,1,62
+B2_static_policy,"[""hc-hc-04"", ""hc-hc-03"", ""hc-hc-01""]",dept-compliance-hc,0,62
+B2_static_policy,"[""hc-da-02"", ""hc-da-03"", ""hc-da-04""]",dept-diagnostics,0,62
+B2_static_policy,"[""hc-tp-04"", ""hc-tp-02"", ""hc-iv-02"", ""hc-iv-03""]",dept-treatment,4,63
+B2_static_policy,"[""hc-iv-04"", ""hc-iv-02"", ""hc-iv-01""]",dept-insurance,0,63
+B2_static_policy,"[""fs-te-02"", ""hc-cd-01""]",dept-portfolio,2,64
+B2_static_policy,"[""fs-rc-04"", ""hc-cd-03""]",dept-portfolio,1,64
+B2_static_policy,"[""fs-ca-03"", ""fs-ca-04"", ""fs-ca-02""]",dept-advisory,0,64
+B2_static_policy,"[""fs-rc-02"", ""fs-rc-01"", ""fs-rc-03""]",dept-compliance-fin,1,64
+B2_static_policy,"[""fs-te-04"", ""hc-iv-03""]",dept-portfolio,1,64
+B2_static_policy,"[""hc-mr-03"", ""hc-mr-02"", ""hc-hc-02"", ""hc-hc-03""]",dept-records,0,64
+B2_static_policy,"[""fs-ra-04"", ""fs-ra-01"", ""fs-ra-02""]",dept-risk,0,64
+B2_static_policy,"[""hc-cd-04"", ""hc-cd-03"", ""hc-cd-01""]",dept-clinical,0,64
+B2_static_policy,"[""fs-ar-01"", ""hc-iv-02""]",dept-portfolio,2,66
+B2_static_policy,"[""hc-iv-03"", ""hc-iv-01"", ""hc-iv-04""]",dept-insurance,0,66
+B2_static_policy,"[""fs-ar-04"", ""hc-mr-01""]",dept-portfolio,1,67
+B2_static_policy,"[""fs-ar-03"", ""hc-hc-02""]",dept-portfolio,1,67
+B2_static_policy,"[""hc-da-01"", ""hc-da-04"", ""hc-da-02""]",dept-diagnostics,0,67
+B2_static_policy,"[""hc-hc-04"", ""hc-hc-02"", ""hc-hc-01""]",dept-compliance-hc,0,67
+B2_static_policy,"[""hc-mr-02"", ""hc-mr-03"", ""hc-hc-02"", ""hc-hc-03""]",dept-records,0,67
+B2_static_policy,"[""hc-mr-03"", ""hc-mr-02"", ""hc-mr-01""]",dept-records,0,67
+B2_static_policy,"[""fs-pa-02"", ""fs-pa-04"", ""fs-pa-03""]",dept-portfolio,0,67
+B2_static_policy,"[""fs-ar-03"", ""hc-cd-03""]",dept-portfolio,1,68
+B2_static_policy,"[""fs-rc-03"", ""hc-da-01""]",dept-portfolio,1,69
+B2_static_policy,"[""fs-ca-02"", ""hc-hc-03""]",dept-portfolio,1,70
+B2_static_policy,"[""fs-ra-04"", ""hc-iv-01""]",dept-portfolio,2,71
+B2_static_policy,"[""hc-cd-04"", ""hc-cd-02"", ""hc-cd-01""]",dept-clinical,0,71
+B2_static_policy,"[""hc-iv-01"", ""hc-iv-03"", ""hc-iv-04""]",dept-insurance,0,71
+B2_static_policy,"[""fs-te-01"", ""fs-te-02"", ""fs-rc-04"", ""fs-rc-01""]",dept-trading,2,71
+B2_static_policy,"[""fs-ra-01"", ""hc-iv-01""]",dept-portfolio,2,73
+B2_static_policy,"[""fs-pa-04"", ""hc-da-03""]",dept-portfolio,1,74
+B2_static_policy,"[""fs-ca-03"", ""hc-da-04""]",dept-portfolio,1,74
+B2_static_policy,"[""fs-rc-01"", ""hc-mr-01""]",dept-portfolio,1,74
+B2_static_policy,"[""fs-rc-03"", ""hc-cd-01""]",dept-portfolio,1,74
+B2_static_policy,"[""hc-da-04"", ""hc-da-01"", ""hc-mr-03"", ""hc-mr-01""]",dept-diagnostics,1,74
+B2_static_policy,"[""fs-rc-01"", ""fs-rc-03"", ""fs-rc-04""]",dept-compliance-fin,1,75
+B2_static_policy,"[""hc-cd-02"", ""hc-cd-03"", ""hc-cd-04""]",dept-clinical,0,75
+B2_static_policy,"[""fs-rc-02"", ""hc-da-03""]",dept-portfolio,2,75
+B2_static_policy,"[""fs-te-01"", ""hc-cd-01""]",dept-portfolio,2,75
+B2_static_policy,"[""hc-hc-01"", ""hc-hc-03"", ""hc-mr-01"", ""hc-mr-02""]",dept-compliance-hc,1,76
+B2_static_policy,"[""hc-hc-01"", ""hc-hc-02"", ""hc-hc-03""]",dept-compliance-hc,0,76
+B2_static_policy,"[""fs-ra-04"", ""fs-ra-02"", ""fs-ra-03""]",dept-risk,0,76
+B2_static_policy,"[""fs-pa-02"", ""hc-tp-01""]",dept-portfolio,1,76
+B2_static_policy,"[""fs-ra-03"", ""hc-iv-01""]",dept-portfolio,2,78
+B2_static_policy,"[""fs-ca-02"", ""hc-iv-01""]",dept-portfolio,1,79
+B2_static_policy,"[""fs-te-04"", ""hc-iv-01""]",dept-portfolio,2,81
+B2_static_policy,"[""fs-ar-02"", ""fs-ar-01"", ""fs-ar-04""]",dept-audit,0,81
+B2_static_policy,"[""fs-rc-02"", ""hc-tp-04""]",dept-portfolio,2,82
+B2_static_policy,"[""fs-pa-04"", ""fs-pa-02"", ""fs-te-04"", ""fs-te-01""]",dept-portfolio,2,84
+B2_static_policy,"[""fs-ra-01"", ""hc-mr-03""]",dept-portfolio,1,84
+B2_static_policy,"[""hc-iv-02"", ""hc-iv-01"", ""hc-iv-04""]",dept-insurance,0,84
+B2_static_policy,"[""fs-te-04"", ""hc-hc-02""]",dept-portfolio,1,85
+B2_static_policy,"[""fs-ca-04"", ""fs-ca-03"", ""fs-ca-01""]",dept-advisory,0,85
+B2_static_policy,"[""fs-pa-02"", ""hc-tp-02""]",dept-portfolio,1,85
+B2_static_policy,"[""fs-pa-02"", ""fs-pa-04"", ""fs-pa-03""]",dept-portfolio,0,85
+B2_static_policy,"[""fs-ar-02"", ""fs-ar-03"", ""fs-rc-03"", ""fs-rc-04""]",dept-audit,1,85
+B2_static_policy,"[""fs-ra-01"", ""hc-mr-03""]",dept-portfolio,1,86
+B2_static_policy,"[""fs-te-02"", ""hc-tp-01""]",dept-portfolio,2,87
+B2_static_policy,"[""fs-te-02"", ""hc-tp-02""]",dept-portfolio,2,89
+B2_static_policy,"[""hc-tp-04"", ""hc-tp-02"", ""hc-da-04"", ""hc-da-02""]",dept-treatment,0,89
+B2_static_policy,"[""hc-cd-01"", ""hc-cd-04"", ""hc-iv-02"", ""hc-iv-03""]",dept-clinical,4,92
+B2_static_policy,"[""hc-tp-04"", ""hc-tp-02"", ""hc-tp-01""]",dept-treatment,0,92
+B2_static_policy,"[""fs-pa-03"", ""hc-tp-01""]",dept-portfolio,1,93
+B2_static_policy,"[""hc-iv-02"", ""hc-iv-01"", ""hc-iv-04""]",dept-insurance,0,93
+B2_static_policy,"[""fs-rc-03"", ""hc-mr-01""]",dept-portfolio,1,94
+B2_static_policy,"[""fs-rc-04"", ""fs-rc-02"", ""fs-ar-01"", ""fs-ar-03""]",dept-compliance-fin,2,94
+B2_static_policy,"[""hc-tp-03"", ""hc-tp-01"", ""hc-iv-02"", ""hc-iv-03""]",dept-treatment,4,97
+B2_static_policy,"[""fs-ra-04"", ""hc-da-04""]",dept-portfolio,1,97
+B2_static_policy,"[""fs-ca-04"", ""fs-ca-02"", ""fs-ca-03""]",dept-advisory,0,97
+B2_static_policy,"[""fs-te-03"", ""fs-te-01"", ""fs-te-02""]",dept-trading,2,99
+B2_static_policy,"[""fs-ra-03"", ""hc-cd-01""]",dept-portfolio,1,100
+B2_static_policy,"[""fs-ra-01"", ""fs-ra-02"", ""fs-ra-03""]",dept-risk,0,100
+B2_static_policy,"[""fs-ra-04"", ""fs-ra-01"", ""fs-ra-03""]",dept-risk,0,100
+B2_static_policy,"[""fs-ar-02"", ""fs-ar-03"", ""fs-te-02"", ""fs-te-01""]",dept-audit,2,102
+B2_static_policy,"[""fs-pa-03"", ""fs-pa-01"", ""fs-pa-02""]",dept-portfolio,0,102
+B2_static_policy,"[""hc-tp-01"", ""hc-tp-03"", ""hc-tp-02""]",dept-treatment,0,102
+B2_static_policy,"[""fs-te-01"", ""hc-cd-03""]",dept-portfolio,2,103
+B2_static_policy,"[""fs-rc-03"", ""fs-rc-02"", ""fs-ca-02"", ""fs-ca-03""]",dept-compliance-fin,2,104
+B2_static_policy,"[""fs-pa-04"", ""hc-hc-02""]",dept-portfolio,1,104
+B2_static_policy,"[""hc-mr-03"", ""hc-mr-01"", ""hc-hc-03"", ""hc-hc-01""]",dept-records,0,104
+B2_static_policy,"[""hc-hc-01"", ""hc-hc-03"", ""hc-hc-02""]",dept-compliance-hc,0,104
+B2_static_policy,"[""fs-pa-02"", ""hc-cd-04""]",dept-portfolio,1,104
+B2_static_policy,"[""fs-ar-04"", ""fs-ar-01"", ""fs-ar-03""]",dept-audit,0,104
+B2_static_policy,"[""fs-rc-04"", ""fs-rc-02"", ""fs-rc-03""]",dept-compliance-fin,0,104
+B2_static_policy,"[""fs-pa-04"", ""hc-tp-01""]",dept-portfolio,1,105
+B2_static_policy,"[""fs-ca-03"", ""hc-da-01""]",dept-portfolio,1,106
+B2_static_policy,"[""fs-ra-02"", ""hc-mr-01""]",dept-portfolio,1,106
+B2_static_policy,"[""fs-ar-03"", ""hc-cd-02""]",dept-portfolio,1,106
+B2_static_policy,"[""fs-te-02"", ""hc-hc-03""]",dept-portfolio,2,106
+B2_static_policy,"[""fs-ar-04"", ""hc-mr-02""]",dept-portfolio,1,106
+B2_static_policy,"[""hc-hc-01"", ""hc-hc-04"", ""hc-hc-03""]",dept-compliance-hc,0,106
+B2_static_policy,"[""hc-hc-02"", ""hc-hc-04"", ""hc-mr-03"", ""hc-mr-02""]",dept-compliance-hc,1,106
+B2_static_policy,"[""fs-pa-02"", ""hc-mr-03""]",dept-portfolio,1,106
+B2_static_policy,"[""fs-pa-01"", ""hc-tp-02""]",dept-portfolio,1,107
+B2_static_policy,"[""hc-cd-04"", ""hc-cd-03"", ""hc-cd-02""]",dept-clinical,0,107
+B2_static_policy,"[""fs-te-01"", ""hc-hc-03""]",dept-portfolio,2,108
+B2_static_policy,"[""fs-ar-01"", ""hc-hc-02""]",dept-portfolio,1,108
+B2_static_policy,"[""fs-ar-03"", ""hc-hc-01""]",dept-portfolio,1,109
+B2_static_policy,"[""fs-pa-02"", ""fs-pa-04"", ""fs-pa-01""]",dept-portfolio,0,109
+B2_static_policy,"[""hc-iv-04"", ""hc-iv-03"", ""hc-mr-02"", ""hc-mr-03""]",dept-insurance,3,110
+B2_static_policy,"[""fs-pa-01"", ""fs-pa-04"", ""fs-ar-01"", ""fs-ar-02""]",dept-portfolio,1,110
+B2_static_policy,"[""fs-rc-04"", ""fs-rc-02"", ""fs-ar-02"", ""fs-ar-04""]",dept-compliance-fin,2,110
+B2_static_policy,"[""fs-ar-02"", ""hc-tp-01""]",dept-portfolio,1,111
+B2_static_policy,"[""fs-rc-02"", ""hc-iv-01""]",dept-portfolio,1,111
+B2_static_policy,"[""fs-ra-01"", ""fs-ra-04"", ""fs-ra-02""]",dept-risk,0,111
+B2_static_policy,"[""hc-mr-01"", ""hc-mr-02"", ""hc-mr-03""]",dept-records,0,111
+B2_static_policy,"[""fs-pa-01"", ""fs-pa-02"", ""fs-ca-02"", ""fs-ca-03""]",dept-portfolio,0,111
+B2_static_policy,"[""hc-da-04"", ""hc-da-01"", ""hc-hc-03"", ""hc-hc-01""]",dept-diagnostics,1,112
+B2_static_policy,"[""fs-rc-03"", ""fs-rc-04"", ""fs-rc-02""]",dept-compliance-fin,0,112
+B2_static_policy,"[""fs-pa-04"", ""fs-pa-02"", ""fs-ra-04"", ""fs-ra-02""]",dept-portfolio,0,112
+B2_static_policy,"[""fs-pa-02"", ""fs-pa-01"", ""fs-pa-03""]",dept-portfolio,0,112
+B2_static_policy,"[""fs-ar-04"", ""hc-da-03""]",dept-portfolio,1,113
+B2_static_policy,"[""fs-rc-04"", ""hc-da-03""]",dept-portfolio,1,113
+B2_static_policy,"[""fs-ar-04"", ""fs-ar-03"", ""fs-ar-02""]",dept-audit,0,113
+B2_static_policy,"[""fs-ca-01"", ""hc-cd-02""]",dept-portfolio,2,114
+B2_static_policy,"[""hc-da-03"", ""hc-da-04"", ""hc-da-02""]",dept-diagnostics,0,114
+B2_static_policy,"[""hc-tp-02"", ""hc-tp-03"", ""hc-hc-04"", ""hc-hc-02""]",dept-treatment,0,114
+B2_static_policy,"[""hc-iv-02"", ""hc-iv-03"", ""hc-iv-04""]",dept-insurance,0,114
+B2_static_policy,"[""fs-ar-02"", ""hc-da-01""]",dept-portfolio,1,114
+B2_static_policy,"[""fs-ar-02"", ""hc-da-03""]",dept-portfolio,1,114
+B2_static_policy,"[""fs-pa-01"", ""fs-pa-04"", ""fs-ar-03"", ""fs-ar-01""]",dept-portfolio,1,115
+B2_static_policy,"[""hc-iv-03"", ""hc-iv-01"", ""hc-iv-04""]",dept-insurance,0,115
+B2_static_policy,"[""hc-hc-02"", ""hc-hc-04"", ""hc-hc-03""]",dept-compliance-hc,0,115
+B2_static_policy,"[""hc-hc-01"", ""hc-hc-04"", ""hc-hc-02""]",dept-compliance-hc,0,115
+B2_static_policy,"[""fs-pa-03"", ""hc-iv-04""]",dept-portfolio,2,116
+B2_static_policy,"[""fs-ar-04"", ""fs-ar-03"", ""fs-te-02"", ""fs-te-04""]",dept-audit,2,116
+B2_static_policy,"[""fs-ar-03"", ""fs-ar-01"", ""fs-te-01"", ""fs-te-04""]",dept-audit,2,118
+B2_static_policy,"[""fs-ra-01"", ""fs-ra-02"", ""fs-ra-03""]",dept-risk,0,118
+B2_static_policy,"[""hc-iv-04"", ""hc-iv-01"", ""hc-iv-02""]",dept-insurance,0,118
+B2_static_policy,"[""fs-ra-02"", ""fs-ra-04"", ""fs-ra-03""]",dept-risk,0,118
+B2_static_policy,"[""fs-pa-02"", ""hc-tp-04""]",dept-portfolio,1,118
+B2_static_policy,"[""hc-hc-04"", ""hc-hc-03"", ""hc-cd-02"", ""hc-cd-04""]",dept-compliance-hc,0,118
+B2_static_policy,"[""fs-pa-04"", ""fs-pa-02"", ""fs-ca-02"", ""fs-ca-04""]",dept-portfolio,0,118
+B2_static_policy,"[""fs-te-04"", ""fs-te-02"", ""fs-te-03""]",dept-trading,2,120
+B2_static_policy,"[""hc-mr-02"", ""hc-mr-01"", ""hc-mr-03""]",dept-records,0,120
+B2_static_policy,"[""hc-cd-01"", ""hc-cd-03"", ""hc-cd-02""]",dept-clinical,0,120
+B2_static_policy,"[""fs-ca-03"", ""hc-cd-04""]",dept-portfolio,1,120
+B2_static_policy,"[""fs-ra-01"", ""hc-tp-01""]",dept-portfolio,1,120
+B2_static_policy,"[""fs-ca-04"", ""fs-ca-03"", ""fs-pa-03"", ""fs-pa-01""]",dept-advisory,0,120
+B2_static_policy,"[""hc-da-04"", ""hc-da-01"", ""hc-da-03""]",dept-diagnostics,0,120
+B2_static_policy,"[""hc-tp-01"", ""hc-tp-04"", ""hc-mr-01"", ""hc-mr-02""]",dept-treatment,1,121
+B2_static_policy,"[""fs-ra-02"", ""fs-ra-04"", ""fs-rc-02"", ""fs-rc-04""]",dept-risk,2,121
+B2_static_policy,"[""fs-pa-03"", ""fs-pa-02"", ""fs-pa-01""]",dept-portfolio,0,121
+B2_static_policy,"[""hc-iv-01"", ""hc-iv-03"", ""hc-mr-01"", ""hc-mr-02""]",dept-insurance,3,123
+B2_static_policy,"[""fs-rc-03"", ""fs-rc-04"", ""fs-ra-01"", ""fs-ra-02""]",dept-compliance-fin,0,123
+B2_static_policy,"[""hc-iv-04"", ""hc-iv-03"", ""hc-da-02"", ""hc-da-03""]",dept-insurance,3,125
+B2_static_policy,"[""hc-mr-03"", ""hc-mr-01"", ""hc-mr-02""]",dept-records,0,125
+B2_static_policy,"[""fs-ra-02"", ""fs-ra-04"", ""fs-ra-03""]",dept-risk,0,125
+B2_static_policy,"[""hc-da-02"", ""hc-da-04"", ""hc-hc-02"", ""hc-hc-03""]",dept-diagnostics,1,125
+B2_static_policy,"[""fs-ra-03"", ""fs-ra-04"", ""fs-ra-01""]",dept-risk,0,125
+B2_static_policy,"[""hc-da-04"", ""hc-da-02"", ""hc-da-03""]",dept-diagnostics,0,125
+B2_static_policy,"[""fs-rc-03"", ""hc-da-03""]",dept-portfolio,1,126
+B2_static_policy,"[""fs-rc-03"", ""hc-da-01""]",dept-portfolio,1,126
+B2_static_policy,"[""fs-ar-02"", ""fs-ar-03"", ""fs-te-04"", ""fs-te-01""]",dept-audit,1,126
+B2_static_policy,"[""fs-ra-01"", ""hc-mr-01""]",dept-portfolio,1,126
+B2_static_policy,"[""fs-pa-01"", ""hc-mr-01""]",dept-portfolio,1,127
+B2_static_policy,"[""hc-hc-04"", ""hc-hc-02"", ""hc-hc-03""]",dept-compliance-hc,0,127
+B2_static_policy,"[""fs-ar-02"", ""fs-ar-01"", ""fs-ar-04""]",dept-audit,0,127
+B2_static_policy,"[""fs-ca-02"", ""fs-ca-03"", ""fs-rc-01"", ""fs-rc-03""]",dept-advisory,2,129
+B2_static_policy,"[""hc-hc-03"", ""hc-hc-04"", ""hc-tp-03"", ""hc-tp-04""]",dept-compliance-hc,0,129
+B2_static_policy,"[""hc-da-03"", ""hc-da-01"", ""hc-hc-04"", ""hc-hc-03""]",dept-diagnostics,1,129
+B2_static_policy,"[""hc-iv-01"", ""hc-iv-04"", ""hc-iv-02""]",dept-insurance,0,129
+B2_static_policy,"[""hc-tp-04"", ""hc-tp-01"", ""hc-iv-04"", ""hc-iv-02""]",dept-treatment,6,129
+B2_static_policy,"[""fs-ca-01"", ""hc-tp-02""]",dept-portfolio,2,129
+B2_static_policy,"[""fs-ar-04"", ""fs-ar-02"", ""fs-ar-01""]",dept-audit,0,129
+B2_static_policy,"[""fs-ar-02"", ""hc-tp-04""]",dept-portfolio,1,129
+B2_static_policy,"[""hc-cd-01"", ""hc-cd-02"", ""hc-cd-04""]",dept-clinical,0,129
+B2_static_policy,"[""fs-te-02"", ""hc-mr-03""]",dept-portfolio,2,131
+B2_static_policy,"[""fs-ra-04"", ""fs-ra-02"", ""fs-ra-01""]",dept-risk,0,131
+B2_static_policy,"[""hc-tp-03"", ""hc-tp-02"", ""hc-tp-01""]",dept-treatment,0,131
+B2_static_policy,"[""hc-mr-02"", ""hc-mr-01"", ""hc-mr-03""]",dept-records,0,131
+B2_static_policy,"[""fs-ca-03"", ""fs-ca-01"", ""fs-ca-02""]",dept-advisory,0,131
+B2_static_policy,"[""hc-cd-04"", ""hc-cd-03"", ""hc-cd-01""]",dept-clinical,0,131
+B2_static_policy,"[""fs-ca-03"", ""fs-ca-01"", ""fs-ca-04""]",dept-advisory,0,131
+B2_static_policy,"[""fs-pa-04"", ""hc-iv-02""]",dept-portfolio,2,131
+B2_static_policy,"[""fs-ar-04"", ""hc-da-04""]",dept-portfolio,1,131
+B2_static_policy,"[""fs-ar-03"", ""fs-ar-02"", ""fs-ar-01""]",dept-audit,0,131
+B2_static_policy,"[""hc-mr-01"", ""hc-mr-02"", ""hc-mr-03""]",dept-records,0,131
+B2_static_policy,"[""fs-rc-04"", ""fs-rc-03"", ""fs-rc-01""]",dept-compliance-fin,1,131
+B2_static_policy,"[""fs-ar-01"", ""hc-tp-03""]",dept-portfolio,1,131
+B2_static_policy,"[""fs-pa-03"", ""hc-iv-03""]",dept-portfolio,1,131
+B2_static_policy,"[""hc-hc-04"", ""hc-hc-03"", ""hc-tp-03"", ""hc-tp-02""]",dept-compliance-hc,0,131
+B2_static_policy,"[""fs-pa-04"", ""fs-pa-01"", ""fs-ca-01"", ""fs-ca-04""]",dept-portfolio,2,133
+B2_static_policy,"[""fs-rc-01"", ""fs-rc-04"", ""fs-pa-03"", ""fs-pa-04""]",dept-compliance-fin,1,133
+B2_static_policy,"[""fs-pa-04"", ""fs-pa-01"", ""fs-pa-02""]",dept-portfolio,0,133
+B2_static_policy,"[""fs-rc-01"", ""fs-rc-02"", ""fs-ca-03"", ""fs-ca-04""]",dept-compliance-fin,4,133
+B2_static_policy,"[""fs-ar-03"", ""hc-iv-02""]",dept-portfolio,2,134
+B2_static_policy,"[""fs-ar-01"", ""hc-tp-03""]",dept-portfolio,1,135
+B2_static_policy,"[""fs-ca-02"", ""fs-ca-03"", ""fs-ca-04""]",dept-advisory,0,135
+B2_static_policy,"[""fs-ca-02"", ""hc-tp-03""]",dept-portfolio,1,136
+B2_static_policy,"[""fs-ar-02"", ""fs-ar-04"", ""fs-ca-03"", ""fs-ca-02""]",dept-audit,1,137
+B2_static_policy,"[""fs-rc-04"", ""hc-cd-01""]",dept-portfolio,1,138
+B2_static_policy,"[""fs-te-02"", ""fs-te-04"", ""fs-rc-02"", ""fs-rc-03""]",dept-trading,3,139
+B2_static_policy,"[""fs-ca-03"", ""fs-ca-01"", ""fs-ra-04"", ""fs-ra-02""]",dept-advisory,3,141
+B2_static_policy,"[""fs-ar-01"", ""fs-ar-04"", ""fs-ar-02""]",dept-audit,0,141
+B2_static_policy,"[""fs-ra-01"", ""hc-iv-01""]",dept-portfolio,2,142
+B2_static_policy,"[""hc-iv-04"", ""hc-iv-03"", ""hc-da-02"", ""hc-da-04""]",dept-insurance,3,144
+B2_static_policy,"[""fs-ra-04"", ""hc-cd-04""]",dept-portfolio,1,145
+B2_static_policy,"[""fs-pa-01"", ""hc-hc-04""]",dept-portfolio,1,145
+B2_static_policy,"[""hc-hc-03"", ""hc-hc-02"", ""hc-hc-04""]",dept-compliance-hc,0,145
+B2_static_policy,"[""fs-ca-01"", ""hc-cd-03""]",dept-portfolio,2,146
+B2_static_policy,"[""fs-ar-04"", ""hc-iv-04""]",dept-portfolio,2,147
+B2_static_policy,"[""fs-rc-04"", ""fs-rc-03"", ""fs-rc-02""]",dept-compliance-fin,0,147
+B2_static_policy,"[""fs-ca-04"", ""fs-ca-03"", ""fs-ca-02""]",dept-advisory,0,147
+B2_static_policy,"[""hc-cd-03"", ""hc-cd-01"", ""hc-tp-04"", ""hc-tp-03""]",dept-clinical,0,147
+B2_static_policy,"[""fs-te-01"", ""hc-da-01""]",dept-portfolio,2,148
+B2_static_policy,"[""fs-pa-02"", ""fs-pa-04"", ""fs-rc-02"", ""fs-rc-03""]",dept-portfolio,3,150
+B2_static_policy,"[""fs-ca-02"", ""hc-mr-01""]",dept-portfolio,1,150
+B2_static_policy,"[""fs-ca-03"", ""fs-ca-02"", ""fs-ca-04""]",dept-advisory,0,150
+B2_static_policy,"[""hc-mr-03"", ""hc-mr-02"", ""hc-iv-03"", ""hc-iv-01""]",dept-records,4,154
+B2_static_policy,"[""hc-cd-03"", ""hc-cd-04"", ""hc-cd-02""]",dept-clinical,0,154
+B2_static_policy,"[""fs-ca-02"", ""hc-da-03""]",dept-portfolio,1,155
+B2_static_policy,"[""fs-rc-04"", ""hc-tp-03""]",dept-portfolio,1,156
+B2_static_policy,"[""hc-hc-03"", ""hc-hc-02"", ""hc-iv-03"", ""hc-iv-02""]",dept-compliance-hc,3,157
+B2_static_policy,"[""fs-ra-04"", ""fs-ra-01"", ""fs-te-02"", ""fs-te-04""]",dept-risk,2,157
+B2_static_policy,"[""fs-pa-03"", ""hc-mr-01""]",dept-portfolio,1,158
+B2_static_policy,"[""hc-mr-01"", ""hc-mr-02"", ""hc-mr-03""]",dept-records,0,158
+B2_static_policy,"[""hc-mr-03"", ""hc-mr-02"", ""hc-cd-03"", ""hc-cd-04""]",dept-records,0,158
+B2_static_policy,"[""hc-tp-03"", ""hc-tp-02"", ""hc-da-04"", ""hc-da-01""]",dept-treatment,0,158
+B2_static_policy,"[""fs-ca-04"", ""fs-ca-01"", ""fs-ca-02""]",dept-advisory,0,158
+B2_static_policy,"[""hc-cd-01"", ""hc-cd-04"", ""hc-cd-02""]",dept-clinical,0,158
+B2_static_policy,"[""hc-tp-01"", ""hc-tp-03"", ""hc-cd-03"", ""hc-cd-04""]",dept-treatment,0,158
+B2_static_policy,"[""fs-pa-02"", ""hc-da-01""]",dept-portfolio,1,159
+B2_static_policy,"[""hc-cd-02"", ""hc-cd-03"", ""hc-tp-02"", ""hc-tp-03""]",dept-clinical,0,159
+B2_static_policy,"[""fs-pa-02"", ""hc-da-01""]",dept-portfolio,1,160
+B2_static_policy,"[""fs-ar-02"", ""hc-mr-01""]",dept-portfolio,1,161
+B2_static_policy,"[""hc-mr-03"", ""hc-mr-01"", ""hc-mr-02""]",dept-records,0,161
+B2_static_policy,"[""fs-ca-02"", ""hc-tp-02""]",dept-portfolio,1,162
+B2_static_policy,"[""fs-ca-03"", ""fs-ca-02"", ""fs-ca-01""]",dept-advisory,0,162
+B2_static_policy,"[""fs-pa-03"", ""fs-pa-02"", ""fs-pa-01""]",dept-portfolio,0,162
+B2_static_policy,"[""fs-ca-01"", ""fs-ca-03"", ""fs-ar-04"", ""fs-ar-03""]",dept-advisory,3,162
+B2_static_policy,"[""fs-ar-01"", ""hc-mr-01""]",dept-portfolio,1,162
+B2_static_policy,"[""fs-ar-02"", ""fs-ar-04"", ""fs-pa-03"", ""fs-pa-01""]",dept-audit,0,162
+B2_static_policy,"[""fs-te-04"", ""fs-te-02"", ""fs-te-01""]",dept-trading,2,164
+B2_static_policy,"[""hc-iv-03"", ""hc-iv-02"", ""hc-da-03"", ""hc-da-04""]",dept-insurance,3,167
+B2_static_policy,"[""hc-iv-04"", ""hc-iv-01"", ""hc-cd-02"", ""hc-cd-03""]",dept-insurance,5,171
+B2_static_policy,"[""fs-pa-04"", ""hc-mr-03""]",dept-portfolio,1,171
+B2_static_policy,"[""hc-tp-04"", ""hc-tp-02"", ""hc-cd-03"", ""hc-cd-01""]",dept-treatment,0,171
+B2_static_policy,"[""hc-cd-01"", ""hc-cd-03"", ""hc-cd-02""]",dept-clinical,0,171
+B2_static_policy,"[""hc-da-04"", ""hc-da-03"", ""hc-da-02""]",dept-diagnostics,0,171
+B2_static_policy,"[""hc-iv-02"", ""hc-iv-04"", ""hc-iv-01""]",dept-insurance,0,171
+B2_static_policy,"[""fs-rc-01"", ""fs-rc-02"", ""fs-rc-03""]",dept-compliance-fin,1,172
+B2_static_policy,"[""hc-tp-03"", ""hc-tp-01"", ""hc-tp-02""]",dept-treatment,0,172
+B2_static_policy,"[""fs-rc-01"", ""fs-rc-02"", ""fs-rc-04""]",dept-compliance-fin,0,172
+B2_static_policy,"[""fs-ra-04"", ""fs-ra-02"", ""fs-ar-03"", ""fs-ar-01""]",dept-risk,1,172
+B2_static_policy,"[""fs-pa-03"", ""hc-da-01""]",dept-portfolio,1,173
+B2_static_policy,"[""fs-te-01"", ""fs-te-04"", ""fs-te-02""]",dept-trading,2,173
+B2_static_policy,"[""fs-te-04"", ""fs-te-02"", ""fs-te-01""]",dept-trading,2,175
+B2_static_policy,"[""fs-ca-02"", ""fs-ca-03"", ""fs-ra-02"", ""fs-ra-03""]",dept-advisory,1,175
+B2_static_policy,"[""hc-da-02"", ""hc-da-04"", ""hc-iv-03"", ""hc-iv-02""]",dept-diagnostics,4,175
+B2_static_policy,"[""fs-ca-02"", ""hc-hc-04""]",dept-portfolio,1,175
+B2_static_policy,"[""hc-tp-04"", ""hc-tp-03"", ""hc-iv-03"", ""hc-iv-02""]",dept-treatment,4,178
+B2_static_policy,"[""fs-ca-03"", ""hc-hc-03""]",dept-portfolio,1,179
+B2_static_policy,"[""hc-da-03"", ""hc-da-04"", ""hc-mr-01"", ""hc-mr-02""]",dept-diagnostics,1,179
+B2_static_policy,"[""hc-cd-04"", ""hc-cd-03"", ""hc-cd-01""]",dept-clinical,0,179
+B2_static_policy,"[""fs-te-02"", ""hc-tp-02""]",dept-portfolio,2,180
+B2_static_policy,"[""hc-da-04"", ""hc-da-03"", ""hc-mr-01"", ""hc-mr-03""]",dept-diagnostics,1,181
+B2_static_policy,"[""hc-da-04"", ""hc-da-02"", ""hc-da-03""]",dept-diagnostics,0,181
+B2_static_policy,"[""hc-tp-01"", ""hc-tp-02"", ""hc-tp-03""]",dept-treatment,0,181
+B2_static_policy,"[""fs-te-01"", ""hc-mr-03""]",dept-portfolio,2,183
+B2_static_policy,"[""fs-pa-04"", ""fs-pa-02"", ""fs-pa-03""]",dept-portfolio,0,183
+B2_static_policy,"[""hc-iv-04"", ""hc-iv-01"", ""hc-hc-01"", ""hc-hc-04""]",dept-insurance,5,183
+B2_static_policy,"[""fs-ar-01"", ""fs-ar-02"", ""fs-pa-01"", ""fs-pa-02""]",dept-audit,0,183
+B2_static_policy,"[""fs-ca-03"", ""hc-tp-01""]",dept-portfolio,1,183
+B2_static_policy,"[""fs-ar-04"", ""fs-ar-01"", ""fs-ca-01"", ""fs-ca-03""]",dept-audit,3,186
+B2_static_policy,"[""hc-da-03"", ""hc-da-04"", ""hc-mr-02"", ""hc-mr-01""]",dept-diagnostics,1,186
+B2_static_policy,"[""fs-ca-01"", ""fs-ca-02"", ""fs-ra-04"", ""fs-ra-02""]",dept-advisory,3,186
+B2_static_policy,"[""fs-pa-04"", ""hc-da-03""]",dept-portfolio,1,187
+B2_static_policy,"[""fs-ar-03"", ""hc-iv-02""]",dept-portfolio,2,188
+B2_static_policy,"[""fs-pa-01"", ""hc-iv-02""]",dept-portfolio,2,189
+B2_static_policy,"[""fs-ra-01"", ""fs-ra-04"", ""fs-rc-02"", ""fs-rc-03""]",dept-risk,2,191
+B2_static_policy,"[""hc-mr-01"", ""hc-mr-02"", ""hc-mr-03""]",dept-records,0,191
+B2_static_policy,"[""fs-rc-02"", ""fs-rc-04"", ""fs-ca-03"", ""fs-ca-01""]",dept-compliance-fin,3,193
+B2_static_policy,"[""fs-ra-04"", ""hc-cd-01""]",dept-portfolio,1,194
+B2_static_policy,"[""hc-mr-03"", ""hc-mr-01"", ""hc-cd-02"", ""hc-cd-03""]",dept-records,0,194
+B2_static_policy,"[""hc-tp-04"", ""hc-tp-01"", ""hc-mr-02"", ""hc-mr-03""]",dept-treatment,1,195
+B2_static_policy,"[""fs-pa-01"", ""hc-iv-02""]",dept-portfolio,2,196
+B2_static_policy,"[""hc-iv-01"", ""hc-iv-04"", ""hc-iv-03""]",dept-insurance,0,196
+B2_static_policy,"[""hc-da-04"", ""hc-da-01"", ""hc-iv-03"", ""hc-iv-04""]",dept-diagnostics,4,196
+B2_static_policy,"[""hc-tp-03"", ""hc-tp-01"", ""hc-tp-04""]",dept-treatment,0,196
+B2_static_policy,"[""fs-ra-03"", ""hc-tp-02""]",dept-portfolio,1,196
+B2_static_policy,"[""hc-mr-03"", ""hc-mr-01"", ""hc-da-02"", ""hc-da-01""]",dept-records,0,196
+B2_static_policy,"[""fs-te-02"", ""hc-cd-02""]",dept-portfolio,2,197
+B2_static_policy,"[""fs-ar-01"", ""hc-mr-02""]",dept-portfolio,1,197
+B2_static_policy,"[""hc-cd-03"", ""hc-cd-04"", ""hc-cd-01""]",dept-clinical,0,197
+B2_static_policy,"[""fs-ca-03"", ""fs-ca-01"", ""fs-ca-04""]",dept-advisory,0,197
+B2_static_policy,"[""hc-iv-02"", ""hc-iv-04"", ""hc-mr-03"", ""hc-mr-02""]",dept-insurance,5,202
+B2_static_policy,"[""hc-iv-02"", ""hc-iv-03"", ""hc-iv-04""]",dept-insurance,0,202
+B2_static_policy,"[""fs-te-04"", ""hc-tp-01""]",dept-portfolio,1,202
+B2_static_policy,"[""hc-da-01"", ""hc-da-03"", ""hc-da-04""]",dept-diagnostics,0,202
+B2_static_policy,"[""fs-te-02"", ""hc-da-01""]",dept-portfolio,2,204
+B2_static_policy,"[""fs-ar-02"", ""fs-ar-01"", ""fs-ca-03"", ""fs-ca-04""]",dept-audit,2,204
+B2_static_policy,"[""hc-cd-03"", ""hc-cd-04"", ""hc-mr-03"", ""hc-mr-01""]",dept-clinical,1,205
+B2_static_policy,"[""hc-cd-03"", ""hc-cd-01"", ""hc-cd-02""]",dept-clinical,0,205
+B2_static_policy,"[""fs-rc-01"", ""fs-rc-03"", ""fs-rc-02""]",dept-compliance-fin,1,205
+B2_static_policy,"[""hc-mr-01"", ""hc-mr-02"", ""hc-da-03"", ""hc-da-04""]",dept-records,0,205
+B2_static_policy,"[""fs-ar-04"", ""fs-ar-01"", ""fs-ar-02""]",dept-audit,0,205
+B2_static_policy,"[""fs-ar-01"", ""hc-iv-03""]",dept-portfolio,1,205
+B2_static_policy,"[""fs-ar-04"", ""fs-ar-03"", ""fs-ar-02""]",dept-audit,0,205
+B2_static_policy,"[""fs-ar-03"", ""hc-iv-03""]",dept-portfolio,1,205
+B2_static_policy,"[""hc-iv-04"", ""hc-iv-01"", ""hc-iv-03""]",dept-insurance,0,205
+B2_static_policy,"[""hc-mr-02"", ""hc-mr-01"", ""hc-mr-03""]",dept-records,0,205
+B2_static_policy,"[""hc-cd-03"", ""hc-cd-01"", ""hc-cd-02""]",dept-clinical,0,205
+B2_static_policy,"[""hc-hc-02"", ""hc-hc-04"", ""hc-da-01"", ""hc-da-03""]",dept-compliance-hc,1,205
+B2_static_policy,"[""fs-te-02"", ""fs-te-01"", ""fs-rc-03"", ""fs-rc-02""]",dept-trading,4,209
+B2_static_policy,"[""fs-ar-03"", ""fs-ar-01"", ""fs-ar-04""]",dept-audit,0,209
+B2_static_policy,"[""hc-mr-02"", ""hc-mr-03"", ""hc-mr-01""]",dept-records,0,209
+B2_static_policy,"[""fs-te-04"", ""hc-iv-02""]",dept-portfolio,2,210
+B2_static_policy,"[""fs-ra-02"", ""hc-mr-02""]",dept-portfolio,1,211
+B2_static_policy,"[""fs-ar-04"", ""fs-ar-03"", ""fs-pa-01"", ""fs-pa-04""]",dept-audit,0,211
+B2_static_policy,"[""hc-mr-03"", ""hc-mr-01"", ""hc-tp-04"", ""hc-tp-02""]",dept-records,0,211
+B2_static_policy,"[""fs-ra-04"", ""fs-ra-03"", ""fs-rc-04"", ""fs-rc-01""]",dept-risk,0,211
+B2_static_policy,"[""fs-rc-02"", ""hc-iv-02""]",dept-portfolio,1,212
+B2_static_policy,"[""hc-mr-02"", ""hc-mr-01"", ""hc-mr-03""]",dept-records,0,212
+B2_static_policy,"[""hc-tp-01"", ""hc-tp-03"", ""hc-tp-04""]",dept-treatment,0,212
+B2_static_policy,"[""fs-ra-02"", ""hc-tp-01""]",dept-portfolio,1,212
+B2_static_policy,"[""fs-ca-01"", ""fs-ca-04"", ""fs-ra-04"", ""fs-ra-02""]",dept-advisory,3,214
+B2_static_policy,"[""fs-te-01"", ""fs-te-02"", ""fs-te-03""]",dept-trading,2,216
+B2_static_policy,"[""hc-da-01"", ""hc-da-03"", ""hc-da-04""]",dept-diagnostics,0,216
+B2_static_policy,"[""fs-ar-04"", ""fs-ar-03"", ""fs-te-02"", ""fs-te-03""]",dept-audit,2,218
+B2_static_policy,"[""hc-da-02"", ""hc-da-01"", ""hc-da-03""]",dept-diagnostics,0,218
+B2_static_policy,"[""fs-te-04"", ""fs-te-01"", ""fs-te-02""]",dept-trading,2,218
+B2_static_policy,"[""fs-ar-03"", ""fs-ar-02"", ""fs-ar-04""]",dept-audit,0,218
+B2_static_policy,"[""fs-ra-04"", ""fs-ra-03"", ""fs-ra-01""]",dept-risk,0,218
+B2_static_policy,"[""hc-tp-02"", ""hc-tp-04"", ""hc-tp-01""]",dept-treatment,0,218
+B2_static_policy,"[""hc-iv-02"", ""hc-iv-03"", ""hc-cd-03"", ""hc-cd-01""]",dept-insurance,3,220
+B2_static_policy,"[""fs-te-04"", ""fs-te-03"", ""fs-ar-04"", ""fs-ar-03""]",dept-trading,1,221
+B2_static_policy,"[""hc-iv-02"", ""hc-iv-01"", ""hc-cd-03"", ""hc-cd-04""]",dept-insurance,5,221
+B2_static_policy,"[""fs-ra-01"", ""fs-ra-03"", ""fs-ca-03"", ""fs-ca-04""]",dept-risk,1,222
+B2_static_policy,"[""fs-pa-02"", ""hc-hc-04""]",dept-portfolio,1,223
+B2_static_policy,"[""hc-tp-03"", ""hc-tp-02"", ""hc-tp-04""]",dept-treatment,0,223
+B2_static_policy,"[""hc-cd-01"", ""hc-cd-04"", ""hc-cd-03""]",dept-clinical,0,223
+B2_static_policy,"[""hc-mr-01"", ""hc-mr-03"", ""hc-iv-03"", ""hc-iv-04""]",dept-records,4,227
+B2_static_policy,"[""fs-rc-03"", ""fs-rc-01"", ""fs-rc-04""]",dept-compliance-fin,1,227
+B2_static_policy,"[""fs-ca-03"", ""fs-ca-04"", ""fs-ca-02""]",dept-advisory,0,227
+B2_static_policy,"[""fs-te-01"", ""fs-te-02"", ""fs-te-03""]",dept-trading,2,227
+B2_static_policy,"[""hc-hc-03"", ""hc-hc-01"", ""hc-hc-02""]",dept-compliance-hc,0,227
+B2_static_policy,"[""fs-te-02"", ""fs-te-03"", ""fs-ca-02"", ""fs-ca-01""]",dept-trading,4,229
+B2_static_policy,"[""fs-rc-03"", ""hc-iv-01""]",dept-portfolio,2,230
+B2_static_policy,"[""hc-hc-01"", ""hc-hc-04"", ""hc-cd-02"", ""hc-cd-03""]",dept-compliance-hc,0,230
+B2_static_policy,"[""hc-tp-01"", ""hc-tp-04"", ""hc-mr-01"", ""hc-mr-03""]",dept-treatment,1,231
+B2_static_policy,"[""fs-ra-04"", ""fs-ra-02"", ""fs-pa-03"", ""fs-pa-04""]",dept-risk,0,231
+B3_agent_local,"[""fs-rc-04"", ""fs-rc-01"", ""fs-pa-02"", ""fs-pa-04""]",dept-compliance-fin,1,0
+B3_agent_local,"[""fs-rc-01"", ""hc-da-01""]",dept-portfolio,1,0
+B3_agent_local,"[""hc-da-02"", ""hc-da-04"", ""hc-da-01""]",dept-diagnostics,0,0
+B3_agent_local,"[""fs-ca-03"", ""fs-ca-04"", ""fs-ca-02""]",dept-advisory,0,0
+B3_agent_local,"[""fs-pa-03"", ""hc-tp-03""]",dept-portfolio,1,0
+B3_agent_local,"[""fs-rc-02"", ""hc-da-04""]",dept-portfolio,2,0
+B3_agent_local,"[""hc-hc-01"", ""hc-hc-04"", ""hc-tp-04"", ""hc-tp-01""]",dept-compliance-hc,0,0
+B3_agent_local,"[""fs-rc-03"", ""fs-rc-04"", ""fs-rc-01""]",dept-compliance-fin,1,0
+B3_agent_local,"[""fs-ar-02"", ""hc-hc-03""]",dept-portfolio,1,0
+B3_agent_local,"[""fs-ca-01"", ""fs-ca-02"", ""fs-ra-04"", ""fs-ra-03""]",dept-advisory,3,0
+B3_agent_local,"[""hc-mr-02"", ""hc-mr-01"", ""hc-mr-03""]",dept-records,0,0
+B3_agent_local,"[""fs-te-02"", ""fs-te-04"", ""fs-pa-01"", ""fs-pa-02""]",dept-trading,2,1
+B3_agent_local,"[""hc-cd-01"", ""hc-cd-02"", ""hc-cd-03""]",dept-clinical,0,1
+B3_agent_local,"[""fs-pa-02"", ""fs-pa-03"", ""fs-rc-04"", ""fs-rc-03""]",dept-portfolio,1,1
+B3_agent_local,"[""fs-ra-04"", ""fs-ra-02"", ""fs-ra-03""]",dept-risk,0,1
+B3_agent_local,"[""fs-pa-03"", ""fs-pa-04"", ""fs-pa-01""]",dept-portfolio,0,1
+B3_agent_local,"[""hc-tp-01"", ""hc-tp-02"", ""hc-hc-03"", ""hc-hc-04""]",dept-treatment,0,1
+B3_agent_local,"[""fs-ra-03"", ""fs-ra-01"", ""fs-ra-02""]",dept-risk,0,1
+B3_agent_local,"[""hc-da-02"", ""hc-da-03"", ""hc-tp-04"", ""hc-tp-02""]",dept-diagnostics,0,1
+B3_agent_local,"[""fs-ra-03"", ""hc-hc-04""]",dept-portfolio,1,1
+B3_agent_local,"[""hc-tp-01"", ""hc-tp-02"", ""hc-iv-04"", ""hc-iv-02""]",dept-treatment,6,1
+B3_agent_local,"[""fs-pa-04"", ""hc-tp-02""]",dept-portfolio,1,1
+B3_agent_local,"[""hc-iv-02"", ""hc-iv-03"", ""hc-cd-02"", ""hc-cd-03""]",dept-insurance,3,1
+B3_agent_local,"[""fs-ca-02"", ""fs-ca-03"", ""fs-ca-04""]",dept-advisory,0,1
+B3_agent_local,"[""fs-ca-01"", ""fs-ca-03"", ""fs-rc-02"", ""fs-rc-04""]",dept-advisory,3,1
+B3_agent_local,"[""fs-ra-04"", ""fs-ra-01"", ""fs-ra-02""]",dept-risk,0,1
+B3_agent_local,"[""fs-pa-02"", ""fs-pa-03"", ""fs-ar-01"", ""fs-ar-04""]",dept-portfolio,1,1
+B3_agent_local,"[""fs-pa-02"", ""fs-pa-03"", ""fs-pa-04""]",dept-portfolio,0,1
+B3_agent_local,"[""fs-ra-04"", ""fs-ra-01"", ""fs-ca-04"", ""fs-ca-03""]",dept-risk,1,1
+B3_agent_local,"[""fs-ca-02"", ""hc-hc-02""]",dept-portfolio,1,1
+B3_agent_local,"[""hc-hc-03"", ""hc-hc-01"", ""hc-hc-04""]",dept-compliance-hc,0,1
+B3_agent_local,"[""fs-te-04"", ""fs-te-03"", ""fs-ar-03"", ""fs-ar-04""]",dept-trading,1,1
+B3_agent_local,"[""fs-pa-02"", ""fs-pa-01"", ""fs-ar-02"", ""fs-ar-03""]",dept-portfolio,1,1
+B3_agent_local,"[""hc-da-01"", ""hc-da-04"", ""hc-da-02""]",dept-diagnostics,0,1
+B3_agent_local,"[""fs-ca-02"", ""fs-ca-03"", ""fs-ca-01""]",dept-advisory,0,1
+B3_agent_local,"[""hc-iv-01"", ""hc-iv-03"", ""hc-iv-04""]",dept-insurance,0,1
+B3_agent_local,"[""fs-rc-02"", ""hc-tp-04""]",dept-portfolio,2,1
+B3_agent_local,"[""fs-ca-04"", ""hc-mr-03""]",dept-portfolio,1,1
+B3_agent_local,"[""hc-iv-01"", ""hc-iv-04"", ""hc-iv-03""]",dept-insurance,0,1
+B3_agent_local,"[""fs-ca-03"", ""fs-ca-04"", ""fs-ca-01""]",dept-advisory,0,1
+B3_agent_local,"[""fs-ar-03"", ""hc-hc-01""]",dept-portfolio,1,1
+B3_agent_local,"[""hc-tp-02"", ""hc-tp-03"", ""hc-cd-04"", ""hc-cd-03""]",dept-treatment,0,1
+B3_agent_local,"[""hc-hc-04"", ""hc-hc-03"", ""hc-hc-02""]",dept-compliance-hc,0,1
+B3_agent_local,"[""fs-ra-03"", ""hc-da-03""]",dept-portfolio,1,1
+B3_agent_local,"[""fs-ar-02"", ""fs-ar-01"", ""fs-ar-04""]",dept-audit,0,1
+B3_agent_local,"[""hc-hc-04"", ""hc-hc-01"", ""hc-hc-03""]",dept-compliance-hc,0,1
+B3_agent_local,"[""hc-da-04"", ""hc-da-02"", ""hc-mr-02"", ""hc-mr-03""]",dept-diagnostics,1,1
+B3_agent_local,"[""fs-ca-02"", ""fs-ca-01"", ""fs-ca-03""]",dept-advisory,0,1
+B3_agent_local,"[""fs-rc-02"", ""fs-rc-04"", ""fs-rc-01""]",dept-compliance-fin,0,1
+B3_agent_local,"[""hc-mr-01"", ""hc-mr-03"", ""hc-mr-02""]",dept-records,0,1
+B3_agent_local,"[""hc-da-03"", ""hc-da-02"", ""hc-mr-02"", ""hc-mr-03""]",dept-diagnostics,1,1
+B3_agent_local,"[""fs-ca-02"", ""fs-ca-04"", ""fs-ca-03""]",dept-advisory,0,1
+B3_agent_local,"[""hc-hc-02"", ""hc-hc-01"", ""hc-hc-03""]",dept-compliance-hc,0,1
+B3_agent_local,"[""fs-ar-03"", ""fs-ar-04"", ""fs-te-02"", ""fs-te-03""]",dept-audit,2,3
+B3_agent_local,"[""hc-hc-03"", ""hc-hc-01"", ""hc-hc-02""]",dept-compliance-hc,0,3
+B3_agent_local,"[""hc-hc-02"", ""hc-hc-04"", ""hc-hc-03""]",dept-compliance-hc,0,3
+B3_agent_local,"[""fs-ra-01"", ""hc-hc-04""]",dept-portfolio,1,3
+B3_agent_local,"[""hc-da-02"", ""hc-da-03"", ""hc-tp-02"", ""hc-tp-04""]",dept-diagnostics,0,3
+B3_agent_local,"[""hc-mr-02"", ""hc-mr-01"", ""hc-mr-03""]",dept-records,0,3
+B3_agent_local,"[""fs-rc-03"", ""hc-iv-02""]",dept-portfolio,2,3
+B3_agent_local,"[""hc-tp-04"", ""hc-tp-03"", ""hc-mr-01"", ""hc-mr-02""]",dept-treatment,1,3
+B3_agent_local,"[""fs-ca-03"", ""fs-ca-04"", ""fs-ca-01""]",dept-advisory,0,3
+B3_agent_local,"[""fs-pa-02"", ""hc-da-01""]",dept-portfolio,1,3
+B3_agent_local,"[""fs-rc-04"", ""fs-rc-03"", ""fs-rc-01""]",dept-compliance-fin,1,3
+B3_agent_local,"[""hc-iv-01"", ""hc-iv-03"", ""hc-iv-02""]",dept-insurance,0,3
+B3_agent_local,"[""hc-mr-03"", ""hc-mr-01"", ""hc-mr-02""]",dept-records,0,3
+B3_agent_local,"[""hc-da-01"", ""hc-da-02"", ""hc-da-04""]",dept-diagnostics,0,3
+B3_agent_local,"[""fs-pa-04"", ""fs-pa-01"", ""fs-rc-04"", ""fs-rc-02""]",dept-portfolio,3,3
+B3_agent_local,"[""fs-rc-03"", ""fs-rc-01"", ""fs-ar-04"", ""fs-ar-03""]",dept-compliance-fin,1,3
+B3_agent_local,"[""hc-da-02"", ""hc-da-01"", ""hc-cd-01"", ""hc-cd-03""]",dept-diagnostics,0,3
+B3_agent_local,"[""fs-ar-01"", ""hc-mr-01""]",dept-portfolio,1,3
+B3_agent_local,"[""fs-ar-04"", ""fs-ar-03"", ""fs-ar-02""]",dept-audit,0,3
+B3_agent_local,"[""fs-ra-01"", ""fs-ra-04"", ""fs-rc-03"", ""fs-rc-04""]",dept-risk,0,3
+B3_agent_local,"[""fs-ca-03"", ""hc-cd-03""]",dept-portfolio,1,3
+B3_agent_local,"[""fs-ra-02"", ""hc-cd-04""]",dept-portfolio,1,3
+B3_agent_local,"[""fs-rc-02"", ""hc-hc-01""]",dept-portfolio,2,3
+B3_agent_local,"[""hc-tp-01"", ""hc-tp-04"", ""hc-iv-01"", ""hc-iv-02""]",dept-treatment,6,3
+B3_agent_local,"[""hc-da-04"", ""hc-da-02"", ""hc-cd-02"", ""hc-cd-03""]",dept-diagnostics,0,3
+B3_agent_local,"[""fs-ar-01"", ""fs-ar-02"", ""fs-ar-04""]",dept-audit,0,3
+B3_agent_local,"[""fs-ra-02"", ""hc-mr-02""]",dept-portfolio,1,3
+B3_agent_local,"[""fs-ca-01"", ""fs-ca-04"", ""fs-ra-04"", ""fs-ra-02""]",dept-advisory,3,3
+B3_agent_local,"[""hc-da-04"", ""hc-da-01"", ""hc-da-03""]",dept-diagnostics,0,3
+B3_agent_local,"[""hc-tp-04"", ""hc-tp-02"", ""hc-hc-01"", ""hc-hc-03""]",dept-treatment,0,3
+B3_agent_local,"[""hc-cd-04"", ""hc-cd-03"", ""hc-tp-03"", ""hc-tp-04""]",dept-clinical,0,3
+B3_agent_local,"[""hc-iv-03"", ""hc-iv-02"", ""hc-da-02"", ""hc-da-03""]",dept-insurance,3,3
+B3_agent_local,"[""fs-te-01"", ""fs-te-02"", ""fs-te-04""]",dept-trading,2,5
+B3_agent_local,"[""fs-ar-04"", ""fs-ar-01"", ""fs-ar-03""]",dept-audit,0,5
+B3_agent_local,"[""hc-hc-03"", ""hc-hc-04"", ""hc-cd-01"", ""hc-cd-04""]",dept-compliance-hc,0,5
+B3_agent_local,"[""fs-ar-01"", ""hc-iv-04""]",dept-portfolio,2,5
+B3_agent_local,"[""hc-da-04"", ""hc-da-02"", ""hc-hc-01"", ""hc-hc-03""]",dept-diagnostics,1,5
+B3_agent_local,"[""fs-pa-04"", ""hc-da-01""]",dept-portfolio,1,5
+B3_agent_local,"[""fs-te-04"", ""hc-mr-01""]",dept-portfolio,1,5
+B3_agent_local,"[""hc-mr-01"", ""hc-mr-03"", ""hc-cd-04"", ""hc-cd-02""]",dept-records,0,5
+B3_agent_local,"[""hc-hc-04"", ""hc-hc-02"", ""hc-hc-03""]",dept-compliance-hc,0,5
+B3_agent_local,"[""fs-pa-01"", ""fs-pa-04"", ""fs-te-02"", ""fs-te-01""]",dept-portfolio,3,7
+B3_agent_local,"[""hc-da-04"", ""hc-da-01"", ""hc-da-03""]",dept-diagnostics,0,7
+B3_agent_local,"[""hc-cd-02"", ""hc-cd-03"", ""hc-da-01"", ""hc-da-03""]",dept-clinical,0,7
+B3_agent_local,"[""fs-ra-01"", ""fs-ra-04"", ""fs-ra-03""]",dept-risk,0,7
+B3_agent_local,"[""hc-hc-03"", ""hc-hc-02"", ""hc-cd-01"", ""hc-cd-02""]",dept-compliance-hc,0,7
+B3_agent_local,"[""fs-ar-02"", ""hc-mr-01""]",dept-portfolio,1,7
+B3_agent_local,"[""fs-te-03"", ""hc-iv-01""]",dept-portfolio,2,7
+B3_agent_local,"[""fs-pa-02"", ""fs-pa-04"", ""fs-ra-02"", ""fs-ra-04""]",dept-portfolio,0,7
+B3_agent_local,"[""hc-cd-04"", ""hc-cd-01"", ""hc-tp-01"", ""hc-tp-03""]",dept-clinical,0,7
+B3_agent_local,"[""hc-cd-01"", ""hc-cd-03"", ""hc-da-02"", ""hc-da-04""]",dept-clinical,0,7
+B3_agent_local,"[""fs-te-03"", ""hc-mr-03""]",dept-portfolio,1,7
+B3_agent_local,"[""hc-cd-02"", ""hc-cd-04"", ""hc-cd-01""]",dept-clinical,0,7
+B3_agent_local,"[""fs-rc-01"", ""fs-rc-02"", ""fs-rc-04""]",dept-compliance-fin,0,7
+B3_agent_local,"[""fs-ca-01"", ""fs-ca-02"", ""fs-ca-04""]",dept-advisory,0,7
+B3_agent_local,"[""fs-ca-02"", ""fs-ca-04"", ""fs-ca-01""]",dept-advisory,0,7
+B3_agent_local,"[""hc-iv-04"", ""hc-iv-03"", ""hc-hc-02"", ""hc-hc-01""]",dept-insurance,3,7
+B3_agent_local,"[""fs-pa-02"", ""hc-cd-01""]",dept-portfolio,1,7
+B3_agent_local,"[""hc-mr-03"", ""hc-mr-01"", ""hc-mr-02""]",dept-records,0,7
+B3_agent_local,"[""fs-ra-03"", ""fs-ra-04"", ""fs-ra-02""]",dept-risk,0,7
+B3_agent_local,"[""fs-te-02"", ""fs-te-03"", ""fs-te-01""]",dept-trading,2,9
+B3_agent_local,"[""fs-rc-04"", ""hc-hc-02""]",dept-portfolio,1,9
+B3_agent_local,"[""fs-pa-01"", ""fs-pa-04"", ""fs-ra-04"", ""fs-ra-02""]",dept-portfolio,0,9
+B3_agent_local,"[""hc-hc-01"", ""hc-hc-02"", ""hc-hc-03""]",dept-compliance-hc,0,9
+B3_agent_local,"[""fs-rc-02"", ""hc-mr-01""]",dept-portfolio,2,9
+B3_agent_local,"[""hc-iv-01"", ""hc-iv-04"", ""hc-iv-03""]",dept-insurance,0,9
+B3_agent_local,"[""fs-pa-04"", ""hc-tp-03""]",dept-portfolio,1,9
+B3_agent_local,"[""fs-ca-01"", ""fs-ca-04"", ""fs-ca-02""]",dept-advisory,0,9
+B3_agent_local,"[""fs-te-03"", ""fs-te-01"", ""fs-te-04""]",dept-trading,2,11
+B3_agent_local,"[""hc-hc-01"", ""hc-hc-02"", ""hc-iv-03"", ""hc-iv-02""]",dept-compliance-hc,3,11
+B3_agent_local,"[""hc-hc-04"", ""hc-hc-01"", ""hc-hc-03""]",dept-compliance-hc,0,11
+B3_agent_local,"[""fs-ca-04"", ""hc-da-01""]",dept-portfolio,1,11
+B3_agent_local,"[""hc-mr-03"", ""hc-mr-02"", ""hc-mr-01""]",dept-records,0,11
+B3_agent_local,"[""hc-hc-03"", ""hc-hc-01"", ""hc-hc-04""]",dept-compliance-hc,0,11
+B3_agent_local,"[""fs-ca-03"", ""hc-iv-01""]",dept-portfolio,2,11
+B3_agent_local,"[""fs-te-02"", ""hc-mr-02""]",dept-portfolio,2,12
+B3_agent_local,"[""hc-tp-04"", ""hc-tp-01"", ""hc-tp-03""]",dept-treatment,0,12
+B3_agent_local,"[""hc-hc-03"", ""hc-hc-02"", ""hc-hc-04""]",dept-compliance-hc,0,12
+B3_agent_local,"[""hc-cd-02"", ""hc-cd-01"", ""hc-hc-03"", ""hc-hc-02""]",dept-clinical,0,12
+B3_agent_local,"[""hc-cd-04"", ""hc-cd-01"", ""hc-da-04"", ""hc-da-01""]",dept-clinical,0,12
+B3_agent_local,"[""hc-cd-04"", ""hc-cd-01"", ""hc-cd-03""]",dept-clinical,0,12
+B3_agent_local,"[""hc-mr-02"", ""hc-mr-03"", ""hc-tp-03"", ""hc-tp-04""]",dept-records,0,12
+B3_agent_local,"[""fs-te-01"", ""fs-te-04"", ""fs-te-03""]",dept-trading,1,13
+B3_agent_local,"[""fs-pa-02"", ""hc-cd-02""]",dept-portfolio,1,13
+B3_agent_local,"[""fs-ar-01"", ""fs-ar-04"", ""fs-rc-04"", ""fs-rc-01""]",dept-audit,0,13
+B3_agent_local,"[""fs-ca-04"", ""fs-ca-02"", ""fs-ca-03""]",dept-advisory,0,13
+B3_agent_local,"[""fs-te-03"", ""hc-da-01""]",dept-portfolio,1,13
+B3_agent_local,"[""hc-hc-03"", ""hc-hc-04"", ""hc-hc-01""]",dept-compliance-hc,0,13
+B3_agent_local,"[""fs-pa-02"", ""fs-pa-04"", ""fs-pa-03""]",dept-portfolio,0,13
+B3_agent_local,"[""fs-rc-01"", ""fs-rc-03"", ""fs-rc-02""]",dept-compliance-fin,1,13
+B3_agent_local,"[""hc-mr-03"", ""hc-mr-01"", ""hc-mr-02""]",dept-records,0,13
+B3_agent_local,"[""fs-rc-01"", ""fs-rc-02"", ""fs-rc-04""]",dept-compliance-fin,0,13
+B3_agent_local,"[""hc-cd-01"", ""hc-cd-02"", ""hc-tp-04"", ""hc-tp-03""]",dept-clinical,0,13
+B3_agent_local,"[""fs-rc-01"", ""fs-rc-03"", ""fs-rc-02""]",dept-compliance-fin,1,13
+B3_agent_local,"[""hc-iv-04"", ""hc-iv-03"", ""hc-iv-01""]",dept-insurance,0,13
+B3_agent_local,"[""hc-cd-04"", ""hc-cd-03"", ""hc-tp-03"", ""hc-tp-04""]",dept-clinical,0,13
+B3_agent_local,"[""fs-rc-04"", ""fs-rc-03"", ""fs-te-04"", ""fs-te-01""]",dept-compliance-fin,1,14
+B3_agent_local,"[""hc-hc-01"", ""hc-hc-03"", ""hc-tp-04"", ""hc-tp-01""]",dept-compliance-hc,0,14
+B3_agent_local,"[""fs-ra-02"", ""fs-ra-04"", ""fs-ra-01""]",dept-risk,0,14
+B3_agent_local,"[""fs-te-03"", ""hc-mr-02""]",dept-portfolio,1,14
+B3_agent_local,"[""fs-pa-01"", ""hc-da-04""]",dept-portfolio,1,14
+B3_agent_local,"[""hc-tp-02"", ""hc-tp-01"", ""hc-tp-03""]",dept-treatment,0,14
+B3_agent_local,"[""fs-ar-03"", ""hc-cd-01""]",dept-portfolio,1,14
+B3_agent_local,"[""fs-ar-04"", ""fs-ar-03"", ""fs-ca-04"", ""fs-ca-01""]",dept-audit,3,14
+B3_agent_local,"[""fs-rc-04"", ""fs-rc-01"", ""fs-rc-03""]",dept-compliance-fin,1,14
+B3_agent_local,"[""fs-pa-03"", ""hc-da-01""]",dept-portfolio,1,14
+B3_agent_local,"[""hc-hc-04"", ""hc-hc-03"", ""hc-hc-01""]",dept-compliance-hc,0,14
+B3_agent_local,"[""hc-da-02"", ""hc-da-03"", ""hc-da-04""]",dept-diagnostics,0,14
+B3_agent_local,"[""hc-tp-04"", ""hc-tp-02"", ""hc-iv-02"", ""hc-iv-03""]",dept-treatment,4,14
+B3_agent_local,"[""hc-iv-04"", ""hc-iv-02"", ""hc-iv-01""]",dept-insurance,0,14
+B3_agent_local,"[""fs-te-02"", ""hc-cd-01""]",dept-portfolio,2,15
+B3_agent_local,"[""fs-rc-04"", ""hc-cd-03""]",dept-portfolio,1,15
+B3_agent_local,"[""fs-ca-03"", ""fs-ca-04"", ""fs-ca-02""]",dept-advisory,0,15
+B3_agent_local,"[""fs-rc-02"", ""fs-rc-01"", ""fs-rc-03""]",dept-compliance-fin,1,15
+B3_agent_local,"[""fs-te-04"", ""hc-iv-03""]",dept-portfolio,1,15
+B3_agent_local,"[""hc-mr-03"", ""hc-mr-02"", ""hc-hc-02"", ""hc-hc-03""]",dept-records,0,15
+B3_agent_local,"[""fs-ra-04"", ""fs-ra-01"", ""fs-ra-02""]",dept-risk,0,15
+B3_agent_local,"[""hc-cd-04"", ""hc-cd-03"", ""hc-cd-01""]",dept-clinical,0,15
+B3_agent_local,"[""fs-ar-01"", ""hc-iv-02""]",dept-portfolio,2,15
+B3_agent_local,"[""hc-iv-03"", ""hc-iv-01"", ""hc-iv-04""]",dept-insurance,0,15
+B3_agent_local,"[""fs-ar-04"", ""hc-mr-01""]",dept-portfolio,1,15
+B3_agent_local,"[""fs-ar-03"", ""hc-hc-02""]",dept-portfolio,1,15
+B3_agent_local,"[""hc-da-01"", ""hc-da-04"", ""hc-da-02""]",dept-diagnostics,0,15
+B3_agent_local,"[""hc-hc-04"", ""hc-hc-02"", ""hc-hc-01""]",dept-compliance-hc,0,15
+B3_agent_local,"[""hc-mr-02"", ""hc-mr-03"", ""hc-hc-02"", ""hc-hc-03""]",dept-records,0,15
+B3_agent_local,"[""hc-mr-03"", ""hc-mr-02"", ""hc-mr-01""]",dept-records,0,15
+B3_agent_local,"[""fs-pa-02"", ""fs-pa-04"", ""fs-pa-03""]",dept-portfolio,0,15
+B3_agent_local,"[""fs-ar-03"", ""hc-cd-03""]",dept-portfolio,1,15
+B3_agent_local,"[""fs-rc-03"", ""hc-da-01""]",dept-portfolio,1,15
+B3_agent_local,"[""fs-ca-02"", ""hc-hc-03""]",dept-portfolio,1,15
+B3_agent_local,"[""fs-ra-04"", ""hc-iv-01""]",dept-portfolio,2,15
+B3_agent_local,"[""hc-cd-04"", ""hc-cd-02"", ""hc-cd-01""]",dept-clinical,0,15
+B3_agent_local,"[""hc-iv-01"", ""hc-iv-03"", ""hc-iv-04""]",dept-insurance,0,15
+B3_agent_local,"[""fs-te-01"", ""fs-te-02"", ""fs-rc-04"", ""fs-rc-01""]",dept-trading,2,17
+B3_agent_local,"[""fs-ra-01"", ""hc-iv-01""]",dept-portfolio,2,17
+B3_agent_local,"[""fs-pa-04"", ""hc-da-03""]",dept-portfolio,1,17
+B3_agent_local,"[""fs-ca-03"", ""hc-da-04""]",dept-portfolio,1,17
+B3_agent_local,"[""fs-rc-01"", ""hc-mr-01""]",dept-portfolio,1,17
+B3_agent_local,"[""fs-rc-03"", ""hc-cd-01""]",dept-portfolio,1,17
+B3_agent_local,"[""hc-da-04"", ""hc-da-01"", ""hc-mr-03"", ""hc-mr-01""]",dept-diagnostics,1,17
+B3_agent_local,"[""fs-rc-01"", ""fs-rc-03"", ""fs-rc-04""]",dept-compliance-fin,1,17
+B3_agent_local,"[""hc-cd-02"", ""hc-cd-03"", ""hc-cd-04""]",dept-clinical,0,17
+B3_agent_local,"[""fs-rc-02"", ""hc-da-03""]",dept-portfolio,2,17
+B3_agent_local,"[""fs-te-01"", ""hc-cd-01""]",dept-portfolio,2,18
+B3_agent_local,"[""hc-hc-01"", ""hc-hc-03"", ""hc-mr-01"", ""hc-mr-02""]",dept-compliance-hc,1,18
+B3_agent_local,"[""hc-hc-01"", ""hc-hc-02"", ""hc-hc-03""]",dept-compliance-hc,0,18
+B3_agent_local,"[""fs-ra-04"", ""fs-ra-02"", ""fs-ra-03""]",dept-risk,0,18
+B3_agent_local,"[""fs-pa-02"", ""hc-tp-01""]",dept-portfolio,1,18
+B3_agent_local,"[""fs-ra-03"", ""hc-iv-01""]",dept-portfolio,2,18
+B3_agent_local,"[""fs-ca-02"", ""hc-iv-01""]",dept-portfolio,1,18
+B3_agent_local,"[""fs-te-04"", ""hc-iv-01""]",dept-portfolio,2,18
+B3_agent_local,"[""fs-ar-02"", ""fs-ar-01"", ""fs-ar-04""]",dept-audit,0,18
+B3_agent_local,"[""fs-rc-02"", ""hc-tp-04""]",dept-portfolio,2,18
+B3_agent_local,"[""fs-pa-04"", ""fs-pa-02"", ""fs-te-04"", ""fs-te-01""]",dept-portfolio,2,19
+B3_agent_local,"[""fs-ra-01"", ""hc-mr-03""]",dept-portfolio,1,19
+B3_agent_local,"[""hc-iv-02"", ""hc-iv-01"", ""hc-iv-04""]",dept-insurance,0,19
+B3_agent_local,"[""fs-te-04"", ""hc-hc-02""]",dept-portfolio,1,19
+B3_agent_local,"[""fs-ca-04"", ""fs-ca-03"", ""fs-ca-01""]",dept-advisory,0,19
+B3_agent_local,"[""fs-pa-02"", ""hc-tp-02""]",dept-portfolio,1,19
+B3_agent_local,"[""fs-pa-02"", ""fs-pa-04"", ""fs-pa-03""]",dept-portfolio,0,19
+B3_agent_local,"[""fs-ar-02"", ""fs-ar-03"", ""fs-rc-03"", ""fs-rc-04""]",dept-audit,1,19
+B3_agent_local,"[""fs-ra-01"", ""hc-mr-03""]",dept-portfolio,1,19
+B3_agent_local,"[""fs-te-02"", ""hc-tp-01""]",dept-portfolio,2,20
+B3_agent_local,"[""fs-te-02"", ""hc-tp-02""]",dept-portfolio,2,21
+B3_agent_local,"[""hc-tp-04"", ""hc-tp-02"", ""hc-da-04"", ""hc-da-02""]",dept-treatment,0,21
+B3_agent_local,"[""hc-cd-01"", ""hc-cd-04"", ""hc-iv-02"", ""hc-iv-03""]",dept-clinical,4,21
+B3_agent_local,"[""hc-tp-04"", ""hc-tp-02"", ""hc-tp-01""]",dept-treatment,0,21
+B3_agent_local,"[""fs-pa-03"", ""hc-tp-01""]",dept-portfolio,1,21
+B3_agent_local,"[""hc-iv-02"", ""hc-iv-01"", ""hc-iv-04""]",dept-insurance,0,21
+B3_agent_local,"[""fs-rc-03"", ""hc-mr-01""]",dept-portfolio,1,21
+B3_agent_local,"[""fs-rc-04"", ""fs-rc-02"", ""fs-ar-01"", ""fs-ar-03""]",dept-compliance-fin,2,21
+B3_agent_local,"[""hc-tp-03"", ""hc-tp-01"", ""hc-iv-02"", ""hc-iv-03""]",dept-treatment,4,21
+B3_agent_local,"[""fs-ra-04"", ""hc-da-04""]",dept-portfolio,1,21
+B3_agent_local,"[""fs-ca-04"", ""fs-ca-02"", ""fs-ca-03""]",dept-advisory,0,21
+B3_agent_local,"[""fs-te-03"", ""fs-te-01"", ""fs-te-02""]",dept-trading,2,23
+B3_agent_local,"[""fs-ra-03"", ""hc-cd-01""]",dept-portfolio,1,23
+B3_agent_local,"[""fs-ra-01"", ""fs-ra-02"", ""fs-ra-03""]",dept-risk,0,23
+B3_agent_local,"[""fs-ra-04"", ""fs-ra-01"", ""fs-ra-03""]",dept-risk,0,23
+B3_agent_local,"[""fs-ar-02"", ""fs-ar-03"", ""fs-te-02"", ""fs-te-01""]",dept-audit,2,25
+B3_agent_local,"[""fs-pa-03"", ""fs-pa-01"", ""fs-pa-02""]",dept-portfolio,0,25
+B3_agent_local,"[""hc-tp-01"", ""hc-tp-03"", ""hc-tp-02""]",dept-treatment,0,25
+B3_agent_local,"[""fs-te-01"", ""hc-cd-03""]",dept-portfolio,2,26
+B3_agent_local,"[""fs-rc-03"", ""fs-rc-02"", ""fs-ca-02"", ""fs-ca-03""]",dept-compliance-fin,2,26
+B3_agent_local,"[""fs-pa-04"", ""hc-hc-02""]",dept-portfolio,1,26
+B3_agent_local,"[""hc-mr-03"", ""hc-mr-01"", ""hc-hc-03"", ""hc-hc-01""]",dept-records,0,26
+B3_agent_local,"[""hc-hc-01"", ""hc-hc-03"", ""hc-hc-02""]",dept-compliance-hc,0,26
+B3_agent_local,"[""fs-pa-02"", ""hc-cd-04""]",dept-portfolio,1,26
+B3_agent_local,"[""fs-ar-04"", ""fs-ar-01"", ""fs-ar-03""]",dept-audit,0,26
+B3_agent_local,"[""fs-rc-04"", ""fs-rc-02"", ""fs-rc-03""]",dept-compliance-fin,0,26
+B3_agent_local,"[""fs-pa-04"", ""hc-tp-01""]",dept-portfolio,1,26
+B3_agent_local,"[""fs-ca-03"", ""hc-da-01""]",dept-portfolio,1,26
+B3_agent_local,"[""fs-ra-02"", ""hc-mr-01""]",dept-portfolio,1,26
+B3_agent_local,"[""fs-ar-03"", ""hc-cd-02""]",dept-portfolio,1,26
+B3_agent_local,"[""fs-te-02"", ""hc-hc-03""]",dept-portfolio,2,27
+B3_agent_local,"[""fs-ar-04"", ""hc-mr-02""]",dept-portfolio,1,27
+B3_agent_local,"[""hc-hc-01"", ""hc-hc-04"", ""hc-hc-03""]",dept-compliance-hc,0,27
+B3_agent_local,"[""hc-hc-02"", ""hc-hc-04"", ""hc-mr-03"", ""hc-mr-02""]",dept-compliance-hc,1,27
+B3_agent_local,"[""fs-pa-02"", ""hc-mr-03""]",dept-portfolio,1,27
+B3_agent_local,"[""fs-pa-01"", ""hc-tp-02""]",dept-portfolio,1,27
+B3_agent_local,"[""hc-cd-04"", ""hc-cd-03"", ""hc-cd-02""]",dept-clinical,0,27
+B3_agent_local,"[""fs-te-01"", ""hc-hc-03""]",dept-portfolio,2,28
+B3_agent_local,"[""fs-ar-01"", ""hc-hc-02""]",dept-portfolio,1,28
+B3_agent_local,"[""fs-ar-03"", ""hc-hc-01""]",dept-portfolio,1,28
+B3_agent_local,"[""fs-pa-02"", ""fs-pa-04"", ""fs-pa-01""]",dept-portfolio,0,28
+B3_agent_local,"[""hc-iv-04"", ""hc-iv-03"", ""hc-mr-02"", ""hc-mr-03""]",dept-insurance,3,28
+B3_agent_local,"[""fs-pa-01"", ""fs-pa-04"", ""fs-ar-01"", ""fs-ar-02""]",dept-portfolio,1,28
+B3_agent_local,"[""fs-rc-04"", ""fs-rc-02"", ""fs-ar-02"", ""fs-ar-04""]",dept-compliance-fin,2,28
+B3_agent_local,"[""fs-ar-02"", ""hc-tp-01""]",dept-portfolio,1,28
+B3_agent_local,"[""fs-rc-02"", ""hc-iv-01""]",dept-portfolio,1,28
+B3_agent_local,"[""fs-ra-01"", ""fs-ra-04"", ""fs-ra-02""]",dept-risk,0,28
+B3_agent_local,"[""hc-mr-01"", ""hc-mr-02"", ""hc-mr-03""]",dept-records,0,28
+B3_agent_local,"[""fs-pa-01"", ""fs-pa-02"", ""fs-ca-02"", ""fs-ca-03""]",dept-portfolio,0,28
+B3_agent_local,"[""hc-da-04"", ""hc-da-01"", ""hc-hc-03"", ""hc-hc-01""]",dept-diagnostics,1,28
+B3_agent_local,"[""fs-rc-03"", ""fs-rc-04"", ""fs-rc-02""]",dept-compliance-fin,0,28
+B3_agent_local,"[""fs-pa-04"", ""fs-pa-02"", ""fs-ra-04"", ""fs-ra-02""]",dept-portfolio,0,28
+B3_agent_local,"[""fs-pa-02"", ""fs-pa-01"", ""fs-pa-03""]",dept-portfolio,0,28
+B3_agent_local,"[""fs-ar-04"", ""hc-da-03""]",dept-portfolio,1,28
+B3_agent_local,"[""fs-rc-04"", ""hc-da-03""]",dept-portfolio,1,28
+B3_agent_local,"[""fs-ar-04"", ""fs-ar-03"", ""fs-ar-02""]",dept-audit,0,28
+B3_agent_local,"[""fs-ca-01"", ""hc-cd-02""]",dept-portfolio,2,28
+B3_agent_local,"[""hc-da-03"", ""hc-da-04"", ""hc-da-02""]",dept-diagnostics,0,28
+B3_agent_local,"[""hc-tp-02"", ""hc-tp-03"", ""hc-hc-04"", ""hc-hc-02""]",dept-treatment,0,28
+B3_agent_local,"[""hc-iv-02"", ""hc-iv-03"", ""hc-iv-04""]",dept-insurance,0,28
+B3_agent_local,"[""fs-ar-02"", ""hc-da-01""]",dept-portfolio,1,28
+B3_agent_local,"[""fs-ar-02"", ""hc-da-03""]",dept-portfolio,1,28
+B3_agent_local,"[""fs-pa-01"", ""fs-pa-04"", ""fs-ar-03"", ""fs-ar-01""]",dept-portfolio,1,28
+B3_agent_local,"[""hc-iv-03"", ""hc-iv-01"", ""hc-iv-04""]",dept-insurance,0,28
+B3_agent_local,"[""hc-hc-02"", ""hc-hc-04"", ""hc-hc-03""]",dept-compliance-hc,0,28
+B3_agent_local,"[""hc-hc-01"", ""hc-hc-04"", ""hc-hc-02""]",dept-compliance-hc,0,28
+B3_agent_local,"[""fs-pa-03"", ""hc-iv-04""]",dept-portfolio,2,28
+B3_agent_local,"[""fs-ar-04"", ""fs-ar-03"", ""fs-te-02"", ""fs-te-04""]",dept-audit,2,30
+B3_agent_local,"[""fs-ar-03"", ""fs-ar-01"", ""fs-te-01"", ""fs-te-04""]",dept-audit,2,32
+B3_agent_local,"[""fs-ra-01"", ""fs-ra-02"", ""fs-ra-03""]",dept-risk,0,32
+B3_agent_local,"[""hc-iv-04"", ""hc-iv-01"", ""hc-iv-02""]",dept-insurance,0,32
+B3_agent_local,"[""fs-ra-02"", ""fs-ra-04"", ""fs-ra-03""]",dept-risk,0,32
+B3_agent_local,"[""fs-pa-02"", ""hc-tp-04""]",dept-portfolio,1,32
+B3_agent_local,"[""hc-hc-04"", ""hc-hc-03"", ""hc-cd-02"", ""hc-cd-04""]",dept-compliance-hc,0,32
+B3_agent_local,"[""fs-pa-04"", ""fs-pa-02"", ""fs-ca-02"", ""fs-ca-04""]",dept-portfolio,0,32
+B3_agent_local,"[""fs-te-04"", ""fs-te-02"", ""fs-te-03""]",dept-trading,2,34
+B3_agent_local,"[""hc-mr-02"", ""hc-mr-01"", ""hc-mr-03""]",dept-records,0,34
+B3_agent_local,"[""hc-cd-01"", ""hc-cd-03"", ""hc-cd-02""]",dept-clinical,0,34
+B3_agent_local,"[""fs-ca-03"", ""hc-cd-04""]",dept-portfolio,1,34
+B3_agent_local,"[""fs-ra-01"", ""hc-tp-01""]",dept-portfolio,1,34
+B3_agent_local,"[""fs-ca-04"", ""fs-ca-03"", ""fs-pa-03"", ""fs-pa-01""]",dept-advisory,0,34
+B3_agent_local,"[""hc-da-04"", ""hc-da-01"", ""hc-da-03""]",dept-diagnostics,0,34
+B3_agent_local,"[""hc-tp-01"", ""hc-tp-04"", ""hc-mr-01"", ""hc-mr-02""]",dept-treatment,1,34
+B3_agent_local,"[""fs-ra-02"", ""fs-ra-04"", ""fs-rc-02"", ""fs-rc-04""]",dept-risk,2,34
+B3_agent_local,"[""fs-pa-03"", ""fs-pa-02"", ""fs-pa-01""]",dept-portfolio,0,34
+B3_agent_local,"[""hc-iv-01"", ""hc-iv-03"", ""hc-mr-01"", ""hc-mr-02""]",dept-insurance,3,34
+B3_agent_local,"[""fs-rc-03"", ""fs-rc-04"", ""fs-ra-01"", ""fs-ra-02""]",dept-compliance-fin,0,34
+B3_agent_local,"[""hc-iv-04"", ""hc-iv-03"", ""hc-da-02"", ""hc-da-03""]",dept-insurance,3,34
+B3_agent_local,"[""hc-mr-03"", ""hc-mr-01"", ""hc-mr-02""]",dept-records,0,34
+B3_agent_local,"[""fs-ra-02"", ""fs-ra-04"", ""fs-ra-03""]",dept-risk,0,34
+B3_agent_local,"[""hc-da-02"", ""hc-da-04"", ""hc-hc-02"", ""hc-hc-03""]",dept-diagnostics,1,34
+B3_agent_local,"[""fs-ra-03"", ""fs-ra-04"", ""fs-ra-01""]",dept-risk,0,34
+B3_agent_local,"[""hc-da-04"", ""hc-da-02"", ""hc-da-03""]",dept-diagnostics,0,34
+B3_agent_local,"[""fs-rc-03"", ""hc-da-03""]",dept-portfolio,1,34
+B3_agent_local,"[""fs-rc-03"", ""hc-da-01""]",dept-portfolio,1,34
+B3_agent_local,"[""fs-ar-02"", ""fs-ar-03"", ""fs-te-04"", ""fs-te-01""]",dept-audit,1,35
+B3_agent_local,"[""fs-ra-01"", ""hc-mr-01""]",dept-portfolio,1,35
+B3_agent_local,"[""fs-pa-01"", ""hc-mr-01""]",dept-portfolio,1,35
+B3_agent_local,"[""hc-hc-04"", ""hc-hc-02"", ""hc-hc-03""]",dept-compliance-hc,0,35
+B3_agent_local,"[""fs-ar-02"", ""fs-ar-01"", ""fs-ar-04""]",dept-audit,0,35
+B3_agent_local,"[""fs-ca-02"", ""fs-ca-03"", ""fs-rc-01"", ""fs-rc-03""]",dept-advisory,2,35
+B3_agent_local,"[""hc-hc-03"", ""hc-hc-04"", ""hc-tp-03"", ""hc-tp-04""]",dept-compliance-hc,0,35
+B3_agent_local,"[""hc-da-03"", ""hc-da-01"", ""hc-hc-04"", ""hc-hc-03""]",dept-diagnostics,1,35
+B3_agent_local,"[""hc-iv-01"", ""hc-iv-04"", ""hc-iv-02""]",dept-insurance,0,35
+B3_agent_local,"[""hc-tp-04"", ""hc-tp-01"", ""hc-iv-04"", ""hc-iv-02""]",dept-treatment,6,35
+B3_agent_local,"[""fs-ca-01"", ""hc-tp-02""]",dept-portfolio,2,35
+B3_agent_local,"[""fs-ar-04"", ""fs-ar-02"", ""fs-ar-01""]",dept-audit,0,35
+B3_agent_local,"[""fs-ar-02"", ""hc-tp-04""]",dept-portfolio,1,35
+B3_agent_local,"[""hc-cd-01"", ""hc-cd-02"", ""hc-cd-04""]",dept-clinical,0,35
+B3_agent_local,"[""fs-te-02"", ""hc-mr-03""]",dept-portfolio,2,36
+B3_agent_local,"[""fs-ra-04"", ""fs-ra-02"", ""fs-ra-01""]",dept-risk,0,36
+B3_agent_local,"[""hc-tp-03"", ""hc-tp-02"", ""hc-tp-01""]",dept-treatment,0,36
+B3_agent_local,"[""hc-mr-02"", ""hc-mr-01"", ""hc-mr-03""]",dept-records,0,36
+B3_agent_local,"[""fs-ca-03"", ""fs-ca-01"", ""fs-ca-02""]",dept-advisory,0,36
+B3_agent_local,"[""hc-cd-04"", ""hc-cd-03"", ""hc-cd-01""]",dept-clinical,0,36
+B3_agent_local,"[""fs-ca-03"", ""fs-ca-01"", ""fs-ca-04""]",dept-advisory,0,36
+B3_agent_local,"[""fs-pa-04"", ""hc-iv-02""]",dept-portfolio,2,36
+B3_agent_local,"[""fs-ar-04"", ""hc-da-04""]",dept-portfolio,1,36
+B3_agent_local,"[""fs-ar-03"", ""fs-ar-02"", ""fs-ar-01""]",dept-audit,0,36
+B3_agent_local,"[""hc-mr-01"", ""hc-mr-02"", ""hc-mr-03""]",dept-records,0,36
+B3_agent_local,"[""fs-rc-04"", ""fs-rc-03"", ""fs-rc-01""]",dept-compliance-fin,1,36
+B3_agent_local,"[""fs-ar-01"", ""hc-tp-03""]",dept-portfolio,1,36
+B3_agent_local,"[""fs-pa-03"", ""hc-iv-03""]",dept-portfolio,1,36
+B3_agent_local,"[""hc-hc-04"", ""hc-hc-03"", ""hc-tp-03"", ""hc-tp-02""]",dept-compliance-hc,0,36
+B3_agent_local,"[""fs-pa-04"", ""fs-pa-01"", ""fs-ca-01"", ""fs-ca-04""]",dept-portfolio,2,36
+B3_agent_local,"[""fs-rc-01"", ""fs-rc-04"", ""fs-pa-03"", ""fs-pa-04""]",dept-compliance-fin,1,36
+B3_agent_local,"[""fs-pa-04"", ""fs-pa-01"", ""fs-pa-02""]",dept-portfolio,0,36
+B3_agent_local,"[""fs-rc-01"", ""fs-rc-02"", ""fs-ca-03"", ""fs-ca-04""]",dept-compliance-fin,4,36
+B3_agent_local,"[""fs-ar-03"", ""hc-iv-02""]",dept-portfolio,2,36
+B3_agent_local,"[""fs-ar-01"", ""hc-tp-03""]",dept-portfolio,1,36
+B3_agent_local,"[""fs-ca-02"", ""fs-ca-03"", ""fs-ca-04""]",dept-advisory,0,36
+B3_agent_local,"[""fs-ca-02"", ""hc-tp-03""]",dept-portfolio,1,36
+B3_agent_local,"[""fs-ar-02"", ""fs-ar-04"", ""fs-ca-03"", ""fs-ca-02""]",dept-audit,1,36
+B3_agent_local,"[""fs-rc-04"", ""hc-cd-01""]",dept-portfolio,1,36
+B3_agent_local,"[""fs-te-02"", ""fs-te-04"", ""fs-rc-02"", ""fs-rc-03""]",dept-trading,3,37
+B3_agent_local,"[""fs-ca-03"", ""fs-ca-01"", ""fs-ra-04"", ""fs-ra-02""]",dept-advisory,3,37
+B3_agent_local,"[""fs-ar-01"", ""fs-ar-04"", ""fs-ar-02""]",dept-audit,0,37
+B3_agent_local,"[""fs-ra-01"", ""hc-iv-01""]",dept-portfolio,2,37
+B3_agent_local,"[""hc-iv-04"", ""hc-iv-03"", ""hc-da-02"", ""hc-da-04""]",dept-insurance,3,37
+B3_agent_local,"[""fs-ra-04"", ""hc-cd-04""]",dept-portfolio,1,37
+B3_agent_local,"[""fs-pa-01"", ""hc-hc-04""]",dept-portfolio,1,37
+B3_agent_local,"[""hc-hc-03"", ""hc-hc-02"", ""hc-hc-04""]",dept-compliance-hc,0,37
+B3_agent_local,"[""fs-ca-01"", ""hc-cd-03""]",dept-portfolio,2,37
+B3_agent_local,"[""fs-ar-04"", ""hc-iv-04""]",dept-portfolio,2,37
+B3_agent_local,"[""fs-rc-04"", ""fs-rc-03"", ""fs-rc-02""]",dept-compliance-fin,0,37
+B3_agent_local,"[""fs-ca-04"", ""fs-ca-03"", ""fs-ca-02""]",dept-advisory,0,37
+B3_agent_local,"[""hc-cd-03"", ""hc-cd-01"", ""hc-tp-04"", ""hc-tp-03""]",dept-clinical,0,37
+B3_agent_local,"[""fs-te-01"", ""hc-da-01""]",dept-portfolio,2,38
+B3_agent_local,"[""fs-pa-02"", ""fs-pa-04"", ""fs-rc-02"", ""fs-rc-03""]",dept-portfolio,3,38
+B3_agent_local,"[""fs-ca-02"", ""hc-mr-01""]",dept-portfolio,1,38
+B3_agent_local,"[""fs-ca-03"", ""fs-ca-02"", ""fs-ca-04""]",dept-advisory,0,38
+B3_agent_local,"[""hc-mr-03"", ""hc-mr-02"", ""hc-iv-03"", ""hc-iv-01""]",dept-records,4,38
+B3_agent_local,"[""hc-cd-03"", ""hc-cd-04"", ""hc-cd-02""]",dept-clinical,0,38
+B3_agent_local,"[""fs-ca-02"", ""hc-da-03""]",dept-portfolio,1,38
+B3_agent_local,"[""fs-rc-04"", ""hc-tp-03""]",dept-portfolio,1,38
+B3_agent_local,"[""hc-hc-03"", ""hc-hc-02"", ""hc-iv-03"", ""hc-iv-02""]",dept-compliance-hc,3,38
+B3_agent_local,"[""fs-ra-04"", ""fs-ra-01"", ""fs-te-02"", ""fs-te-04""]",dept-risk,2,40
+B3_agent_local,"[""fs-pa-03"", ""hc-mr-01""]",dept-portfolio,1,40
+B3_agent_local,"[""hc-mr-01"", ""hc-mr-02"", ""hc-mr-03""]",dept-records,0,40
+B3_agent_local,"[""hc-mr-03"", ""hc-mr-02"", ""hc-cd-03"", ""hc-cd-04""]",dept-records,0,40
+B3_agent_local,"[""hc-tp-03"", ""hc-tp-02"", ""hc-da-04"", ""hc-da-01""]",dept-treatment,0,40
+B3_agent_local,"[""fs-ca-04"", ""fs-ca-01"", ""fs-ca-02""]",dept-advisory,0,40
+B3_agent_local,"[""hc-cd-01"", ""hc-cd-04"", ""hc-cd-02""]",dept-clinical,0,40
+B3_agent_local,"[""hc-tp-01"", ""hc-tp-03"", ""hc-cd-03"", ""hc-cd-04""]",dept-treatment,0,40
+B3_agent_local,"[""fs-pa-02"", ""hc-da-01""]",dept-portfolio,1,40
+B3_agent_local,"[""hc-cd-02"", ""hc-cd-03"", ""hc-tp-02"", ""hc-tp-03""]",dept-clinical,0,40
+B3_agent_local,"[""fs-pa-02"", ""hc-da-01""]",dept-portfolio,1,40
+B3_agent_local,"[""fs-ar-02"", ""hc-mr-01""]",dept-portfolio,1,40
+B3_agent_local,"[""hc-mr-03"", ""hc-mr-01"", ""hc-mr-02""]",dept-records,0,40
+B3_agent_local,"[""fs-ca-02"", ""hc-tp-02""]",dept-portfolio,1,40
+B3_agent_local,"[""fs-ca-03"", ""fs-ca-02"", ""fs-ca-01""]",dept-advisory,0,40
+B3_agent_local,"[""fs-pa-03"", ""fs-pa-02"", ""fs-pa-01""]",dept-portfolio,0,40
+B3_agent_local,"[""fs-ca-01"", ""fs-ca-03"", ""fs-ar-04"", ""fs-ar-03""]",dept-advisory,3,40
+B3_agent_local,"[""fs-ar-01"", ""hc-mr-01""]",dept-portfolio,1,40
+B3_agent_local,"[""fs-ar-02"", ""fs-ar-04"", ""fs-pa-03"", ""fs-pa-01""]",dept-audit,0,40
+B3_agent_local,"[""fs-te-04"", ""fs-te-02"", ""fs-te-01""]",dept-trading,2,42
+B3_agent_local,"[""hc-iv-03"", ""hc-iv-02"", ""hc-da-03"", ""hc-da-04""]",dept-insurance,3,42
+B3_agent_local,"[""hc-iv-04"", ""hc-iv-01"", ""hc-cd-02"", ""hc-cd-03""]",dept-insurance,5,42
+B3_agent_local,"[""fs-pa-04"", ""hc-mr-03""]",dept-portfolio,1,42
+B3_agent_local,"[""hc-tp-04"", ""hc-tp-02"", ""hc-cd-03"", ""hc-cd-01""]",dept-treatment,0,42
+B3_agent_local,"[""hc-cd-01"", ""hc-cd-03"", ""hc-cd-02""]",dept-clinical,0,42
+B3_agent_local,"[""hc-da-04"", ""hc-da-03"", ""hc-da-02""]",dept-diagnostics,0,42
+B3_agent_local,"[""hc-iv-02"", ""hc-iv-04"", ""hc-iv-01""]",dept-insurance,0,42
+B3_agent_local,"[""fs-rc-01"", ""fs-rc-02"", ""fs-rc-03""]",dept-compliance-fin,1,42
+B3_agent_local,"[""hc-tp-03"", ""hc-tp-01"", ""hc-tp-02""]",dept-treatment,0,42
+B3_agent_local,"[""fs-rc-01"", ""fs-rc-02"", ""fs-rc-04""]",dept-compliance-fin,0,42
+B3_agent_local,"[""fs-ra-04"", ""fs-ra-02"", ""fs-ar-03"", ""fs-ar-01""]",dept-risk,1,42
+B3_agent_local,"[""fs-pa-03"", ""hc-da-01""]",dept-portfolio,1,42
+B3_agent_local,"[""fs-te-01"", ""fs-te-04"", ""fs-te-02""]",dept-trading,2,44
+B3_agent_local,"[""fs-te-04"", ""fs-te-02"", ""fs-te-01""]",dept-trading,2,46
+B3_agent_local,"[""fs-ca-02"", ""fs-ca-03"", ""fs-ra-02"", ""fs-ra-03""]",dept-advisory,1,46
+B3_agent_local,"[""hc-da-02"", ""hc-da-04"", ""hc-iv-03"", ""hc-iv-02""]",dept-diagnostics,4,46
+B3_agent_local,"[""fs-ca-02"", ""hc-hc-04""]",dept-portfolio,1,46
+B3_agent_local,"[""hc-tp-04"", ""hc-tp-03"", ""hc-iv-03"", ""hc-iv-02""]",dept-treatment,4,46
+B3_agent_local,"[""fs-ca-03"", ""hc-hc-03""]",dept-portfolio,1,46
+B3_agent_local,"[""hc-da-03"", ""hc-da-04"", ""hc-mr-01"", ""hc-mr-02""]",dept-diagnostics,1,46
+B3_agent_local,"[""hc-cd-04"", ""hc-cd-03"", ""hc-cd-01""]",dept-clinical,0,46
+B3_agent_local,"[""fs-te-02"", ""hc-tp-02""]",dept-portfolio,2,47
+B3_agent_local,"[""hc-da-04"", ""hc-da-03"", ""hc-mr-01"", ""hc-mr-03""]",dept-diagnostics,1,47
+B3_agent_local,"[""hc-da-04"", ""hc-da-02"", ""hc-da-03""]",dept-diagnostics,0,47
+B3_agent_local,"[""hc-tp-01"", ""hc-tp-02"", ""hc-tp-03""]",dept-treatment,0,47
+B3_agent_local,"[""fs-te-01"", ""hc-mr-03""]",dept-portfolio,2,48
+B3_agent_local,"[""fs-pa-04"", ""fs-pa-02"", ""fs-pa-03""]",dept-portfolio,0,48
+B3_agent_local,"[""hc-iv-04"", ""hc-iv-01"", ""hc-hc-01"", ""hc-hc-04""]",dept-insurance,5,48
+B3_agent_local,"[""fs-ar-01"", ""fs-ar-02"", ""fs-pa-01"", ""fs-pa-02""]",dept-audit,0,48
+B3_agent_local,"[""fs-ca-03"", ""hc-tp-01""]",dept-portfolio,1,48
+B3_agent_local,"[""fs-ar-04"", ""fs-ar-01"", ""fs-ca-01"", ""fs-ca-03""]",dept-audit,3,48
+B3_agent_local,"[""hc-da-03"", ""hc-da-04"", ""hc-mr-02"", ""hc-mr-01""]",dept-diagnostics,1,48
+B3_agent_local,"[""fs-ca-01"", ""fs-ca-02"", ""fs-ra-04"", ""fs-ra-02""]",dept-advisory,3,48
+B3_agent_local,"[""fs-pa-04"", ""hc-da-03""]",dept-portfolio,1,48
+B3_agent_local,"[""fs-ar-03"", ""hc-iv-02""]",dept-portfolio,2,48
+B3_agent_local,"[""fs-pa-01"", ""hc-iv-02""]",dept-portfolio,2,48
+B3_agent_local,"[""fs-ra-01"", ""fs-ra-04"", ""fs-rc-02"", ""fs-rc-03""]",dept-risk,2,48
+B3_agent_local,"[""hc-mr-01"", ""hc-mr-02"", ""hc-mr-03""]",dept-records,0,48
+B3_agent_local,"[""fs-rc-02"", ""fs-rc-04"", ""fs-ca-03"", ""fs-ca-01""]",dept-compliance-fin,3,48
+B3_agent_local,"[""fs-ra-04"", ""hc-cd-01""]",dept-portfolio,1,48
+B3_agent_local,"[""hc-mr-03"", ""hc-mr-01"", ""hc-cd-02"", ""hc-cd-03""]",dept-records,0,48
+B3_agent_local,"[""hc-tp-04"", ""hc-tp-01"", ""hc-mr-02"", ""hc-mr-03""]",dept-treatment,1,48
+B3_agent_local,"[""fs-pa-01"", ""hc-iv-02""]",dept-portfolio,2,48
+B3_agent_local,"[""hc-iv-01"", ""hc-iv-04"", ""hc-iv-03""]",dept-insurance,0,48
+B3_agent_local,"[""hc-da-04"", ""hc-da-01"", ""hc-iv-03"", ""hc-iv-04""]",dept-diagnostics,4,48
+B3_agent_local,"[""hc-tp-03"", ""hc-tp-01"", ""hc-tp-04""]",dept-treatment,0,48
+B3_agent_local,"[""fs-ra-03"", ""hc-tp-02""]",dept-portfolio,1,48
+B3_agent_local,"[""hc-mr-03"", ""hc-mr-01"", ""hc-da-02"", ""hc-da-01""]",dept-records,0,48
+B3_agent_local,"[""fs-te-02"", ""hc-cd-02""]",dept-portfolio,2,49
+B3_agent_local,"[""fs-ar-01"", ""hc-mr-02""]",dept-portfolio,1,49
+B3_agent_local,"[""hc-cd-03"", ""hc-cd-04"", ""hc-cd-01""]",dept-clinical,0,49
+B3_agent_local,"[""fs-ca-03"", ""fs-ca-01"", ""fs-ca-04""]",dept-advisory,0,49
+B3_agent_local,"[""hc-iv-02"", ""hc-iv-04"", ""hc-mr-03"", ""hc-mr-02""]",dept-insurance,5,49
+B3_agent_local,"[""hc-iv-02"", ""hc-iv-03"", ""hc-iv-04""]",dept-insurance,0,49
+B3_agent_local,"[""fs-te-04"", ""hc-tp-01""]",dept-portfolio,1,49
+B3_agent_local,"[""hc-da-01"", ""hc-da-03"", ""hc-da-04""]",dept-diagnostics,0,49
+B3_agent_local,"[""fs-te-02"", ""hc-da-01""]",dept-portfolio,2,50
+B3_agent_local,"[""fs-ar-02"", ""fs-ar-01"", ""fs-ca-03"", ""fs-ca-04""]",dept-audit,2,50
+B3_agent_local,"[""hc-cd-03"", ""hc-cd-04"", ""hc-mr-03"", ""hc-mr-01""]",dept-clinical,1,50
+B3_agent_local,"[""hc-cd-03"", ""hc-cd-01"", ""hc-cd-02""]",dept-clinical,0,50
+B3_agent_local,"[""fs-rc-01"", ""fs-rc-03"", ""fs-rc-02""]",dept-compliance-fin,1,50
+B3_agent_local,"[""hc-mr-01"", ""hc-mr-02"", ""hc-da-03"", ""hc-da-04""]",dept-records,0,50
+B3_agent_local,"[""fs-ar-04"", ""fs-ar-01"", ""fs-ar-02""]",dept-audit,0,50
+B3_agent_local,"[""fs-ar-01"", ""hc-iv-03""]",dept-portfolio,1,50
+B3_agent_local,"[""fs-ar-04"", ""fs-ar-03"", ""fs-ar-02""]",dept-audit,0,50
+B3_agent_local,"[""fs-ar-03"", ""hc-iv-03""]",dept-portfolio,1,50
+B3_agent_local,"[""hc-iv-04"", ""hc-iv-01"", ""hc-iv-03""]",dept-insurance,0,50
+B3_agent_local,"[""hc-mr-02"", ""hc-mr-01"", ""hc-mr-03""]",dept-records,0,50
+B3_agent_local,"[""hc-cd-03"", ""hc-cd-01"", ""hc-cd-02""]",dept-clinical,0,50
+B3_agent_local,"[""hc-hc-02"", ""hc-hc-04"", ""hc-da-01"", ""hc-da-03""]",dept-compliance-hc,1,50
+B3_agent_local,"[""fs-te-02"", ""fs-te-01"", ""fs-rc-03"", ""fs-rc-02""]",dept-trading,4,52
+B3_agent_local,"[""fs-ar-03"", ""fs-ar-01"", ""fs-ar-04""]",dept-audit,0,52
+B3_agent_local,"[""hc-mr-02"", ""hc-mr-03"", ""hc-mr-01""]",dept-records,0,52
+B3_agent_local,"[""fs-te-04"", ""hc-iv-02""]",dept-portfolio,2,52
+B3_agent_local,"[""fs-ra-02"", ""hc-mr-02""]",dept-portfolio,1,52
+B3_agent_local,"[""fs-ar-04"", ""fs-ar-03"", ""fs-pa-01"", ""fs-pa-04""]",dept-audit,0,52
+B3_agent_local,"[""hc-mr-03"", ""hc-mr-01"", ""hc-tp-04"", ""hc-tp-02""]",dept-records,0,52
+B3_agent_local,"[""fs-ra-04"", ""fs-ra-03"", ""fs-rc-04"", ""fs-rc-01""]",dept-risk,0,52
+B3_agent_local,"[""fs-rc-02"", ""hc-iv-02""]",dept-portfolio,1,52
+B3_agent_local,"[""hc-mr-02"", ""hc-mr-01"", ""hc-mr-03""]",dept-records,0,52
+B3_agent_local,"[""hc-tp-01"", ""hc-tp-03"", ""hc-tp-04""]",dept-treatment,0,52
+B3_agent_local,"[""fs-ra-02"", ""hc-tp-01""]",dept-portfolio,1,52
+B3_agent_local,"[""fs-ca-01"", ""fs-ca-04"", ""fs-ra-04"", ""fs-ra-02""]",dept-advisory,3,52
+B3_agent_local,"[""fs-te-01"", ""fs-te-02"", ""fs-te-03""]",dept-trading,2,54
+B3_agent_local,"[""hc-da-01"", ""hc-da-03"", ""hc-da-04""]",dept-diagnostics,0,54
+B3_agent_local,"[""fs-ar-04"", ""fs-ar-03"", ""fs-te-02"", ""fs-te-03""]",dept-audit,2,56
+B3_agent_local,"[""hc-da-02"", ""hc-da-01"", ""hc-da-03""]",dept-diagnostics,0,56
+B3_agent_local,"[""fs-te-04"", ""fs-te-01"", ""fs-te-02""]",dept-trading,2,58
+B3_agent_local,"[""fs-ar-03"", ""fs-ar-02"", ""fs-ar-04""]",dept-audit,0,58
+B3_agent_local,"[""fs-ra-04"", ""fs-ra-03"", ""fs-ra-01""]",dept-risk,0,58
+B3_agent_local,"[""hc-tp-02"", ""hc-tp-04"", ""hc-tp-01""]",dept-treatment,0,58
+B3_agent_local,"[""hc-iv-02"", ""hc-iv-03"", ""hc-cd-03"", ""hc-cd-01""]",dept-insurance,3,58
+B3_agent_local,"[""fs-te-04"", ""fs-te-03"", ""fs-ar-04"", ""fs-ar-03""]",dept-trading,1,58
+B3_agent_local,"[""hc-iv-02"", ""hc-iv-01"", ""hc-cd-03"", ""hc-cd-04""]",dept-insurance,5,58
+B3_agent_local,"[""fs-ra-01"", ""fs-ra-03"", ""fs-ca-03"", ""fs-ca-04""]",dept-risk,1,58
+B3_agent_local,"[""fs-pa-02"", ""hc-hc-04""]",dept-portfolio,1,58
+B3_agent_local,"[""hc-tp-03"", ""hc-tp-02"", ""hc-tp-04""]",dept-treatment,0,58
+B3_agent_local,"[""hc-cd-01"", ""hc-cd-04"", ""hc-cd-03""]",dept-clinical,0,58
+B3_agent_local,"[""hc-mr-01"", ""hc-mr-03"", ""hc-iv-03"", ""hc-iv-04""]",dept-records,4,58
+B3_agent_local,"[""fs-rc-03"", ""fs-rc-01"", ""fs-rc-04""]",dept-compliance-fin,1,58
+B3_agent_local,"[""fs-ca-03"", ""fs-ca-04"", ""fs-ca-02""]",dept-advisory,0,58
+B3_agent_local,"[""fs-te-01"", ""fs-te-02"", ""fs-te-03""]",dept-trading,2,60
+B3_agent_local,"[""hc-hc-03"", ""hc-hc-01"", ""hc-hc-02""]",dept-compliance-hc,0,60
+B3_agent_local,"[""fs-te-02"", ""fs-te-03"", ""fs-ca-02"", ""fs-ca-01""]",dept-trading,4,61
+B3_agent_local,"[""fs-rc-03"", ""hc-iv-01""]",dept-portfolio,2,61
+B3_agent_local,"[""hc-hc-01"", ""hc-hc-04"", ""hc-cd-02"", ""hc-cd-03""]",dept-compliance-hc,0,61
+B3_agent_local,"[""hc-tp-01"", ""hc-tp-04"", ""hc-mr-01"", ""hc-mr-03""]",dept-treatment,1,61
+B3_agent_local,"[""fs-ra-04"", ""fs-ra-02"", ""fs-pa-03"", ""fs-pa-04""]",dept-risk,0,61
+SkillWeave,"[""fs-rc-04"", ""fs-rc-01"", ""fs-pa-02"", ""fs-pa-04""]",dept-compliance-fin,1,0
+SkillWeave,"[""fs-rc-01"", ""hc-da-01""]",dept-portfolio,1,0
+SkillWeave,"[""hc-da-02"", ""hc-da-04"", ""hc-da-01""]",dept-diagnostics,0,0
+SkillWeave,"[""fs-ca-03"", ""fs-ca-04"", ""fs-ca-02""]",dept-advisory,0,0
+SkillWeave,"[""fs-pa-03"", ""hc-tp-03""]",dept-portfolio,1,0
+SkillWeave,"[""fs-rc-02"", ""hc-da-04""]",dept-portfolio,2,0
+SkillWeave,"[""hc-hc-01"", ""hc-hc-04"", ""hc-tp-04"", ""hc-tp-01""]",dept-compliance-hc,0,0
+SkillWeave,"[""fs-rc-03"", ""fs-rc-04"", ""fs-rc-01""]",dept-compliance-fin,1,0
+SkillWeave,"[""fs-ar-02"", ""hc-hc-03""]",dept-portfolio,1,0
+SkillWeave,"[""fs-ca-01"", ""fs-ca-02"", ""fs-ra-04"", ""fs-ra-03""]",dept-advisory,3,0
+SkillWeave,"[""hc-mr-02"", ""hc-mr-01"", ""hc-mr-03""]",dept-records,0,0
+SkillWeave,"[""fs-te-02"", ""fs-te-04"", ""fs-pa-01"", ""fs-pa-02""]",dept-trading,2,0
+SkillWeave,"[""hc-cd-01"", ""hc-cd-02"", ""hc-cd-03""]",dept-clinical,0,0
+SkillWeave,"[""fs-pa-02"", ""fs-pa-03"", ""fs-rc-04"", ""fs-rc-03""]",dept-portfolio,1,0
+SkillWeave,"[""fs-ra-04"", ""fs-ra-02"", ""fs-ra-03""]",dept-risk,0,0
+SkillWeave,"[""fs-pa-03"", ""fs-pa-04"", ""fs-pa-01""]",dept-portfolio,0,0
+SkillWeave,"[""hc-tp-01"", ""hc-tp-02"", ""hc-hc-03"", ""hc-hc-04""]",dept-treatment,0,0
+SkillWeave,"[""fs-ra-03"", ""fs-ra-01"", ""fs-ra-02""]",dept-risk,0,0
+SkillWeave,"[""hc-da-02"", ""hc-da-03"", ""hc-tp-04"", ""hc-tp-02""]",dept-diagnostics,0,0
+SkillWeave,"[""fs-ra-03"", ""hc-hc-04""]",dept-portfolio,1,0
+SkillWeave,"[""hc-tp-01"", ""hc-tp-02"", ""hc-iv-04"", ""hc-iv-02""]",dept-treatment,6,0
+SkillWeave,"[""fs-pa-04"", ""hc-tp-02""]",dept-portfolio,1,0
+SkillWeave,"[""hc-iv-02"", ""hc-iv-03"", ""hc-cd-02"", ""hc-cd-03""]",dept-insurance,3,0
+SkillWeave,"[""fs-ca-02"", ""fs-ca-03"", ""fs-ca-04""]",dept-advisory,0,0
+SkillWeave,"[""fs-ca-01"", ""fs-ca-03"", ""fs-rc-02"", ""fs-rc-04""]",dept-advisory,3,0
+SkillWeave,"[""fs-ra-04"", ""fs-ra-01"", ""fs-ra-02""]",dept-risk,0,0
+SkillWeave,"[""fs-pa-02"", ""fs-pa-03"", ""fs-ar-01"", ""fs-ar-04""]",dept-portfolio,1,0
+SkillWeave,"[""fs-pa-02"", ""fs-pa-03"", ""fs-pa-04""]",dept-portfolio,0,0
+SkillWeave,"[""fs-ra-04"", ""fs-ra-01"", ""fs-ca-04"", ""fs-ca-03""]",dept-risk,1,0
+SkillWeave,"[""fs-ca-02"", ""hc-hc-02""]",dept-portfolio,1,0
+SkillWeave,"[""hc-hc-03"", ""hc-hc-01"", ""hc-hc-04""]",dept-compliance-hc,0,0
+SkillWeave,"[""fs-te-04"", ""fs-te-03"", ""fs-ar-03"", ""fs-ar-04""]",dept-trading,1,0
+SkillWeave,"[""fs-pa-02"", ""fs-pa-01"", ""fs-ar-02"", ""fs-ar-03""]",dept-portfolio,1,0
+SkillWeave,"[""hc-da-01"", ""hc-da-04"", ""hc-da-02""]",dept-diagnostics,0,0
+SkillWeave,"[""fs-ca-02"", ""fs-ca-03"", ""fs-ca-01""]",dept-advisory,0,0
+SkillWeave,"[""hc-iv-01"", ""hc-iv-03"", ""hc-iv-04""]",dept-insurance,0,0
+SkillWeave,"[""fs-rc-02"", ""hc-tp-04""]",dept-portfolio,2,0
+SkillWeave,"[""fs-ca-04"", ""hc-mr-03""]",dept-portfolio,1,0
+SkillWeave,"[""hc-iv-01"", ""hc-iv-04"", ""hc-iv-03""]",dept-insurance,0,0
+SkillWeave,"[""fs-ca-03"", ""fs-ca-04"", ""fs-ca-01""]",dept-advisory,0,0
+SkillWeave,"[""fs-ar-03"", ""hc-hc-01""]",dept-portfolio,1,0
+SkillWeave,"[""hc-tp-02"", ""hc-tp-03"", ""hc-cd-04"", ""hc-cd-03""]",dept-treatment,0,0
+SkillWeave,"[""hc-hc-04"", ""hc-hc-03"", ""hc-hc-02""]",dept-compliance-hc,0,0
+SkillWeave,"[""fs-ra-03"", ""hc-da-03""]",dept-portfolio,1,0
+SkillWeave,"[""fs-ar-02"", ""fs-ar-01"", ""fs-ar-04""]",dept-audit,0,0
+SkillWeave,"[""hc-hc-04"", ""hc-hc-01"", ""hc-hc-03""]",dept-compliance-hc,0,0
+SkillWeave,"[""hc-da-04"", ""hc-da-02"", ""hc-mr-02"", ""hc-mr-03""]",dept-diagnostics,1,0
+SkillWeave,"[""fs-ca-02"", ""fs-ca-01"", ""fs-ca-03""]",dept-advisory,0,0
+SkillWeave,"[""fs-rc-02"", ""fs-rc-04"", ""fs-rc-01""]",dept-compliance-fin,0,0
+SkillWeave,"[""hc-mr-01"", ""hc-mr-03"", ""hc-mr-02""]",dept-records,0,0
+SkillWeave,"[""hc-da-03"", ""hc-da-02"", ""hc-mr-02"", ""hc-mr-03""]",dept-diagnostics,1,0
+SkillWeave,"[""fs-ca-02"", ""fs-ca-04"", ""fs-ca-03""]",dept-advisory,0,0
+SkillWeave,"[""hc-hc-02"", ""hc-hc-01"", ""hc-hc-03""]",dept-compliance-hc,0,0
+SkillWeave,"[""fs-ar-03"", ""fs-ar-04"", ""fs-te-02"", ""fs-te-03""]",dept-audit,2,0
+SkillWeave,"[""hc-hc-03"", ""hc-hc-01"", ""hc-hc-02""]",dept-compliance-hc,0,0
+SkillWeave,"[""hc-hc-02"", ""hc-hc-04"", ""hc-hc-03""]",dept-compliance-hc,0,0
+SkillWeave,"[""fs-ra-01"", ""hc-hc-04""]",dept-portfolio,1,0
+SkillWeave,"[""hc-da-02"", ""hc-da-03"", ""hc-tp-02"", ""hc-tp-04""]",dept-diagnostics,0,0
+SkillWeave,"[""hc-mr-02"", ""hc-mr-01"", ""hc-mr-03""]",dept-records,0,0
+SkillWeave,"[""fs-rc-03"", ""hc-iv-02""]",dept-portfolio,2,0
+SkillWeave,"[""hc-tp-04"", ""hc-tp-03"", ""hc-mr-01"", ""hc-mr-02""]",dept-treatment,1,0
+SkillWeave,"[""fs-ca-03"", ""fs-ca-04"", ""fs-ca-01""]",dept-advisory,0,0
+SkillWeave,"[""fs-pa-02"", ""hc-da-01""]",dept-portfolio,1,0
+SkillWeave,"[""fs-rc-04"", ""fs-rc-03"", ""fs-rc-01""]",dept-compliance-fin,1,0
+SkillWeave,"[""hc-iv-01"", ""hc-iv-03"", ""hc-iv-02""]",dept-insurance,0,0
+SkillWeave,"[""hc-mr-03"", ""hc-mr-01"", ""hc-mr-02""]",dept-records,0,0
+SkillWeave,"[""hc-da-01"", ""hc-da-02"", ""hc-da-04""]",dept-diagnostics,0,0
+SkillWeave,"[""fs-pa-04"", ""fs-pa-01"", ""fs-rc-04"", ""fs-rc-02""]",dept-portfolio,3,0
+SkillWeave,"[""fs-rc-03"", ""fs-rc-01"", ""fs-ar-04"", ""fs-ar-03""]",dept-compliance-fin,1,0
+SkillWeave,"[""hc-da-02"", ""hc-da-01"", ""hc-cd-01"", ""hc-cd-03""]",dept-diagnostics,0,0
+SkillWeave,"[""fs-ar-01"", ""hc-mr-01""]",dept-portfolio,1,0
+SkillWeave,"[""fs-ar-04"", ""fs-ar-03"", ""fs-ar-02""]",dept-audit,0,0
+SkillWeave,"[""fs-ra-01"", ""fs-ra-04"", ""fs-rc-03"", ""fs-rc-04""]",dept-risk,0,0
+SkillWeave,"[""fs-ca-03"", ""hc-cd-03""]",dept-portfolio,1,0
+SkillWeave,"[""fs-ra-02"", ""hc-cd-04""]",dept-portfolio,1,0
+SkillWeave,"[""fs-rc-02"", ""hc-hc-01""]",dept-portfolio,2,0
+SkillWeave,"[""hc-tp-01"", ""hc-tp-04"", ""hc-iv-01"", ""hc-iv-02""]",dept-treatment,6,0
+SkillWeave,"[""hc-da-04"", ""hc-da-02"", ""hc-cd-02"", ""hc-cd-03""]",dept-diagnostics,0,0
+SkillWeave,"[""fs-ar-01"", ""fs-ar-02"", ""fs-ar-04""]",dept-audit,0,0
+SkillWeave,"[""fs-ra-02"", ""hc-mr-02""]",dept-portfolio,1,0
+SkillWeave,"[""fs-ca-01"", ""fs-ca-04"", ""fs-ra-04"", ""fs-ra-02""]",dept-advisory,3,0
+SkillWeave,"[""hc-da-04"", ""hc-da-01"", ""hc-da-03""]",dept-diagnostics,0,0
+SkillWeave,"[""hc-tp-04"", ""hc-tp-02"", ""hc-hc-01"", ""hc-hc-03""]",dept-treatment,0,0
+SkillWeave,"[""hc-cd-04"", ""hc-cd-03"", ""hc-tp-03"", ""hc-tp-04""]",dept-clinical,0,0
+SkillWeave,"[""hc-iv-03"", ""hc-iv-02"", ""hc-da-02"", ""hc-da-03""]",dept-insurance,3,0
+SkillWeave,"[""fs-te-01"", ""fs-te-02"", ""fs-te-04""]",dept-trading,2,0
+SkillWeave,"[""fs-ar-04"", ""fs-ar-01"", ""fs-ar-03""]",dept-audit,0,0
+SkillWeave,"[""hc-hc-03"", ""hc-hc-04"", ""hc-cd-01"", ""hc-cd-04""]",dept-compliance-hc,0,0
+SkillWeave,"[""fs-ar-01"", ""hc-iv-04""]",dept-portfolio,2,0
+SkillWeave,"[""hc-da-04"", ""hc-da-02"", ""hc-hc-01"", ""hc-hc-03""]",dept-diagnostics,1,0
+SkillWeave,"[""fs-pa-04"", ""hc-da-01""]",dept-portfolio,1,0
+SkillWeave,"[""fs-te-04"", ""hc-mr-01""]",dept-portfolio,1,0
+SkillWeave,"[""hc-mr-01"", ""hc-mr-03"", ""hc-cd-04"", ""hc-cd-02""]",dept-records,0,0
+SkillWeave,"[""hc-hc-04"", ""hc-hc-02"", ""hc-hc-03""]",dept-compliance-hc,0,0
+SkillWeave,"[""fs-pa-01"", ""fs-pa-04"", ""fs-te-02"", ""fs-te-01""]",dept-portfolio,3,0
+SkillWeave,"[""hc-da-04"", ""hc-da-01"", ""hc-da-03""]",dept-diagnostics,0,0
+SkillWeave,"[""hc-cd-02"", ""hc-cd-03"", ""hc-da-01"", ""hc-da-03""]",dept-clinical,0,0
+SkillWeave,"[""fs-ra-01"", ""fs-ra-04"", ""fs-ra-03""]",dept-risk,0,0
+SkillWeave,"[""hc-hc-03"", ""hc-hc-02"", ""hc-cd-01"", ""hc-cd-02""]",dept-compliance-hc,0,0
+SkillWeave,"[""fs-ar-02"", ""hc-mr-01""]",dept-portfolio,1,0
+SkillWeave,"[""fs-te-03"", ""hc-iv-01""]",dept-portfolio,2,0
+SkillWeave,"[""fs-pa-02"", ""fs-pa-04"", ""fs-ra-02"", ""fs-ra-04""]",dept-portfolio,0,0
+SkillWeave,"[""hc-cd-04"", ""hc-cd-01"", ""hc-tp-01"", ""hc-tp-03""]",dept-clinical,0,0
+SkillWeave,"[""hc-cd-01"", ""hc-cd-03"", ""hc-da-02"", ""hc-da-04""]",dept-clinical,0,0
+SkillWeave,"[""fs-te-03"", ""hc-mr-03""]",dept-portfolio,1,0
+SkillWeave,"[""hc-cd-02"", ""hc-cd-04"", ""hc-cd-01""]",dept-clinical,0,0
+SkillWeave,"[""fs-rc-01"", ""fs-rc-02"", ""fs-rc-04""]",dept-compliance-fin,0,0
+SkillWeave,"[""fs-ca-01"", ""fs-ca-02"", ""fs-ca-04""]",dept-advisory,0,0
+SkillWeave,"[""fs-ca-02"", ""fs-ca-04"", ""fs-ca-01""]",dept-advisory,0,0
+SkillWeave,"[""hc-iv-04"", ""hc-iv-03"", ""hc-hc-02"", ""hc-hc-01""]",dept-insurance,3,0
+SkillWeave,"[""fs-pa-02"", ""hc-cd-01""]",dept-portfolio,1,0
+SkillWeave,"[""hc-mr-03"", ""hc-mr-01"", ""hc-mr-02""]",dept-records,0,0
+SkillWeave,"[""fs-ra-03"", ""fs-ra-04"", ""fs-ra-02""]",dept-risk,0,0
+SkillWeave,"[""fs-te-02"", ""fs-te-03"", ""fs-te-01""]",dept-trading,2,0
+SkillWeave,"[""fs-rc-04"", ""hc-hc-02""]",dept-portfolio,1,0
+SkillWeave,"[""fs-pa-01"", ""fs-pa-04"", ""fs-ra-04"", ""fs-ra-02""]",dept-portfolio,0,0
+SkillWeave,"[""hc-hc-01"", ""hc-hc-02"", ""hc-hc-03""]",dept-compliance-hc,0,0
+SkillWeave,"[""fs-rc-02"", ""hc-mr-01""]",dept-portfolio,2,0
+SkillWeave,"[""hc-iv-01"", ""hc-iv-04"", ""hc-iv-03""]",dept-insurance,0,0
+SkillWeave,"[""fs-pa-04"", ""hc-tp-03""]",dept-portfolio,1,0
+SkillWeave,"[""fs-ca-01"", ""fs-ca-04"", ""fs-ca-02""]",dept-advisory,0,0
+SkillWeave,"[""fs-te-03"", ""fs-te-01"", ""fs-te-04""]",dept-trading,2,0
+SkillWeave,"[""hc-hc-01"", ""hc-hc-02"", ""hc-iv-03"", ""hc-iv-02""]",dept-compliance-hc,3,0
+SkillWeave,"[""hc-hc-04"", ""hc-hc-01"", ""hc-hc-03""]",dept-compliance-hc,0,0
+SkillWeave,"[""fs-ca-04"", ""hc-da-01""]",dept-portfolio,1,0
+SkillWeave,"[""hc-mr-03"", ""hc-mr-02"", ""hc-mr-01""]",dept-records,0,0
+SkillWeave,"[""hc-hc-03"", ""hc-hc-01"", ""hc-hc-04""]",dept-compliance-hc,0,0
+SkillWeave,"[""fs-ca-03"", ""hc-iv-01""]",dept-portfolio,2,0
+SkillWeave,"[""fs-te-02"", ""hc-mr-02""]",dept-portfolio,2,0
+SkillWeave,"[""hc-tp-04"", ""hc-tp-01"", ""hc-tp-03""]",dept-treatment,0,0
+SkillWeave,"[""hc-hc-03"", ""hc-hc-02"", ""hc-hc-04""]",dept-compliance-hc,0,0
+SkillWeave,"[""hc-cd-02"", ""hc-cd-01"", ""hc-hc-03"", ""hc-hc-02""]",dept-clinical,0,0
+SkillWeave,"[""hc-cd-04"", ""hc-cd-01"", ""hc-da-04"", ""hc-da-01""]",dept-clinical,0,0
+SkillWeave,"[""hc-cd-04"", ""hc-cd-01"", ""hc-cd-03""]",dept-clinical,0,0
+SkillWeave,"[""hc-mr-02"", ""hc-mr-03"", ""hc-tp-03"", ""hc-tp-04""]",dept-records,0,0
+SkillWeave,"[""fs-te-01"", ""fs-te-04"", ""fs-te-03""]",dept-trading,1,0
+SkillWeave,"[""fs-pa-02"", ""hc-cd-02""]",dept-portfolio,1,0
+SkillWeave,"[""fs-ar-01"", ""fs-ar-04"", ""fs-rc-04"", ""fs-rc-01""]",dept-audit,0,0
+SkillWeave,"[""fs-ca-04"", ""fs-ca-02"", ""fs-ca-03""]",dept-advisory,0,0
+SkillWeave,"[""fs-te-03"", ""hc-da-01""]",dept-portfolio,1,0
+SkillWeave,"[""hc-hc-03"", ""hc-hc-04"", ""hc-hc-01""]",dept-compliance-hc,0,0
+SkillWeave,"[""fs-pa-02"", ""fs-pa-04"", ""fs-pa-03""]",dept-portfolio,0,0
+SkillWeave,"[""fs-rc-01"", ""fs-rc-03"", ""fs-rc-02""]",dept-compliance-fin,1,0
+SkillWeave,"[""hc-mr-03"", ""hc-mr-01"", ""hc-mr-02""]",dept-records,0,0
+SkillWeave,"[""fs-rc-01"", ""fs-rc-02"", ""fs-rc-04""]",dept-compliance-fin,0,0
+SkillWeave,"[""hc-cd-01"", ""hc-cd-02"", ""hc-tp-04"", ""hc-tp-03""]",dept-clinical,0,0
+SkillWeave,"[""fs-rc-01"", ""fs-rc-03"", ""fs-rc-02""]",dept-compliance-fin,1,0
+SkillWeave,"[""hc-iv-04"", ""hc-iv-03"", ""hc-iv-01""]",dept-insurance,0,0
+SkillWeave,"[""hc-cd-04"", ""hc-cd-03"", ""hc-tp-03"", ""hc-tp-04""]",dept-clinical,0,0
+SkillWeave,"[""fs-rc-04"", ""fs-rc-03"", ""fs-te-04"", ""fs-te-01""]",dept-compliance-fin,1,0
+SkillWeave,"[""hc-hc-01"", ""hc-hc-03"", ""hc-tp-04"", ""hc-tp-01""]",dept-compliance-hc,0,0
+SkillWeave,"[""fs-ra-02"", ""fs-ra-04"", ""fs-ra-01""]",dept-risk,0,0
+SkillWeave,"[""fs-te-03"", ""hc-mr-02""]",dept-portfolio,1,0
+SkillWeave,"[""fs-pa-01"", ""hc-da-04""]",dept-portfolio,1,0
+SkillWeave,"[""hc-tp-02"", ""hc-tp-01"", ""hc-tp-03""]",dept-treatment,0,0
+SkillWeave,"[""fs-ar-03"", ""hc-cd-01""]",dept-portfolio,1,0
+SkillWeave,"[""fs-ar-04"", ""fs-ar-03"", ""fs-ca-04"", ""fs-ca-01""]",dept-audit,3,0
+SkillWeave,"[""fs-rc-04"", ""fs-rc-01"", ""fs-rc-03""]",dept-compliance-fin,1,0
+SkillWeave,"[""fs-pa-03"", ""hc-da-01""]",dept-portfolio,1,0
+SkillWeave,"[""hc-hc-04"", ""hc-hc-03"", ""hc-hc-01""]",dept-compliance-hc,0,0
+SkillWeave,"[""hc-da-02"", ""hc-da-03"", ""hc-da-04""]",dept-diagnostics,0,0
+SkillWeave,"[""hc-tp-04"", ""hc-tp-02"", ""hc-iv-02"", ""hc-iv-03""]",dept-treatment,4,0
+SkillWeave,"[""hc-iv-04"", ""hc-iv-02"", ""hc-iv-01""]",dept-insurance,0,0
+SkillWeave,"[""fs-te-02"", ""hc-cd-01""]",dept-portfolio,2,0
+SkillWeave,"[""fs-rc-04"", ""hc-cd-03""]",dept-portfolio,1,0
+SkillWeave,"[""fs-ca-03"", ""fs-ca-04"", ""fs-ca-02""]",dept-advisory,0,0
+SkillWeave,"[""fs-rc-02"", ""fs-rc-01"", ""fs-rc-03""]",dept-compliance-fin,1,0
+SkillWeave,"[""fs-te-04"", ""hc-iv-03""]",dept-portfolio,1,0
+SkillWeave,"[""hc-mr-03"", ""hc-mr-02"", ""hc-hc-02"", ""hc-hc-03""]",dept-records,0,0
+SkillWeave,"[""fs-ra-04"", ""fs-ra-01"", ""fs-ra-02""]",dept-risk,0,0
+SkillWeave,"[""hc-cd-04"", ""hc-cd-03"", ""hc-cd-01""]",dept-clinical,0,0
+SkillWeave,"[""fs-ar-01"", ""hc-iv-02""]",dept-portfolio,2,0
+SkillWeave,"[""hc-iv-03"", ""hc-iv-01"", ""hc-iv-04""]",dept-insurance,0,0
+SkillWeave,"[""fs-ar-04"", ""hc-mr-01""]",dept-portfolio,1,0
+SkillWeave,"[""fs-ar-03"", ""hc-hc-02""]",dept-portfolio,1,0
+SkillWeave,"[""hc-da-01"", ""hc-da-04"", ""hc-da-02""]",dept-diagnostics,0,0
+SkillWeave,"[""hc-hc-04"", ""hc-hc-02"", ""hc-hc-01""]",dept-compliance-hc,0,0
+SkillWeave,"[""hc-mr-02"", ""hc-mr-03"", ""hc-hc-02"", ""hc-hc-03""]",dept-records,0,0
+SkillWeave,"[""hc-mr-03"", ""hc-mr-02"", ""hc-mr-01""]",dept-records,0,0
+SkillWeave,"[""fs-pa-02"", ""fs-pa-04"", ""fs-pa-03""]",dept-portfolio,0,0
+SkillWeave,"[""fs-ar-03"", ""hc-cd-03""]",dept-portfolio,1,0
+SkillWeave,"[""fs-rc-03"", ""hc-da-01""]",dept-portfolio,1,0
+SkillWeave,"[""fs-ca-02"", ""hc-hc-03""]",dept-portfolio,1,0
+SkillWeave,"[""fs-ra-04"", ""hc-iv-01""]",dept-portfolio,2,0
+SkillWeave,"[""hc-cd-04"", ""hc-cd-02"", ""hc-cd-01""]",dept-clinical,0,0
+SkillWeave,"[""hc-iv-01"", ""hc-iv-03"", ""hc-iv-04""]",dept-insurance,0,0
+SkillWeave,"[""fs-te-01"", ""fs-te-02"", ""fs-rc-04"", ""fs-rc-01""]",dept-trading,2,0
+SkillWeave,"[""fs-ra-01"", ""hc-iv-01""]",dept-portfolio,2,0
+SkillWeave,"[""fs-pa-04"", ""hc-da-03""]",dept-portfolio,1,0
+SkillWeave,"[""fs-ca-03"", ""hc-da-04""]",dept-portfolio,1,0
+SkillWeave,"[""fs-rc-01"", ""hc-mr-01""]",dept-portfolio,1,0
+SkillWeave,"[""fs-rc-03"", ""hc-cd-01""]",dept-portfolio,1,0
+SkillWeave,"[""hc-da-04"", ""hc-da-01"", ""hc-mr-03"", ""hc-mr-01""]",dept-diagnostics,1,0
+SkillWeave,"[""fs-rc-01"", ""fs-rc-03"", ""fs-rc-04""]",dept-compliance-fin,1,0
+SkillWeave,"[""hc-cd-02"", ""hc-cd-03"", ""hc-cd-04""]",dept-clinical,0,0
+SkillWeave,"[""fs-rc-02"", ""hc-da-03""]",dept-portfolio,2,0
+SkillWeave,"[""fs-te-01"", ""hc-cd-01""]",dept-portfolio,2,0
+SkillWeave,"[""hc-hc-01"", ""hc-hc-03"", ""hc-mr-01"", ""hc-mr-02""]",dept-compliance-hc,1,0
+SkillWeave,"[""hc-hc-01"", ""hc-hc-02"", ""hc-hc-03""]",dept-compliance-hc,0,0
+SkillWeave,"[""fs-ra-04"", ""fs-ra-02"", ""fs-ra-03""]",dept-risk,0,0
+SkillWeave,"[""fs-pa-02"", ""hc-tp-01""]",dept-portfolio,1,0
+SkillWeave,"[""fs-ra-03"", ""hc-iv-01""]",dept-portfolio,2,0
+SkillWeave,"[""fs-ca-02"", ""hc-iv-01""]",dept-portfolio,1,0
+SkillWeave,"[""fs-te-04"", ""hc-iv-01""]",dept-portfolio,2,0
+SkillWeave,"[""fs-ar-02"", ""fs-ar-01"", ""fs-ar-04""]",dept-audit,0,0
+SkillWeave,"[""fs-rc-02"", ""hc-tp-04""]",dept-portfolio,2,0
+SkillWeave,"[""fs-pa-04"", ""fs-pa-02"", ""fs-te-04"", ""fs-te-01""]",dept-portfolio,2,0
+SkillWeave,"[""fs-ra-01"", ""hc-mr-03""]",dept-portfolio,1,0
+SkillWeave,"[""hc-iv-02"", ""hc-iv-01"", ""hc-iv-04""]",dept-insurance,0,0
+SkillWeave,"[""fs-te-04"", ""hc-hc-02""]",dept-portfolio,1,0
+SkillWeave,"[""fs-ca-04"", ""fs-ca-03"", ""fs-ca-01""]",dept-advisory,0,0
+SkillWeave,"[""fs-pa-02"", ""hc-tp-02""]",dept-portfolio,1,0
+SkillWeave,"[""fs-pa-02"", ""fs-pa-04"", ""fs-pa-03""]",dept-portfolio,0,0
+SkillWeave,"[""fs-ar-02"", ""fs-ar-03"", ""fs-rc-03"", ""fs-rc-04""]",dept-audit,1,0
+SkillWeave,"[""fs-ra-01"", ""hc-mr-03""]",dept-portfolio,1,0
+SkillWeave,"[""fs-te-02"", ""hc-tp-01""]",dept-portfolio,2,0
+SkillWeave,"[""fs-te-02"", ""hc-tp-02""]",dept-portfolio,2,0
+SkillWeave,"[""hc-tp-04"", ""hc-tp-02"", ""hc-da-04"", ""hc-da-02""]",dept-treatment,0,0
+SkillWeave,"[""hc-cd-01"", ""hc-cd-04"", ""hc-iv-02"", ""hc-iv-03""]",dept-clinical,4,0
+SkillWeave,"[""hc-tp-04"", ""hc-tp-02"", ""hc-tp-01""]",dept-treatment,0,0
+SkillWeave,"[""fs-pa-03"", ""hc-tp-01""]",dept-portfolio,1,0
+SkillWeave,"[""hc-iv-02"", ""hc-iv-01"", ""hc-iv-04""]",dept-insurance,0,0
+SkillWeave,"[""fs-rc-03"", ""hc-mr-01""]",dept-portfolio,1,0
+SkillWeave,"[""fs-rc-04"", ""fs-rc-02"", ""fs-ar-01"", ""fs-ar-03""]",dept-compliance-fin,2,0
+SkillWeave,"[""hc-tp-03"", ""hc-tp-01"", ""hc-iv-02"", ""hc-iv-03""]",dept-treatment,4,0
+SkillWeave,"[""fs-ra-04"", ""hc-da-04""]",dept-portfolio,1,0
+SkillWeave,"[""fs-ca-04"", ""fs-ca-02"", ""fs-ca-03""]",dept-advisory,0,0
+SkillWeave,"[""fs-te-03"", ""fs-te-01"", ""fs-te-02""]",dept-trading,2,0
+SkillWeave,"[""fs-ra-03"", ""hc-cd-01""]",dept-portfolio,1,0
+SkillWeave,"[""fs-ra-01"", ""fs-ra-02"", ""fs-ra-03""]",dept-risk,0,0
+SkillWeave,"[""fs-ra-04"", ""fs-ra-01"", ""fs-ra-03""]",dept-risk,0,0
+SkillWeave,"[""fs-ar-02"", ""fs-ar-03"", ""fs-te-02"", ""fs-te-01""]",dept-audit,2,0
+SkillWeave,"[""fs-pa-03"", ""fs-pa-01"", ""fs-pa-02""]",dept-portfolio,0,0
+SkillWeave,"[""hc-tp-01"", ""hc-tp-03"", ""hc-tp-02""]",dept-treatment,0,0
+SkillWeave,"[""fs-te-01"", ""hc-cd-03""]",dept-portfolio,2,0
+SkillWeave,"[""fs-rc-03"", ""fs-rc-02"", ""fs-ca-02"", ""fs-ca-03""]",dept-compliance-fin,2,0
+SkillWeave,"[""fs-pa-04"", ""hc-hc-02""]",dept-portfolio,1,0
+SkillWeave,"[""hc-mr-03"", ""hc-mr-01"", ""hc-hc-03"", ""hc-hc-01""]",dept-records,0,0
+SkillWeave,"[""hc-hc-01"", ""hc-hc-03"", ""hc-hc-02""]",dept-compliance-hc,0,0
+SkillWeave,"[""fs-pa-02"", ""hc-cd-04""]",dept-portfolio,1,0
+SkillWeave,"[""fs-ar-04"", ""fs-ar-01"", ""fs-ar-03""]",dept-audit,0,0
+SkillWeave,"[""fs-rc-04"", ""fs-rc-02"", ""fs-rc-03""]",dept-compliance-fin,0,0
+SkillWeave,"[""fs-pa-04"", ""hc-tp-01""]",dept-portfolio,1,0
+SkillWeave,"[""fs-ca-03"", ""hc-da-01""]",dept-portfolio,1,0
+SkillWeave,"[""fs-ra-02"", ""hc-mr-01""]",dept-portfolio,1,0
+SkillWeave,"[""fs-ar-03"", ""hc-cd-02""]",dept-portfolio,1,0
+SkillWeave,"[""fs-te-02"", ""hc-hc-03""]",dept-portfolio,2,0
+SkillWeave,"[""fs-ar-04"", ""hc-mr-02""]",dept-portfolio,1,0
+SkillWeave,"[""hc-hc-01"", ""hc-hc-04"", ""hc-hc-03""]",dept-compliance-hc,0,0
+SkillWeave,"[""hc-hc-02"", ""hc-hc-04"", ""hc-mr-03"", ""hc-mr-02""]",dept-compliance-hc,1,0
+SkillWeave,"[""fs-pa-02"", ""hc-mr-03""]",dept-portfolio,1,0
+SkillWeave,"[""fs-pa-01"", ""hc-tp-02""]",dept-portfolio,1,0
+SkillWeave,"[""hc-cd-04"", ""hc-cd-03"", ""hc-cd-02""]",dept-clinical,0,0
+SkillWeave,"[""fs-te-01"", ""hc-hc-03""]",dept-portfolio,2,0
+SkillWeave,"[""fs-ar-01"", ""hc-hc-02""]",dept-portfolio,1,0
+SkillWeave,"[""fs-ar-03"", ""hc-hc-01""]",dept-portfolio,1,0
+SkillWeave,"[""fs-pa-02"", ""fs-pa-04"", ""fs-pa-01""]",dept-portfolio,0,0
+SkillWeave,"[""hc-iv-04"", ""hc-iv-03"", ""hc-mr-02"", ""hc-mr-03""]",dept-insurance,3,0
+SkillWeave,"[""fs-pa-01"", ""fs-pa-04"", ""fs-ar-01"", ""fs-ar-02""]",dept-portfolio,1,0
+SkillWeave,"[""fs-rc-04"", ""fs-rc-02"", ""fs-ar-02"", ""fs-ar-04""]",dept-compliance-fin,2,0
+SkillWeave,"[""fs-ar-02"", ""hc-tp-01""]",dept-portfolio,1,0
+SkillWeave,"[""fs-rc-02"", ""hc-iv-01""]",dept-portfolio,1,0
+SkillWeave,"[""fs-ra-01"", ""fs-ra-04"", ""fs-ra-02""]",dept-risk,0,0
+SkillWeave,"[""hc-mr-01"", ""hc-mr-02"", ""hc-mr-03""]",dept-records,0,0
+SkillWeave,"[""fs-pa-01"", ""fs-pa-02"", ""fs-ca-02"", ""fs-ca-03""]",dept-portfolio,0,0
+SkillWeave,"[""hc-da-04"", ""hc-da-01"", ""hc-hc-03"", ""hc-hc-01""]",dept-diagnostics,1,0
+SkillWeave,"[""fs-rc-03"", ""fs-rc-04"", ""fs-rc-02""]",dept-compliance-fin,0,0
+SkillWeave,"[""fs-pa-04"", ""fs-pa-02"", ""fs-ra-04"", ""fs-ra-02""]",dept-portfolio,0,0
+SkillWeave,"[""fs-pa-02"", ""fs-pa-01"", ""fs-pa-03""]",dept-portfolio,0,0
+SkillWeave,"[""fs-ar-04"", ""hc-da-03""]",dept-portfolio,1,0
+SkillWeave,"[""fs-rc-04"", ""hc-da-03""]",dept-portfolio,1,0
+SkillWeave,"[""fs-ar-04"", ""fs-ar-03"", ""fs-ar-02""]",dept-audit,0,0
+SkillWeave,"[""fs-ca-01"", ""hc-cd-02""]",dept-portfolio,2,0
+SkillWeave,"[""hc-da-03"", ""hc-da-04"", ""hc-da-02""]",dept-diagnostics,0,0
+SkillWeave,"[""hc-tp-02"", ""hc-tp-03"", ""hc-hc-04"", ""hc-hc-02""]",dept-treatment,0,0
+SkillWeave,"[""hc-iv-02"", ""hc-iv-03"", ""hc-iv-04""]",dept-insurance,0,0
+SkillWeave,"[""fs-ar-02"", ""hc-da-01""]",dept-portfolio,1,0
+SkillWeave,"[""fs-ar-02"", ""hc-da-03""]",dept-portfolio,1,0
+SkillWeave,"[""fs-pa-01"", ""fs-pa-04"", ""fs-ar-03"", ""fs-ar-01""]",dept-portfolio,1,0
+SkillWeave,"[""hc-iv-03"", ""hc-iv-01"", ""hc-iv-04""]",dept-insurance,0,0
+SkillWeave,"[""hc-hc-02"", ""hc-hc-04"", ""hc-hc-03""]",dept-compliance-hc,0,0
+SkillWeave,"[""hc-hc-01"", ""hc-hc-04"", ""hc-hc-02""]",dept-compliance-hc,0,0
+SkillWeave,"[""fs-pa-03"", ""hc-iv-04""]",dept-portfolio,2,0
+SkillWeave,"[""fs-ar-04"", ""fs-ar-03"", ""fs-te-02"", ""fs-te-04""]",dept-audit,2,0
+SkillWeave,"[""fs-ar-03"", ""fs-ar-01"", ""fs-te-01"", ""fs-te-04""]",dept-audit,2,0
+SkillWeave,"[""fs-ra-01"", ""fs-ra-02"", ""fs-ra-03""]",dept-risk,0,0
+SkillWeave,"[""hc-iv-04"", ""hc-iv-01"", ""hc-iv-02""]",dept-insurance,0,0
+SkillWeave,"[""fs-ra-02"", ""fs-ra-04"", ""fs-ra-03""]",dept-risk,0,0
+SkillWeave,"[""fs-pa-02"", ""hc-tp-04""]",dept-portfolio,1,0
+SkillWeave,"[""hc-hc-04"", ""hc-hc-03"", ""hc-cd-02"", ""hc-cd-04""]",dept-compliance-hc,0,0
+SkillWeave,"[""fs-pa-04"", ""fs-pa-02"", ""fs-ca-02"", ""fs-ca-04""]",dept-portfolio,0,0
+SkillWeave,"[""fs-te-04"", ""fs-te-02"", ""fs-te-03""]",dept-trading,2,0
+SkillWeave,"[""hc-mr-02"", ""hc-mr-01"", ""hc-mr-03""]",dept-records,0,0
+SkillWeave,"[""hc-cd-01"", ""hc-cd-03"", ""hc-cd-02""]",dept-clinical,0,0
+SkillWeave,"[""fs-ca-03"", ""hc-cd-04""]",dept-portfolio,1,0
+SkillWeave,"[""fs-ra-01"", ""hc-tp-01""]",dept-portfolio,1,0
+SkillWeave,"[""fs-ca-04"", ""fs-ca-03"", ""fs-pa-03"", ""fs-pa-01""]",dept-advisory,0,0
+SkillWeave,"[""hc-da-04"", ""hc-da-01"", ""hc-da-03""]",dept-diagnostics,0,0
+SkillWeave,"[""hc-tp-01"", ""hc-tp-04"", ""hc-mr-01"", ""hc-mr-02""]",dept-treatment,1,0
+SkillWeave,"[""fs-ra-02"", ""fs-ra-04"", ""fs-rc-02"", ""fs-rc-04""]",dept-risk,2,0
+SkillWeave,"[""fs-pa-03"", ""fs-pa-02"", ""fs-pa-01""]",dept-portfolio,0,0
+SkillWeave,"[""hc-iv-01"", ""hc-iv-03"", ""hc-mr-01"", ""hc-mr-02""]",dept-insurance,3,0
+SkillWeave,"[""fs-rc-03"", ""fs-rc-04"", ""fs-ra-01"", ""fs-ra-02""]",dept-compliance-fin,0,0
+SkillWeave,"[""hc-iv-04"", ""hc-iv-03"", ""hc-da-02"", ""hc-da-03""]",dept-insurance,3,0
+SkillWeave,"[""hc-mr-03"", ""hc-mr-01"", ""hc-mr-02""]",dept-records,0,0
+SkillWeave,"[""fs-ra-02"", ""fs-ra-04"", ""fs-ra-03""]",dept-risk,0,0
+SkillWeave,"[""hc-da-02"", ""hc-da-04"", ""hc-hc-02"", ""hc-hc-03""]",dept-diagnostics,1,0
+SkillWeave,"[""fs-ra-03"", ""fs-ra-04"", ""fs-ra-01""]",dept-risk,0,0
+SkillWeave,"[""hc-da-04"", ""hc-da-02"", ""hc-da-03""]",dept-diagnostics,0,0
+SkillWeave,"[""fs-rc-03"", ""hc-da-03""]",dept-portfolio,1,0
+SkillWeave,"[""fs-rc-03"", ""hc-da-01""]",dept-portfolio,1,0
+SkillWeave,"[""fs-ar-02"", ""fs-ar-03"", ""fs-te-04"", ""fs-te-01""]",dept-audit,1,0
+SkillWeave,"[""fs-ra-01"", ""hc-mr-01""]",dept-portfolio,1,0
+SkillWeave,"[""fs-pa-01"", ""hc-mr-01""]",dept-portfolio,1,0
+SkillWeave,"[""hc-hc-04"", ""hc-hc-02"", ""hc-hc-03""]",dept-compliance-hc,0,0
+SkillWeave,"[""fs-ar-02"", ""fs-ar-01"", ""fs-ar-04""]",dept-audit,0,0
+SkillWeave,"[""fs-ca-02"", ""fs-ca-03"", ""fs-rc-01"", ""fs-rc-03""]",dept-advisory,2,0
+SkillWeave,"[""hc-hc-03"", ""hc-hc-04"", ""hc-tp-03"", ""hc-tp-04""]",dept-compliance-hc,0,0
+SkillWeave,"[""hc-da-03"", ""hc-da-01"", ""hc-hc-04"", ""hc-hc-03""]",dept-diagnostics,1,0
+SkillWeave,"[""hc-iv-01"", ""hc-iv-04"", ""hc-iv-02""]",dept-insurance,0,0
+SkillWeave,"[""hc-tp-04"", ""hc-tp-01"", ""hc-iv-04"", ""hc-iv-02""]",dept-treatment,6,0
+SkillWeave,"[""fs-ca-01"", ""hc-tp-02""]",dept-portfolio,2,0
+SkillWeave,"[""fs-ar-04"", ""fs-ar-02"", ""fs-ar-01""]",dept-audit,0,0
+SkillWeave,"[""fs-ar-02"", ""hc-tp-04""]",dept-portfolio,1,0
+SkillWeave,"[""hc-cd-01"", ""hc-cd-02"", ""hc-cd-04""]",dept-clinical,0,0
+SkillWeave,"[""fs-te-02"", ""hc-mr-03""]",dept-portfolio,2,0
+SkillWeave,"[""fs-ra-04"", ""fs-ra-02"", ""fs-ra-01""]",dept-risk,0,0
+SkillWeave,"[""hc-tp-03"", ""hc-tp-02"", ""hc-tp-01""]",dept-treatment,0,0
+SkillWeave,"[""hc-mr-02"", ""hc-mr-01"", ""hc-mr-03""]",dept-records,0,0
+SkillWeave,"[""fs-ca-03"", ""fs-ca-01"", ""fs-ca-02""]",dept-advisory,0,0
+SkillWeave,"[""hc-cd-04"", ""hc-cd-03"", ""hc-cd-01""]",dept-clinical,0,0
+SkillWeave,"[""fs-ca-03"", ""fs-ca-01"", ""fs-ca-04""]",dept-advisory,0,0
+SkillWeave,"[""fs-pa-04"", ""hc-iv-02""]",dept-portfolio,2,0
+SkillWeave,"[""fs-ar-04"", ""hc-da-04""]",dept-portfolio,1,0
+SkillWeave,"[""fs-ar-03"", ""fs-ar-02"", ""fs-ar-01""]",dept-audit,0,0
+SkillWeave,"[""hc-mr-01"", ""hc-mr-02"", ""hc-mr-03""]",dept-records,0,0
+SkillWeave,"[""fs-rc-04"", ""fs-rc-03"", ""fs-rc-01""]",dept-compliance-fin,1,0
+SkillWeave,"[""fs-ar-01"", ""hc-tp-03""]",dept-portfolio,1,0
+SkillWeave,"[""fs-pa-03"", ""hc-iv-03""]",dept-portfolio,1,0
+SkillWeave,"[""hc-hc-04"", ""hc-hc-03"", ""hc-tp-03"", ""hc-tp-02""]",dept-compliance-hc,0,0
+SkillWeave,"[""fs-pa-04"", ""fs-pa-01"", ""fs-ca-01"", ""fs-ca-04""]",dept-portfolio,2,0
+SkillWeave,"[""fs-rc-01"", ""fs-rc-04"", ""fs-pa-03"", ""fs-pa-04""]",dept-compliance-fin,1,0
+SkillWeave,"[""fs-pa-04"", ""fs-pa-01"", ""fs-pa-02""]",dept-portfolio,0,0
+SkillWeave,"[""fs-rc-01"", ""fs-rc-02"", ""fs-ca-03"", ""fs-ca-04""]",dept-compliance-fin,4,0
+SkillWeave,"[""fs-ar-03"", ""hc-iv-02""]",dept-portfolio,2,0
+SkillWeave,"[""fs-ar-01"", ""hc-tp-03""]",dept-portfolio,1,0
+SkillWeave,"[""fs-ca-02"", ""fs-ca-03"", ""fs-ca-04""]",dept-advisory,0,0
+SkillWeave,"[""fs-ca-02"", ""hc-tp-03""]",dept-portfolio,1,0
+SkillWeave,"[""fs-ar-02"", ""fs-ar-04"", ""fs-ca-03"", ""fs-ca-02""]",dept-audit,1,0
+SkillWeave,"[""fs-rc-04"", ""hc-cd-01""]",dept-portfolio,1,0
+SkillWeave,"[""fs-te-02"", ""fs-te-04"", ""fs-rc-02"", ""fs-rc-03""]",dept-trading,3,0
+SkillWeave,"[""fs-ca-03"", ""fs-ca-01"", ""fs-ra-04"", ""fs-ra-02""]",dept-advisory,3,0
+SkillWeave,"[""fs-ar-01"", ""fs-ar-04"", ""fs-ar-02""]",dept-audit,0,0
+SkillWeave,"[""fs-ra-01"", ""hc-iv-01""]",dept-portfolio,2,0
+SkillWeave,"[""hc-iv-04"", ""hc-iv-03"", ""hc-da-02"", ""hc-da-04""]",dept-insurance,3,0
+SkillWeave,"[""fs-ra-04"", ""hc-cd-04""]",dept-portfolio,1,0
+SkillWeave,"[""fs-pa-01"", ""hc-hc-04""]",dept-portfolio,1,0
+SkillWeave,"[""hc-hc-03"", ""hc-hc-02"", ""hc-hc-04""]",dept-compliance-hc,0,0
+SkillWeave,"[""fs-ca-01"", ""hc-cd-03""]",dept-portfolio,2,0
+SkillWeave,"[""fs-ar-04"", ""hc-iv-04""]",dept-portfolio,2,0
+SkillWeave,"[""fs-rc-04"", ""fs-rc-03"", ""fs-rc-02""]",dept-compliance-fin,0,0
+SkillWeave,"[""fs-ca-04"", ""fs-ca-03"", ""fs-ca-02""]",dept-advisory,0,0
+SkillWeave,"[""hc-cd-03"", ""hc-cd-01"", ""hc-tp-04"", ""hc-tp-03""]",dept-clinical,0,0
+SkillWeave,"[""fs-te-01"", ""hc-da-01""]",dept-portfolio,2,0
+SkillWeave,"[""fs-pa-02"", ""fs-pa-04"", ""fs-rc-02"", ""fs-rc-03""]",dept-portfolio,3,0
+SkillWeave,"[""fs-ca-02"", ""hc-mr-01""]",dept-portfolio,1,0
+SkillWeave,"[""fs-ca-03"", ""fs-ca-02"", ""fs-ca-04""]",dept-advisory,0,0
+SkillWeave,"[""hc-mr-03"", ""hc-mr-02"", ""hc-iv-03"", ""hc-iv-01""]",dept-records,4,0
+SkillWeave,"[""hc-cd-03"", ""hc-cd-04"", ""hc-cd-02""]",dept-clinical,0,0
+SkillWeave,"[""fs-ca-02"", ""hc-da-03""]",dept-portfolio,1,0
+SkillWeave,"[""fs-rc-04"", ""hc-tp-03""]",dept-portfolio,1,0
+SkillWeave,"[""hc-hc-03"", ""hc-hc-02"", ""hc-iv-03"", ""hc-iv-02""]",dept-compliance-hc,3,0
+SkillWeave,"[""fs-ra-04"", ""fs-ra-01"", ""fs-te-02"", ""fs-te-04""]",dept-risk,2,0
+SkillWeave,"[""fs-pa-03"", ""hc-mr-01""]",dept-portfolio,1,0
+SkillWeave,"[""hc-mr-01"", ""hc-mr-02"", ""hc-mr-03""]",dept-records,0,0
+SkillWeave,"[""hc-mr-03"", ""hc-mr-02"", ""hc-cd-03"", ""hc-cd-04""]",dept-records,0,0
+SkillWeave,"[""hc-tp-03"", ""hc-tp-02"", ""hc-da-04"", ""hc-da-01""]",dept-treatment,0,0
+SkillWeave,"[""fs-ca-04"", ""fs-ca-01"", ""fs-ca-02""]",dept-advisory,0,0
+SkillWeave,"[""hc-cd-01"", ""hc-cd-04"", ""hc-cd-02""]",dept-clinical,0,0
+SkillWeave,"[""hc-tp-01"", ""hc-tp-03"", ""hc-cd-03"", ""hc-cd-04""]",dept-treatment,0,0
+SkillWeave,"[""fs-pa-02"", ""hc-da-01""]",dept-portfolio,1,0
+SkillWeave,"[""hc-cd-02"", ""hc-cd-03"", ""hc-tp-02"", ""hc-tp-03""]",dept-clinical,0,0
+SkillWeave,"[""fs-pa-02"", ""hc-da-01""]",dept-portfolio,1,0
+SkillWeave,"[""fs-ar-02"", ""hc-mr-01""]",dept-portfolio,1,0
+SkillWeave,"[""hc-mr-03"", ""hc-mr-01"", ""hc-mr-02""]",dept-records,0,0
+SkillWeave,"[""fs-ca-02"", ""hc-tp-02""]",dept-portfolio,1,0
+SkillWeave,"[""fs-ca-03"", ""fs-ca-02"", ""fs-ca-01""]",dept-advisory,0,0
+SkillWeave,"[""fs-pa-03"", ""fs-pa-02"", ""fs-pa-01""]",dept-portfolio,0,0
+SkillWeave,"[""fs-ca-01"", ""fs-ca-03"", ""fs-ar-04"", ""fs-ar-03""]",dept-advisory,3,0
+SkillWeave,"[""fs-ar-01"", ""hc-mr-01""]",dept-portfolio,1,0
+SkillWeave,"[""fs-ar-02"", ""fs-ar-04"", ""fs-pa-03"", ""fs-pa-01""]",dept-audit,0,0
+SkillWeave,"[""fs-te-04"", ""fs-te-02"", ""fs-te-01""]",dept-trading,2,0
+SkillWeave,"[""hc-iv-03"", ""hc-iv-02"", ""hc-da-03"", ""hc-da-04""]",dept-insurance,3,0
+SkillWeave,"[""hc-iv-04"", ""hc-iv-01"", ""hc-cd-02"", ""hc-cd-03""]",dept-insurance,5,0
+SkillWeave,"[""fs-pa-04"", ""hc-mr-03""]",dept-portfolio,1,0
+SkillWeave,"[""hc-tp-04"", ""hc-tp-02"", ""hc-cd-03"", ""hc-cd-01""]",dept-treatment,0,0
+SkillWeave,"[""hc-cd-01"", ""hc-cd-03"", ""hc-cd-02""]",dept-clinical,0,0
+SkillWeave,"[""hc-da-04"", ""hc-da-03"", ""hc-da-02""]",dept-diagnostics,0,0
+SkillWeave,"[""hc-iv-02"", ""hc-iv-04"", ""hc-iv-01""]",dept-insurance,0,0
+SkillWeave,"[""fs-rc-01"", ""fs-rc-02"", ""fs-rc-03""]",dept-compliance-fin,1,0
+SkillWeave,"[""hc-tp-03"", ""hc-tp-01"", ""hc-tp-02""]",dept-treatment,0,0
+SkillWeave,"[""fs-rc-01"", ""fs-rc-02"", ""fs-rc-04""]",dept-compliance-fin,0,0
+SkillWeave,"[""fs-ra-04"", ""fs-ra-02"", ""fs-ar-03"", ""fs-ar-01""]",dept-risk,1,0
+SkillWeave,"[""fs-pa-03"", ""hc-da-01""]",dept-portfolio,1,0
+SkillWeave,"[""fs-te-01"", ""fs-te-04"", ""fs-te-02""]",dept-trading,2,0
+SkillWeave,"[""fs-te-04"", ""fs-te-02"", ""fs-te-01""]",dept-trading,2,0
+SkillWeave,"[""fs-ca-02"", ""fs-ca-03"", ""fs-ra-02"", ""fs-ra-03""]",dept-advisory,1,0
+SkillWeave,"[""hc-da-02"", ""hc-da-04"", ""hc-iv-03"", ""hc-iv-02""]",dept-diagnostics,4,0
+SkillWeave,"[""fs-ca-02"", ""hc-hc-04""]",dept-portfolio,1,0
+SkillWeave,"[""hc-tp-04"", ""hc-tp-03"", ""hc-iv-03"", ""hc-iv-02""]",dept-treatment,4,0
+SkillWeave,"[""fs-ca-03"", ""hc-hc-03""]",dept-portfolio,1,0
+SkillWeave,"[""hc-da-03"", ""hc-da-04"", ""hc-mr-01"", ""hc-mr-02""]",dept-diagnostics,1,0
+SkillWeave,"[""hc-cd-04"", ""hc-cd-03"", ""hc-cd-01""]",dept-clinical,0,0
+SkillWeave,"[""fs-te-02"", ""hc-tp-02""]",dept-portfolio,2,0
+SkillWeave,"[""hc-da-04"", ""hc-da-03"", ""hc-mr-01"", ""hc-mr-03""]",dept-diagnostics,1,0
+SkillWeave,"[""hc-da-04"", ""hc-da-02"", ""hc-da-03""]",dept-diagnostics,0,0
+SkillWeave,"[""hc-tp-01"", ""hc-tp-02"", ""hc-tp-03""]",dept-treatment,0,0
+SkillWeave,"[""fs-te-01"", ""hc-mr-03""]",dept-portfolio,2,0
+SkillWeave,"[""fs-pa-04"", ""fs-pa-02"", ""fs-pa-03""]",dept-portfolio,0,0
+SkillWeave,"[""hc-iv-04"", ""hc-iv-01"", ""hc-hc-01"", ""hc-hc-04""]",dept-insurance,5,0
+SkillWeave,"[""fs-ar-01"", ""fs-ar-02"", ""fs-pa-01"", ""fs-pa-02""]",dept-audit,0,0
+SkillWeave,"[""fs-ca-03"", ""hc-tp-01""]",dept-portfolio,1,0
+SkillWeave,"[""fs-ar-04"", ""fs-ar-01"", ""fs-ca-01"", ""fs-ca-03""]",dept-audit,3,0
+SkillWeave,"[""hc-da-03"", ""hc-da-04"", ""hc-mr-02"", ""hc-mr-01""]",dept-diagnostics,1,0
+SkillWeave,"[""fs-ca-01"", ""fs-ca-02"", ""fs-ra-04"", ""fs-ra-02""]",dept-advisory,3,0
+SkillWeave,"[""fs-pa-04"", ""hc-da-03""]",dept-portfolio,1,0
+SkillWeave,"[""fs-ar-03"", ""hc-iv-02""]",dept-portfolio,2,0
+SkillWeave,"[""fs-pa-01"", ""hc-iv-02""]",dept-portfolio,2,0
+SkillWeave,"[""fs-ra-01"", ""fs-ra-04"", ""fs-rc-02"", ""fs-rc-03""]",dept-risk,2,0
+SkillWeave,"[""hc-mr-01"", ""hc-mr-02"", ""hc-mr-03""]",dept-records,0,0
+SkillWeave,"[""fs-rc-02"", ""fs-rc-04"", ""fs-ca-03"", ""fs-ca-01""]",dept-compliance-fin,3,0
+SkillWeave,"[""fs-ra-04"", ""hc-cd-01""]",dept-portfolio,1,0
+SkillWeave,"[""hc-mr-03"", ""hc-mr-01"", ""hc-cd-02"", ""hc-cd-03""]",dept-records,0,0
+SkillWeave,"[""hc-tp-04"", ""hc-tp-01"", ""hc-mr-02"", ""hc-mr-03""]",dept-treatment,1,0
+SkillWeave,"[""fs-pa-01"", ""hc-iv-02""]",dept-portfolio,2,0
+SkillWeave,"[""hc-iv-01"", ""hc-iv-04"", ""hc-iv-03""]",dept-insurance,0,0
+SkillWeave,"[""hc-da-04"", ""hc-da-01"", ""hc-iv-03"", ""hc-iv-04""]",dept-diagnostics,4,0
+SkillWeave,"[""hc-tp-03"", ""hc-tp-01"", ""hc-tp-04""]",dept-treatment,0,0
+SkillWeave,"[""fs-ra-03"", ""hc-tp-02""]",dept-portfolio,1,0
+SkillWeave,"[""hc-mr-03"", ""hc-mr-01"", ""hc-da-02"", ""hc-da-01""]",dept-records,0,0
+SkillWeave,"[""fs-te-02"", ""hc-cd-02""]",dept-portfolio,2,0
+SkillWeave,"[""fs-ar-01"", ""hc-mr-02""]",dept-portfolio,1,0
+SkillWeave,"[""hc-cd-03"", ""hc-cd-04"", ""hc-cd-01""]",dept-clinical,0,0
+SkillWeave,"[""fs-ca-03"", ""fs-ca-01"", ""fs-ca-04""]",dept-advisory,0,0
+SkillWeave,"[""hc-iv-02"", ""hc-iv-04"", ""hc-mr-03"", ""hc-mr-02""]",dept-insurance,5,0
+SkillWeave,"[""hc-iv-02"", ""hc-iv-03"", ""hc-iv-04""]",dept-insurance,0,0
+SkillWeave,"[""fs-te-04"", ""hc-tp-01""]",dept-portfolio,1,0
+SkillWeave,"[""hc-da-01"", ""hc-da-03"", ""hc-da-04""]",dept-diagnostics,0,0
+SkillWeave,"[""fs-te-02"", ""hc-da-01""]",dept-portfolio,2,0
+SkillWeave,"[""fs-ar-02"", ""fs-ar-01"", ""fs-ca-03"", ""fs-ca-04""]",dept-audit,2,0
+SkillWeave,"[""hc-cd-03"", ""hc-cd-04"", ""hc-mr-03"", ""hc-mr-01""]",dept-clinical,1,0
+SkillWeave,"[""hc-cd-03"", ""hc-cd-01"", ""hc-cd-02""]",dept-clinical,0,0
+SkillWeave,"[""fs-rc-01"", ""fs-rc-03"", ""fs-rc-02""]",dept-compliance-fin,1,0
+SkillWeave,"[""hc-mr-01"", ""hc-mr-02"", ""hc-da-03"", ""hc-da-04""]",dept-records,0,0
+SkillWeave,"[""fs-ar-04"", ""fs-ar-01"", ""fs-ar-02""]",dept-audit,0,0
+SkillWeave,"[""fs-ar-01"", ""hc-iv-03""]",dept-portfolio,1,0
+SkillWeave,"[""fs-ar-04"", ""fs-ar-03"", ""fs-ar-02""]",dept-audit,0,0
+SkillWeave,"[""fs-ar-03"", ""hc-iv-03""]",dept-portfolio,1,0
+SkillWeave,"[""hc-iv-04"", ""hc-iv-01"", ""hc-iv-03""]",dept-insurance,0,0
+SkillWeave,"[""hc-mr-02"", ""hc-mr-01"", ""hc-mr-03""]",dept-records,0,0
+SkillWeave,"[""hc-cd-03"", ""hc-cd-01"", ""hc-cd-02""]",dept-clinical,0,0
+SkillWeave,"[""hc-hc-02"", ""hc-hc-04"", ""hc-da-01"", ""hc-da-03""]",dept-compliance-hc,1,0
+SkillWeave,"[""fs-te-02"", ""fs-te-01"", ""fs-rc-03"", ""fs-rc-02""]",dept-trading,4,0
+SkillWeave,"[""fs-ar-03"", ""fs-ar-01"", ""fs-ar-04""]",dept-audit,0,0
+SkillWeave,"[""hc-mr-02"", ""hc-mr-03"", ""hc-mr-01""]",dept-records,0,0
+SkillWeave,"[""fs-te-04"", ""hc-iv-02""]",dept-portfolio,2,0
+SkillWeave,"[""fs-ra-02"", ""hc-mr-02""]",dept-portfolio,1,0
+SkillWeave,"[""fs-ar-04"", ""fs-ar-03"", ""fs-pa-01"", ""fs-pa-04""]",dept-audit,0,0
+SkillWeave,"[""hc-mr-03"", ""hc-mr-01"", ""hc-tp-04"", ""hc-tp-02""]",dept-records,0,0
+SkillWeave,"[""fs-ra-04"", ""fs-ra-03"", ""fs-rc-04"", ""fs-rc-01""]",dept-risk,0,0
+SkillWeave,"[""fs-rc-02"", ""hc-iv-02""]",dept-portfolio,1,0
+SkillWeave,"[""hc-mr-02"", ""hc-mr-01"", ""hc-mr-03""]",dept-records,0,0
+SkillWeave,"[""hc-tp-01"", ""hc-tp-03"", ""hc-tp-04""]",dept-treatment,0,0
+SkillWeave,"[""fs-ra-02"", ""hc-tp-01""]",dept-portfolio,1,0
+SkillWeave,"[""fs-ca-01"", ""fs-ca-04"", ""fs-ra-04"", ""fs-ra-02""]",dept-advisory,3,0
+SkillWeave,"[""fs-te-01"", ""fs-te-02"", ""fs-te-03""]",dept-trading,2,0
+SkillWeave,"[""hc-da-01"", ""hc-da-03"", ""hc-da-04""]",dept-diagnostics,0,0
+SkillWeave,"[""fs-ar-04"", ""fs-ar-03"", ""fs-te-02"", ""fs-te-03""]",dept-audit,2,0
+SkillWeave,"[""hc-da-02"", ""hc-da-01"", ""hc-da-03""]",dept-diagnostics,0,0
+SkillWeave,"[""fs-te-04"", ""fs-te-01"", ""fs-te-02""]",dept-trading,2,0
+SkillWeave,"[""fs-ar-03"", ""fs-ar-02"", ""fs-ar-04""]",dept-audit,0,0
+SkillWeave,"[""fs-ra-04"", ""fs-ra-03"", ""fs-ra-01""]",dept-risk,0,0
+SkillWeave,"[""hc-tp-02"", ""hc-tp-04"", ""hc-tp-01""]",dept-treatment,0,0
+SkillWeave,"[""hc-iv-02"", ""hc-iv-03"", ""hc-cd-03"", ""hc-cd-01""]",dept-insurance,3,0
+SkillWeave,"[""fs-te-04"", ""fs-te-03"", ""fs-ar-04"", ""fs-ar-03""]",dept-trading,1,0
+SkillWeave,"[""hc-iv-02"", ""hc-iv-01"", ""hc-cd-03"", ""hc-cd-04""]",dept-insurance,5,0
+SkillWeave,"[""fs-ra-01"", ""fs-ra-03"", ""fs-ca-03"", ""fs-ca-04""]",dept-risk,1,0
+SkillWeave,"[""fs-pa-02"", ""hc-hc-04""]",dept-portfolio,1,0
+SkillWeave,"[""hc-tp-03"", ""hc-tp-02"", ""hc-tp-04""]",dept-treatment,0,0
+SkillWeave,"[""hc-cd-01"", ""hc-cd-04"", ""hc-cd-03""]",dept-clinical,0,0
+SkillWeave,"[""hc-mr-01"", ""hc-mr-03"", ""hc-iv-03"", ""hc-iv-04""]",dept-records,4,0
+SkillWeave,"[""fs-rc-03"", ""fs-rc-01"", ""fs-rc-04""]",dept-compliance-fin,1,0
+SkillWeave,"[""fs-ca-03"", ""fs-ca-04"", ""fs-ca-02""]",dept-advisory,0,0
+SkillWeave,"[""fs-te-01"", ""fs-te-02"", ""fs-te-03""]",dept-trading,2,0
+SkillWeave,"[""hc-hc-03"", ""hc-hc-01"", ""hc-hc-02""]",dept-compliance-hc,0,0
+SkillWeave,"[""fs-te-02"", ""fs-te-03"", ""fs-ca-02"", ""fs-ca-01""]",dept-trading,4,0
+SkillWeave,"[""fs-rc-03"", ""hc-iv-01""]",dept-portfolio,2,0
+SkillWeave,"[""hc-hc-01"", ""hc-hc-04"", ""hc-cd-02"", ""hc-cd-03""]",dept-compliance-hc,0,0
+SkillWeave,"[""hc-tp-01"", ""hc-tp-04"", ""hc-mr-01"", ""hc-mr-03""]",dept-treatment,1,0
+SkillWeave,"[""fs-ra-04"", ""fs-ra-02"", ""fs-pa-03"", ""fs-pa-04""]",dept-risk,0,0

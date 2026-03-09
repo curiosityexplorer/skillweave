@@ -1,0 +1,30 @@
+{
+  "2": {
+    "chain_length": 2,
+    "discovery_ms": 0.0,
+    "negotiation_ms": 0.0,
+    "contracting_ms": 0.0,
+    "total_overhead_ms": 0.1
+  },
+  "4": {
+    "chain_length": 4,
+    "discovery_ms": 0.0,
+    "negotiation_ms": 0.0,
+    "contracting_ms": 0.0,
+    "total_overhead_ms": 0.1
+  },
+  "6": {
+    "chain_length": 6,
+    "discovery_ms": 0.0,
+    "negotiation_ms": 0.0,
+    "contracting_ms": 0.0,
+    "total_overhead_ms": 0.1
+  },
+  "9": {
+    "chain_length": 9,
+    "discovery_ms": 0.0,
+    "negotiation_ms": 0.1,
+    "contracting_ms": 0.0,
+    "total_overhead_ms": 0.1
+  }
+}

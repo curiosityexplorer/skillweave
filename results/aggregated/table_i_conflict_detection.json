@@ -1,0 +1,38 @@
+{
+  "type": {
+    "precision": 1.0,
+    "recall": 0.993,
+    "f1_score": 0.996,
+    "avg_detection_time_ms": 0.002,
+    "tp": 1073,
+    "fp": 0,
+    "fn": 8,
+    "tn": 0
+  },
+  "semantic": {
+    "precision": 0.45,
+    "recall": 0.6,
+    "f1_score": 0.514,
+    "avg_detection_time_ms": 0.001,
+    "tp": 18,
+    "fp": 22,
+    "fn": 12,
+    "tn": 1029
+  },
+  "policy": {
+    "precision": 0,
+    "recall": 0.0,
+    "f1_score": 0,
+    "avg_detection_time_ms": 0.001,
+    "tp": 0,
+    "fp": 0,
+    "fn": 2,
+    "tn": 1079
+  },
+  "combined": {
+    "precision": 0.98,
+    "recall": 0.98,
+    "f1_score": 0.98,
+    "avg_detection_time_ms": 0.001
+  }
+}
