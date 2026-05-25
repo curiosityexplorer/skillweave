@@ -1,0 +1,32 @@
+{
+  "47": {
+    "registry_size": 47,
+    "pairwise_combinations": 1081,
+    "exhaustive_analysis_ms_mean": 4.17,
+    "ms_per_pair": 0.00386
+  },
+  "94": {
+    "registry_size": 94,
+    "pairwise_combinations": 4371,
+    "exhaustive_analysis_ms_mean": 16.35,
+    "ms_per_pair": 0.00374
+  },
+  "188": {
+    "registry_size": 188,
+    "pairwise_combinations": 17578,
+    "exhaustive_analysis_ms_mean": 69.41,
+    "ms_per_pair": 0.00395
+  },
+  "376": {
+    "registry_size": 376,
+    "pairwise_combinations": 70500,
+    "exhaustive_analysis_ms_mean": 272.46,
+    "ms_per_pair": 0.00386
+  },
+  "752": {
+    "registry_size": 752,
+    "pairwise_combinations": 282376,
+    "exhaustive_analysis_ms_mean": 1177.12,
+    "ms_per_pair": 0.00417
+  }
+}

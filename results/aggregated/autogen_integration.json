@@ -1,0 +1,28 @@
+{
+  "metadata": {
+    "seed": 42,
+    "client": "openai",
+    "model": "gpt-4o-mini",
+    "autogen_version": "0.7.5",
+    "scenarios": 40,
+    "async_jitter": true,
+    "failure_rate": 0.15,
+    "note": "LLM-driven run: real model agents proposed compositions."
+  },
+  "autogen_native": {
+    "config": "AUTOGEN_NATIVE",
+    "scenarios": 40,
+    "execution_success_rate": 82.5,
+    "compliance_violation_rate": 92.5,
+    "blocked_unsafe": 0,
+    "mean_gate_latency_ms": 0.0
+  },
+  "autogen_skillweave": {
+    "config": "AUTOGEN_SKILLWEAVE",
+    "scenarios": 40,
+    "execution_success_rate": 62.5,
+    "compliance_violation_rate": 0.0,
+    "blocked_unsafe": 14,
+    "mean_gate_latency_ms": 0.1096
+  }
+}

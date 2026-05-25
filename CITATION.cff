@@ -1,0 +1,28 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "SkillWeave: A Semantic Composition Framework for Multi-Agent Skill Orchestration in Enterprise Environments"
+authors:
+  - family-names: "Acharya"
+    given-names: "Vivek"
+    orcid: "https://orcid.org/0009-0002-0860-9462"
+    affiliation: "Independent Researcher, Dallas, TX, USA"
+repository-code: "https://github.com/curiosityexplorer/skillweave"
+license: Apache-2.0
+version: "0.1.0"
+date-released: "2026-03-09"
+keywords:
+  - multi-agent systems
+  - skill composition
+  - enterprise AI governance
+  - agentic AI
+  - orchestration protocols
+preferred-citation:
+  type: article
+  title: "SkillWeave: A Semantic Composition Framework for Multi-Agent Skill Orchestration in Enterprise Environments"
+  authors:
+    - family-names: "Acharya"
+      given-names: "Vivek"
+      orcid: "https://orcid.org/0009-0002-0860-9462"
+      affiliation: "Independent Researcher, Dallas, TX, USA"
+  journal: "IEEE Transactions on Services Computing (under review)"
+  year: 2026

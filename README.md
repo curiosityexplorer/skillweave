@@ -3,7 +3,7 @@
 [![Python 3.9+](https://img.shields.io/badge/python-3.9+-blue.svg)](https://www.python.org/downloads/)
 
 > **Paper**: *SkillWeave: A Semantic Composition Framework for Multi-Agent Skill Orchestration in Enterprise Environments*
-> **Author**: Vivek Acharya (Boston University) — [vacharya@bu.edu](mailto:vacharya@bu.edu) — ORCID: [0009-0002-0860-9462](https://orcid.org/0009-0002-0860-9462)
+> **Author**: Vivek Acharya (Independent Researcher, Dallas, TX, USA) — [vacharya@bu.edu](mailto:vacharya@bu.edu) — ORCID: [0009-0002-0860-9462](https://orcid.org/0009-0002-0860-9462)
 > **Target Venue**: IEEE Transactions on Services Computing
 
 ---
@@ -81,6 +81,23 @@ python experiments/run_experiments.py --hypothesis H3  # Policy violations
 python experiments/run_experiments.py --hypothesis H4  # End-to-end reliability
 ```
 
+### Revision Experiments (IEEE TSC Major Revision)
+
+Two additional harnesses were added during revision; see
+`experiments/README_REVISION.md` for full details.
+
+```
+# Scalability sweep: SSCA reasoning cost vs. chain length and registry size
+python experiments/run_scalability.py --seed 42
+
+# Real multi-agent framework validation (AutoGen + LLM-driven agents)
+#   scripted mode (no API key, validates wiring):
+python experiments/run_autogen_integration.py --client scripted --seed 42 --scenarios 40
+#   real LLM mode (requires OPENAI_API_KEY or ANTHROPIC_API_KEY):
+python experiments/run_autogen_integration.py --client openai --model gpt-4o-mini \
+    --seed 42 --scenarios 40 --async-jitter --failure-rate 0.15
+```
+
 ### Docker
 
 ```bash
@@ -99,7 +116,7 @@ docker run -v $(pwd)/results:/app/results skillweave
 | Total Agents | 12 (6 Financial Services, 6 Healthcare) |
 | Total Skills | 47 (24 Financial, 23 Healthcare) |
 | Pairwise Compositions | 1,081 |
-| Expert Scenarios | 50 |
+| Expert Scenarios | 40 |
 | Random Seed | 42 |
 | Statistical Test | Welch's t-test (α = 0.05) |
 
