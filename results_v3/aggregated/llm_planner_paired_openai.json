@@ -1,0 +1,28 @@
+{
+  "metadata": {
+    "client": "openai",
+    "model": "gpt-4o-mini",
+    "seed": 42,
+    "paired": true,
+    "execution": "none (gate decisions only)",
+    "note": "LLM-planned proposals"
+  },
+  "summary": {
+    "proposals": 40,
+    "fallback": 0,
+    "identical_to_scenario": 32,
+    "admitted": 25,
+    "admitted_with_obligations": 12,
+    "blocked": 15,
+    "blocked_T3": 8,
+    "unsafe_admitted_by_M0": 15,
+    "unsafe_admitted_by_M1": 15,
+    "unsafe_admitted_by_M2": 12,
+    "unsafe_admitted_by_M3": 2,
+    "unsafe_admitted_by_M4": 12,
+    "admitted_with_conflicts_for_negotiation": 3,
+    "blocked_T2": 13,
+    "unsafe_admitted_by_M5": 4,
+    "mean_gate_latency_ms": 0.0761
+  }
+}
