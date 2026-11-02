@@ -1,0 +1,696 @@
+{
+  "corpus_sizes": {
+    "pairs": 6486,
+    "triples": 291870,
+    "expert": 40
+  },
+  "unsafe_counts": {
+    "pairs": 4906,
+    "triples": 274534,
+    "expert": 13
+  },
+  "prevalence_by_clause": {
+    "pairs": {
+      "V4-flow": 4728,
+      "V6-gdpr-pl": 1182,
+      "V2-level": 182,
+      "adv-semantic": 228,
+      "V6-sox-sod": 24,
+      "V3-privilege": 138,
+      "V6-hipaa-mn": 1260
+    },
+    "triples": {
+      "V4-flow": 270468,
+      "V6-gdpr-pl": 84600,
+      "V2-level": 12150,
+      "adv-semantic": 19338,
+      "V6-sox-sod": 3168,
+      "V3-privilege": 17064,
+      "V6-hipaa-mn": 113400
+    },
+    "expert": {
+      "V6-sox-sod": 2,
+      "adv-semantic": 7,
+      "V4-flow": 11,
+      "V6-gdpr-pl": 5,
+      "V3-privilege": 4,
+      "V2-level": 3,
+      "V6-hipaa-mn": 3
+    }
+  },
+  "prevalence_by_threat": {
+    "pairs": {
+      "T2": 4824,
+      "T3": 308
+    },
+    "triples": {
+      "T2": 272724,
+      "T3": 27804
+    },
+    "expert": {
+      "T3": 8,
+      "T2": 11
+    }
+  },
+  "coverage": {
+    "M0": {
+      "T1": {
+        "flagged": 0,
+        "total": 0,
+        "rate": null
+      },
+      "T2": {
+        "flagged": 0,
+        "total": 277559,
+        "rate": 0.0
+      },
+      "T3": {
+        "flagged": 0,
+        "total": 28120,
+        "rate": 0.0
+      }
+    },
+    "M1": {
+      "T1": {
+        "flagged": 0,
+        "total": 0,
+        "rate": null
+      },
+      "T2": {
+        "flagged": 0,
+        "total": 277559,
+        "rate": 0.0
+      },
+      "T3": {
+        "flagged": 0,
+        "total": 28120,
+        "rate": 0.0
+      }
+    },
+    "M2": {
+      "T1": {
+        "flagged": 0,
+        "total": 0,
+        "rate": null
+      },
+      "T2": {
+        "flagged": 0,
+        "total": 277559,
+        "rate": 0.0
+      },
+      "T3": {
+        "flagged": 12335,
+        "total": 28120,
+        "rate": 0.4387
+      }
+    },
+    "M3": {
+      "T1": {
+        "flagged": 0,
+        "total": 0,
+        "rate": null
+      },
+      "T2": {
+        "flagged": 276455,
+        "total": 277559,
+        "rate": 0.996
+      },
+      "T3": {
+        "flagged": 12335,
+        "total": 28120,
+        "rate": 0.4387
+      }
+    },
+    "M4": {
+      "T1": {
+        "flagged": 0,
+        "total": 0,
+        "rate": null
+      },
+      "T2": {
+        "flagged": 0,
+        "total": 277559,
+        "rate": 0.0
+      },
+      "T3": {
+        "flagged": 12335,
+        "total": 28120,
+        "rate": 0.4387
+      }
+    },
+    "M5": {
+      "T1": {
+        "flagged": 0,
+        "total": 0,
+        "rate": null
+      },
+      "T2": {
+        "flagged": 85787,
+        "total": 277559,
+        "rate": 0.3091
+      },
+      "T3": {
+        "flagged": 28120,
+        "total": 28120,
+        "rate": 1.0
+      }
+    },
+    "SW": {
+      "T1": {
+        "flagged": 0,
+        "total": 0,
+        "rate": null
+      },
+      "T2": {
+        "flagged": 277559,
+        "total": 277559,
+        "rate": 1.0
+      },
+      "T3": {
+        "flagged": 28120,
+        "total": 28120,
+        "rate": 1.0
+      }
+    }
+  },
+  "coverage_by_clause": {
+    "M0": {
+      "V2-level": {
+        "flagged": 0,
+        "total": 12335,
+        "rate": 0.0
+      },
+      "V3-privilege": {
+        "flagged": 0,
+        "total": 17206,
+        "rate": 0.0
+      },
+      "V4-flow": {
+        "flagged": 0,
+        "total": 275207,
+        "rate": 0.0
+      },
+      "V6-gdpr-pl": {
+        "flagged": 0,
+        "total": 85787,
+        "rate": 0.0
+      },
+      "V6-hipaa-mn": {
+        "flagged": 0,
+        "total": 114663,
+        "rate": 0.0
+      },
+      "V6-sox-sod": {
+        "flagged": 0,
+        "total": 3194,
+        "rate": 0.0
+      }
+    },
+    "M1": {
+      "V2-level": {
+        "flagged": 0,
+        "total": 12335,
+        "rate": 0.0
+      },
+      "V3-privilege": {
+        "flagged": 0,
+        "total": 17206,
+        "rate": 0.0
+      },
+      "V4-flow": {
+        "flagged": 0,
+        "total": 275207,
+        "rate": 0.0
+      },
+      "V6-gdpr-pl": {
+        "flagged": 0,
+        "total": 85787,
+        "rate": 0.0
+      },
+      "V6-hipaa-mn": {
+        "flagged": 0,
+        "total": 114663,
+        "rate": 0.0
+      },
+      "V6-sox-sod": {
+        "flagged": 0,
+        "total": 3194,
+        "rate": 0.0
+      }
+    },
+    "M2": {
+      "V2-level": {
+        "flagged": 12335,
+        "total": 12335,
+        "rate": 1.0
+      },
+      "V3-privilege": {
+        "flagged": 0,
+        "total": 17206,
+        "rate": 0.0
+      },
+      "V4-flow": {
+        "flagged": 0,
+        "total": 275207,
+        "rate": 0.0
+      },
+      "V6-gdpr-pl": {
+        "flagged": 0,
+        "total": 85787,
+        "rate": 0.0
+      },
+      "V6-hipaa-mn": {
+        "flagged": 0,
+        "total": 114663,
+        "rate": 0.0
+      },
+      "V6-sox-sod": {
+        "flagged": 0,
+        "total": 3194,
+        "rate": 0.0
+      }
+    },
+    "M3": {
+      "V2-level": {
+        "flagged": 12335,
+        "total": 12335,
+        "rate": 1.0
+      },
+      "V3-privilege": {
+        "flagged": 0,
+        "total": 17206,
+        "rate": 0.0
+      },
+      "V4-flow": {
+        "flagged": 275207,
+        "total": 275207,
+        "rate": 1.0
+      },
+      "V6-gdpr-pl": {
+        "flagged": 53782,
+        "total": 85787,
+        "rate": 0.6269
+      },
+      "V6-hipaa-mn": {
+        "flagged": 114663,
+        "total": 114663,
+        "rate": 1.0
+      },
+      "V6-sox-sod": {
+        "flagged": 0,
+        "total": 3194,
+        "rate": 0.0
+      }
+    },
+    "M4": {
+      "V2-level": {
+        "flagged": 12335,
+        "total": 12335,
+        "rate": 1.0
+      },
+      "V3-privilege": {
+        "flagged": 0,
+        "total": 17206,
+        "rate": 0.0
+      },
+      "V4-flow": {
+        "flagged": 0,
+        "total": 275207,
+        "rate": 0.0
+      },
+      "V6-gdpr-pl": {
+        "flagged": 0,
+        "total": 85787,
+        "rate": 0.0
+      },
+      "V6-hipaa-mn": {
+        "flagged": 0,
+        "total": 114663,
+        "rate": 0.0
+      },
+      "V6-sox-sod": {
+        "flagged": 0,
+        "total": 3194,
+        "rate": 0.0
+      }
+    },
+    "M5": {
+      "V2-level": {
+        "flagged": 12335,
+        "total": 12335,
+        "rate": 1.0
+      },
+      "V3-privilege": {
+        "flagged": 17206,
+        "total": 17206,
+        "rate": 1.0
+      },
+      "V4-flow": {
+        "flagged": 0,
+        "total": 275207,
+        "rate": 0.0
+      },
+      "V6-gdpr-pl": {
+        "flagged": 85787,
+        "total": 85787,
+        "rate": 1.0
+      },
+      "V6-hipaa-mn": {
+        "flagged": 0,
+        "total": 114663,
+        "rate": 0.0
+      },
+      "V6-sox-sod": {
+        "flagged": 3194,
+        "total": 3194,
+        "rate": 1.0
+      }
+    },
+    "SW": {
+      "V2-level": {
+        "flagged": 12335,
+        "total": 12335,
+        "rate": 1.0
+      },
+      "V3-privilege": {
+        "flagged": 17206,
+        "total": 17206,
+        "rate": 1.0
+      },
+      "V4-flow": {
+        "flagged": 275207,
+        "total": 275207,
+        "rate": 1.0
+      },
+      "V6-gdpr-pl": {
+        "flagged": 85787,
+        "total": 85787,
+        "rate": 1.0
+      },
+      "V6-hipaa-mn": {
+        "flagged": 114663,
+        "total": 114663,
+        "rate": 1.0
+      },
+      "V6-sox-sod": {
+        "flagged": 3194,
+        "total": 3194,
+        "rate": 1.0
+      }
+    }
+  },
+  "conflicts_T1": {
+    "totals": {
+      "semantic-advisory": 19573,
+      "policy-disagreement": 1615
+    },
+    "seen_by": {
+      "M0": {},
+      "M1": {},
+      "M2": {},
+      "M3": {},
+      "M4": {
+        "policy-disagreement": 1615
+      },
+      "M5": {},
+      "SW": {
+        "semantic-advisory": 19573,
+        "policy-disagreement": 1615
+      }
+    }
+  },
+  "unsafe_admitted": {
+    "M0": {
+      "count": 279453,
+      "rate_over_unsafe": 1.0
+    },
+    "M1": {
+      "count": 279453,
+      "rate_over_unsafe": 1.0
+    },
+    "M2": {
+      "count": 267118,
+      "rate_over_unsafe": 0.9559
+    },
+    "M3": {
+      "count": 2118,
+      "rate_over_unsafe": 0.0076
+    },
+    "M4": {
+      "count": 267118,
+      "rate_over_unsafe": 0.9559
+    },
+    "M5": {
+      "count": 174216,
+      "rate_over_unsafe": 0.6234
+    },
+    "SW": {
+      "count": 0,
+      "rate_over_unsafe": 0.0
+    }
+  },
+  "safe_blocked": {
+    "M0": 0,
+    "M1": 0,
+    "M2": 0,
+    "M3": 0,
+    "M4": 0,
+    "M5": 0,
+    "SW": 0
+  },
+  "decomposability_witnesses": {
+    "count": 267118,
+    "examples": [
+      [
+        "dept-portfolio",
+        [
+          "fs-pa-01",
+          "fs-rc-01"
+        ],
+        [
+          "V4-flow"
+        ]
+      ],
+      [
+        "div-finance",
+        [
+          "fs-pa-01",
+          "fs-rc-01"
+        ],
+        [
+          "V4-flow"
+        ]
+      ],
+      [
+        "enterprise",
+        [
+          "fs-pa-01",
+          "fs-rc-01"
+        ],
+        [
+          "V4-flow"
+        ]
+      ],
+      [
+        "dept-portfolio",
+        [
+          "fs-pa-01",
+          "fs-rc-02"
+        ],
+        [
+          "V4-flow",
+          "V6-gdpr-pl"
+        ]
+      ],
+      [
+        "div-finance",
+        [
+          "fs-pa-01",
+          "fs-rc-02"
+        ],
+        [
+          "V4-flow",
+          "V6-gdpr-pl"
+        ]
+      ],
+      [
+        "enterprise",
+        [
+          "fs-pa-01",
+          "fs-rc-02"
+        ],
+        [
+          "V4-flow",
+          "V6-gdpr-pl"
+        ]
+      ],
+      [
+        "dept-portfolio",
+        [
+          "fs-pa-01",
+          "fs-rc-03"
+        ],
+        [
+          "V4-flow"
+        ]
+      ],
+      [
+        "div-finance",
+        [
+          "fs-pa-01",
+          "fs-rc-03"
+        ],
+        [
+          "V4-flow"
+        ]
+      ],
+      [
+        "enterprise",
+        [
+          "fs-pa-01",
+          "fs-rc-03"
+        ],
+        [
+          "V4-flow"
+        ]
+      ],
+      [
+        "dept-portfolio",
+        [
+          "fs-pa-01",
+          "fs-rc-04"
+        ],
+        [
+          "V4-flow"
+        ]
+      ],
+      [
+        "div-finance",
+        [
+          "fs-pa-01",
+          "fs-rc-04"
+        ],
+        [
+          "V4-flow"
+        ]
+      ],
+      [
+        "enterprise",
+        [
+          "fs-pa-01",
+          "fs-rc-04"
+        ],
+        [
+          "V4-flow"
+        ]
+      ]
+    ]
+  },
+  "theorem_checks": {
+    "admitted_but_monitor_rejected": 0,
+    "static_vs_monitor_mismatch": 0,
+    "evaluations": 298396
+  },
+  "policy_disagreements_total": 1615,
+  "obligations_total": {
+    "require_audit": 129425,
+    "require_encryption": 101564,
+    "require_approval": 37000
+  },
+  "by_requester_level": {
+    "3": {
+      "n": 99458,
+      "unsafe": 93474
+    },
+    "4": {
+      "n": 99484,
+      "unsafe": 92993
+    },
+    "5": {
+      "n": 99454,
+      "unsafe": 92986
+    }
+  },
+  "latency_inline_by_chain_len": {
+    "2": {
+      "mean_ms": 0.0188,
+      "p95_ms": 0.0271,
+      "n": 6506
+    },
+    "3": {
+      "mean_ms": 0.0256,
+      "p95_ms": 0.0392,
+      "n": 291885
+    },
+    "4": {
+      "mean_ms": 0.0311,
+      "p95_ms": 0.0282,
+      "n": 2
+    },
+    "5": {
+      "mean_ms": 0.0359,
+      "p95_ms": 0.0371,
+      "n": 3
+    }
+  },
+  "latency_bench": {
+    "2": {
+      "mean_ms": 0.0156,
+      "p95_ms": 0.0218,
+      "max_ms": 0.079,
+      "reps": 200
+    },
+    "3": {
+      "mean_ms": 0.0228,
+      "p95_ms": 0.0314,
+      "max_ms": 0.0487,
+      "reps": 200
+    },
+    "4": {
+      "mean_ms": 0.0301,
+      "p95_ms": 0.0391,
+      "max_ms": 0.055,
+      "reps": 200
+    },
+    "6": {
+      "mean_ms": 0.0442,
+      "p95_ms": 0.0628,
+      "max_ms": 0.0903,
+      "reps": 200
+    },
+    "9": {
+      "mean_ms": 0.0642,
+      "p95_ms": 0.0879,
+      "max_ms": 0.15,
+      "reps": 200
+    }
+  },
+  "mutual_exclusion": [
+    [
+      "write:trades",
+      "write:compliance_findings"
+    ],
+    [
+      "write:trades",
+      "read:client_data"
+    ],
+    [
+      "write:trades",
+      "read:audit_logs"
+    ],
+    [
+      "write:patient_records",
+      "write:claims"
+    ],
+    [
+      "write:care_plans",
+      "write:claims"
+    ],
+    [
+      "write:deidentified_data",
+      "read:insurance_records"
+    ]
+  ],
+  "audit_chain_verified": true,
+  "audit_entries": 298396
+}

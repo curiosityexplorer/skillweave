@@ -1,34 +1,11 @@
 #!/bin/bash
-# SkillWeave Experimental Harness — Run all experiments
-# Usage: ./run_experiments.sh [--seed 42]
-
+# SkillWeave v3 experiments — deterministic, nothing simulated.
+# Usage: ./run_experiments.sh
 set -e
-
-SEED=${1:-42}
-if [ "$1" = "--seed" ]; then
-    SEED=$2
-fi
-
-echo "============================================================"
-echo "SkillWeave Experimental Harness"
-echo "Seed: $SEED"
-echo "============================================================"
-
 cd "$(dirname "$0")"
-
-# Run experiments
-python experiments/run_experiments.py --seed "$SEED"
-
-echo ""
-echo "============================================================"
-echo "Generating paper tables..."
-echo "============================================================"
-
-python experiments/generate_tables.py
-
-echo ""
-echo "============================================================"
-echo "Results saved to results/"
-echo "  Raw data:       results/raw/"
-echo "  Aggregated:     results/aggregated/"
-echo "============================================================"
+echo "== threat coverage (exhaustive 2-/3-chain corpus + expert scenarios) =="
+python experiments/run_threat_coverage.py --out results_v3
+echo "== scalability (chain length, registry size) =="
+python experiments/run_scalability_v3.py --out results_v3
+echo "Results: results_v3/aggregated/*.json, results_v3/raw/*.csv"
+echo "LLM-planner study (needs OPENAI_API_KEY): python experiments/run_llm_planner_paired.py --client openai --model gpt-4o-mini --seed 42 --out results_v3"
