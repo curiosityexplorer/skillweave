@@ -1,0 +1,41 @@
+scenario,domain,principal,chain,designed_valid,admitted,clauses,advisory_semantic,disagreements,obligations
+Portfolio Review,financial_services,div-finance,fs-pa-01 > fs-pa-02 > fs-pa-03,True,True,,0,0,require_audit
+Portfolio Full Analysis,financial_services,div-finance,fs-pa-01 > fs-pa-02 > fs-pa-04,True,True,,0,0,
+Risk Assessment Chain,financial_services,div-finance,fs-ra-01 > fs-ra-02,True,True,,0,0,require_audit
+Compliance Reporting,financial_services,div-finance,fs-rc-01 > fs-rc-03,True,False,V6-sox-sod,0,0,require_audit
+AML Pipeline,financial_services,div-finance,fs-rc-02 > fs-rc-04,True,True,,0,0,require_encryption
+Audit Full Chain,financial_services,div-finance,fs-ar-01 > fs-ar-02 > fs-ar-03 > fs-ar-04,True,True,,0,0,require_audit
+Client Onboarding,financial_services,div-finance,fs-ca-01 > fs-ca-02 > fs-ca-03,True,True,,0,0,require_approval;require_encryption
+Trade Lifecycle,financial_services,div-finance,fs-te-03 > fs-te-01 > fs-te-04,True,True,,2,1,require_approval;require_audit
+Risk + Stress,financial_services,div-finance,fs-ra-01 > fs-ra-02 > fs-ra-04,True,True,,0,0,require_audit
+Counterparty Review,financial_services,div-finance,fs-ra-03 > fs-ra-04,True,True,,0,0,
+Patient Intake,healthcare,div-health,hc-mr-01 > hc-mr-02,True,True,,0,0,
+Clinical Assessment,healthcare,div-health,hc-cd-01 > hc-cd-02 > hc-cd-03,True,True,,0,0,
+Clinical Alerts,healthcare,div-health,hc-cd-01 > hc-cd-04,True,True,,0,0,
+Diagnostic Workup,healthcare,div-health,hc-da-01 > hc-da-03,True,True,,0,0,
+Treatment Selection,healthcare,div-health,hc-tp-01 > hc-tp-02 > hc-tp-03,True,True,,0,0,
+Insurance Full,healthcare,div-health,hc-iv-01 > hc-iv-02 > hc-iv-03 > hc-iv-04,True,True,,0,0,require_encryption
+HIPAA Audit,healthcare,div-health,hc-hc-01 > hc-hc-03 > hc-hc-04,True,True,,0,0,
+Records + Summary,healthcare,div-health,hc-mr-01 > hc-mr-02 > hc-mr-03,True,True,,0,0,
+De-ID Pipeline,healthcare,div-health,hc-hc-01 > hc-hc-02,True,True,,0,0,
+Imaging + Pathology,healthcare,div-health,hc-da-02 > hc-da-04,True,True,,0,0,
+Portfolio→Risk (cross-dept),financial_services,div-finance,fs-pa-01 > fs-pa-02 > fs-ra-01,False,True,,0,0,require_audit
+Risk→Compliance (cross-dept),financial_services,div-finance,fs-ra-01 > fs-ra-02 > fs-rc-01,False,True,,0,0,require_audit
+Advisory→Audit (cross-dept),financial_services,div-finance,fs-ca-01 > fs-ca-04 > fs-ar-01,False,False,V4-flow;V6-gdpr-pl,0,0,require_approval;require_audit;require_encryption
+Full Finance Pipeline,financial_services,enterprise,fs-pa-01 > fs-pa-02 > fs-ra-01 > fs-rc-01 > fs-ar-01,False,True,,0,0,require_audit
+Clinical→Treatment (cross-dept),healthcare,div-health,hc-cd-01 > hc-da-03 > hc-tp-01,False,True,,0,0,
+Diagnostics→Treatment→Records,healthcare,div-health,hc-da-01 > hc-da-03 > hc-tp-01 > hc-tp-03 > hc-mr-03,False,False,V4-flow,0,0,
+Full Patient Journey,healthcare,enterprise,hc-mr-01 > hc-cd-01 > hc-da-01 > hc-tp-01 > hc-tp-03,False,True,,0,0,
+Records→Compliance,healthcare,div-health,hc-mr-01 > hc-mr-02 > hc-hc-01,False,True,,0,0,
+Aggressive Trade + Risk Mgmt,financial_services,div-finance,fs-te-02 > fs-ra-01,False,True,,2,0,require_audit
+Auto-Trade + Compliance,financial_services,div-finance,fs-te-01 > fs-rc-01,False,False,V3-privilege,1,0,require_audit
+Revenue + Compliance,financial_services,div-finance,fs-ca-04 > fs-rc-01,False,False,V4-flow;V6-sox-sod,0,0,require_audit
+Algo Trade + Thorough Audit,financial_services,div-finance,fs-te-02 > fs-ar-01,False,False,V3-privilege;V4-flow,0,0,require_audit
+Privacy + Sharing,healthcare,div-health,hc-cd-01 > hc-tp-04,False,True,,1,0,
+De-ID + Enrichment,healthcare,div-health,hc-hc-02 > hc-iv-01,False,False,V3-privilege;V4-flow;V6-gdpr-pl,1,0,require_encryption
+Team→Trade (authority esc.),financial_services,dept-portfolio,fs-pa-04 > fs-te-01,False,False,V2-level;V4-flow,1,0,require_audit
+Portfolio dept trading,financial_services,dept-portfolio,fs-pa-01 > fs-te-01 > fs-te-02,False,False,V2-level;V4-flow,0,0,require_audit
+Low-auth compliance bypass,financial_services,dept-advisory,fs-ca-01 > fs-te-01,False,False,V2-level;V3-privilege;V4-flow;V6-gdpr-pl,0,0,require_approval;require_audit;require_encryption
+PHI to Insurance leak,healthcare,dept-insurance,hc-cd-01 > hc-iv-01,False,False,V4-flow;V6-gdpr-pl;V6-hipaa-mn,1,0,require_encryption
+Records to billing,healthcare,dept-insurance,hc-mr-01 > hc-iv-03,False,False,V4-flow;V6-hipaa-mn,0,0,
+Treatment to claims,healthcare,dept-insurance,hc-tp-01 > hc-iv-04,False,False,V4-flow;V6-gdpr-pl;V6-hipaa-mn,0,0,require_encryption

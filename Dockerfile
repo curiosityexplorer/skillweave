@@ -11,7 +11,7 @@ COPY requirements.txt .
 RUN pip install --no-cache-dir -r requirements.txt 2>/dev/null || true
 
 # Create results directory
-RUN mkdir -p results/raw results/aggregated
+RUN mkdir -p results_v3/raw results_v3/aggregated
 
 # Default: run all experiments
-CMD ["python", "experiments/run_experiments.py", "--seed", "42"]
+CMD ["sh", "-c", "python experiments/run_threat_coverage.py --out results_v3 && python experiments/run_scalability_v3.py --out results_v3"]
