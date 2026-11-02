@@ -277,12 +277,12 @@ def main():
         "audit_chain_verified": audit.verify(),
         "audit_entries": len(audit.entries),
     }
-    with open(out / "aggregated" / "threat_coverage.json", "w") as f:
+    with open(out / "aggregated" / "threat_coverage.json", "w", encoding="utf-8") as f:
         json.dump(agg, f, indent=2)
-    with open(out / "raw" / "threat_coverage_pairs_expert_raw.csv", "w", newline="") as f:
+    with open(out / "raw" / "threat_coverage_pairs_expert_raw.csv", "w", newline="", encoding="utf-8") as f:
         w = csv.DictWriter(f, fieldnames=list(rows[0].keys()))
         w.writeheader(); w.writerows(rows)
-    with open(out / "raw" / "expert_scenarios_v3.csv", "w", newline="") as f:
+    with open(out / "raw" / "expert_scenarios_v3.csv", "w", newline="", encoding="utf-8") as f:
         w = csv.DictWriter(f, fieldnames=list(expert_rows[0].keys()))
         w.writeheader(); w.writerows(expert_rows)
     print(json.dumps({k: agg[k] for k in ("corpus_sizes", "unsafe_counts", "prevalence_by_threat",

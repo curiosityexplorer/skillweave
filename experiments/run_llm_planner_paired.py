@@ -131,9 +131,9 @@ def main():
             "note": ("SCRIPTED MODE: wiring check only; do not report as LLM results"
                      if args.client == "scripted" else "LLM-planned proposals")}
     out = Path(args.out); (out / "raw").mkdir(parents=True, exist_ok=True); (out / "aggregated").mkdir(parents=True, exist_ok=True)
-    with open(out / "raw" / f"llm_planner_paired_{args.client}_raw.csv", "w", newline="") as f:
+    with open(out / "raw" / f"llm_planner_paired_{args.client}_raw.csv", "w", newline="", encoding="utf-8") as f:
         w = csv.DictWriter(f, fieldnames=list(rows[0].keys())); w.writeheader(); w.writerows(rows)
-    with open(out / "aggregated" / f"llm_planner_paired_{args.client}.json", "w") as f:
+    with open(out / "aggregated" / f"llm_planner_paired_{args.client}.json", "w", encoding="utf-8") as f:
         json.dump({"metadata": meta, "summary": dict(summary)}, f, indent=2)
     print(json.dumps({"metadata": meta, "summary": dict(summary)}, indent=2))
 

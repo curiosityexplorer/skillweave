@@ -69,7 +69,7 @@ def main():
 
     out = Path(args.out) / "aggregated"
     out.mkdir(parents=True, exist_ok=True)
-    with open(out / "scalability_v3.json", "w") as f:
+    with open(out / "scalability_v3.json", "w", encoding="utf-8") as f:
         json.dump({"chain": chain_tbl, "registry": reg_tbl,
                    "machine": "2 vCPU Intel Xeon 2.10GHz, Python 3.13"}, f, indent=2)
 
